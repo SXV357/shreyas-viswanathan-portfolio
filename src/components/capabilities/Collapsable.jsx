@@ -12,6 +12,7 @@ function Collapsable({ children, id, breakpointId, initialVisibleItems = 0, item
 
     const totalItems = children?.length
     const canExpand = visibleItems && totalItems && visibleItems < totalItems
+    const canCollapse = !canExpand && totalItems && visibleItems > initialVisibleItems
 
     /** @listens children **/
     useEffect(() => {
@@ -31,6 +32,10 @@ function Collapsable({ children, id, breakpointId, initialVisibleItems = 0, item
     const _expand = () => {
         const increment = itemsPerStep || totalItems
         _updateVisibleItemsCount(visibleItems + increment)
+    }
+
+    const _collapse = () => {
+        _updateVisibleItemsCount(initialVisibleItems)
     }
 
     return (
@@ -55,6 +60,16 @@ function Collapsable({ children, id, breakpointId, initialVisibleItems = 0, item
                                     label={language.getString("see_more")}
                                     tooltip={language.getString("see_more")}
                                     onClick={_expand}/>
+                </div>
+            )}
+
+            {Boolean(canCollapse) && (
+                <div className={`collapsable-menu`}>
+                    <StandardButton variant={`contrast`}
+                                    faIcon={`fa-solid fa-caret-up`}
+                                    label={language.getString("see_less")}
+                                    tooltip={language.getString("see_less")}
+                                    onClick={_collapse}/>
                 </div>
             )}
         </div>
