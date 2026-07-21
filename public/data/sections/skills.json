@@ -443,24 +443,6 @@
                             "title": "SDLC"
                         }
                     }
-                },
-                {
-                    "id": 22,
-                    "img": "",
-                    "faIcon": "fa-brands fa-jira",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#0052CC"
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Jira"
-                        }
-                    }
                 }
             ]
         },
@@ -641,24 +623,6 @@
                             "title": "x86-64 Assembly"
                         }
                     }
-                },
-                {
-                    "id": 10,
-                    "img": "",
-                    "faIcon": "fa-brands fa-windows",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#0078D6"
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Windows"
-                        }
-                    }
                 }
             ]
         },
@@ -693,33 +657,6 @@
                     "locales": {
                         "en": {
                             "title": "PyTorch"
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "img": "",
-                    "faIcon": "fa-solid fa-eye",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Computer Vision"
-                        },
-                        "fr": {
-                            "title": "Vision par Ordinateur"
-                        },
-                        "hi": {
-                            "title": "कंप्यूटर विज़न"
-                        },
-                        "ta": {
-                            "title": "கம்ப்யூட்டர் விஷன்"
                         }
                     }
                 },
@@ -855,7 +792,8 @@
                     "faIcon": "fa-solid fa-table",
                     "faIconColors": {
                         "bg": "",
-                        "fill": "#150458"
+                        "fill": "#E70488",
+                        "fillLight": "#150458"
                     },
                     "date": {
                         "year": null,

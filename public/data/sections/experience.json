@@ -40,45 +40,45 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-sapphire-studio.png",
+                    "img": "images/pictures/timeline-place-knudsen.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 3},
-                    "dateEnd": {"year": 2018, "month": 6},
+                    "dateStart": {"year": 2023, "month": 8},
+                    "dateEnd": {"year": 2024, "month": 4},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "title": "Data and Software Engineering Intern",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "Knudsen Institute",
+                            "text": "Partnered with a 5-person team evaluating manufacturing capacity for an ICE-to-EV production transition, building Python web scrapers to pull process and capability data from 8 automotive part manufacturers, then fine-tuning DistilBERT-based NER models to categorize CNC machining and die-casting capabilities with 98% average accuracy.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
-                        },
-                        "es": {
-                            "title": "Desarrollador {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
-                            "list": [],
-                            "tags": []
+                            "tags": ["Scikit-Learn", "Python", "BeautifulSoup", "HuggingFace", "JupyterLab", "Fine-Tuning"]
                         },
                         "fr": {
-                            "title": "Développeur {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                            "title": "Stagiaire en Ingénierie des Données et Logicielle",
+                            "province": "West Lafayette, IN",
+                            "country": "États-Unis",
+                            "institution": "Knudsen Institute",
+                            "text": "Collaboré avec une équipe de 5 personnes pour évaluer la capacité de fabrication lors d'une transition de production thermique vers l'électrique, en développant des scripts de web scraping en Python pour extraire des données de procédés et de capacités auprès de 8 fabricants de pièces automobiles, puis en affinant des modèles NER basés sur DistilBERT pour catégoriser les capacités d'usinage CNC et de moulage sous pression avec une précision moyenne de 98 %.",
                             "list": [],
                             "tags": []
                         },
-                        "ko": {
-                            "title": "{{백엔드}} 개발자",
-                            "province": "토론토",
-                            "country": "캐나다",
-                            "institution": "Sapphire Studio",
-                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
+                        "hi": {
+                            "title": "डेटा और सॉफ्टवेयर इंजीनियरिंग इंटर्न",
+                            "province": "West Lafayette, IN",
+                            "country": "अमेरिका",
+                            "institution": "Knudsen Institute",
+                            "text": "5 सदस्यों की टीम के साथ मिलकर ICE से EV उत्पादन में बदलाव के लिए विनिर्माण क्षमता का मूल्यांकन किया, 8 ऑटोमोटिव पार्ट्स निर्माताओं से प्रक्रिया और क्षमता डेटा निकालने के लिए Python वेब स्क्रैपर बनाए, फिर CNC मशीनिंग और डाई-कास्टिंग क्षमताओं को वर्गीकृत करने के लिए DistilBERT-आधारित NER मॉडल को 98% औसत सटीकता के साथ फाइन-ट्यून किया।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ta": {
+                            "title": "தரவு மற்றும் மென்பொருள் பொறியியல் பயிற்சியாளர்",
+                            "province": "West Lafayette, IN",
+                            "country": "அமெரிக்கா",
+                            "institution": "Knudsen Institute",
+                            "text": "5 பேர் கொண்ட குழுவுடன் இணைந்து ICE இலிருந்து EV உற்பத்திக்கு மாறுவதற்கான உற்பத்தி திறனை மதிப்பீடு செய்தேன், 8 வாகன பாகங்கள் உற்பத்தியாளர்களிடமிருந்து செயல்முறை மற்றும் திறன் தரவைப் பெற Python வெப் ஸ்க்ரேப்பர்களை உருவாக்கினேன், பின்னர் CNC இயந்திரமயமாக்கல் மற்றும் டை-காஸ்டிங் திறன்களை வகைப்படுத்த DistilBERT அடிப்படையிலான NER மாடல்களை 98% சராசரி துல்லியத்துடன் மெருகூட்டினேன்.",
                             "list": [],
                             "tags": []
                         }
@@ -86,45 +86,45 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-coursera.png",
+                    "img": "images/pictures/timeline-place-space-cow.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2018, "month": 6},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2024, "month": 6},
+                    "dateEnd": {"year": 2024, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "{{Full-Stack}} Engineer",
+                            "title": "Data Science & Backend Intern",
                             "province": "",
-                            "country": "Remote",
-                            "institution": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "country": "US",
+                            "institution": "Space Cow LLC",
+                            "text": "Built core LLM infrastructure for a startup's AI platform, including a session-based conversation history and token-tracking system supporting context windows from 4K to 2M tokens, an abstraction layer unifying 120+ models across 5+ providers for seamless switching, and a CLI-based RAG chatbot for document and website analysis across 8+ domains.",
                             "list": [],
-                            "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Coursera",
-                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
-                            "list": [],
-                            "tags": []
+                            "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         },
                         "fr": {
-                            "title": "Ingénieur {{Full-Stack}}",
+                            "title": "Stagiaire en Science des Données et Backend",
                             "province": "",
-                            "country": "Télétravail",
-                            "institution": "Coursera",
-                            "text": "Participation à l'amélioration du site web de Coursera en développant de nouvelles fonctionnalités et en optimisant l’expérience utilisateur, en utilisant des technologies frontend et backend pour assurer un fonctionnement fluide.",
+                            "country": "États-Unis",
+                            "institution": "Space Cow LLC",
+                            "text": "Développé l'infrastructure LLM principale pour la plateforme IA d'une startup, incluant un système de suivi d'historique de conversation par session et de jetons prenant en charge des fenêtres de contexte de 4K à 2M jetons, une couche d'abstraction unifiant plus de 120 modèles chez plus de 5 fournisseurs pour un changement fluide, et un chatbot RAG en ligne de commande pour l'analyse de documents et de sites web dans plus de 8 domaines.",
                             "list": [],
                             "tags": []
                         },
-                        "ko": {
-                            "title": "{{풀스택}} 엔지니어",
+                        "hi": {
+                            "title": "डेटा साइंस और बैकएंड इंटर्न",
                             "province": "",
-                            "country": "원격",
-                            "institution": "Coursera",
-                            "text": "Coursera 웹사이트의 기능을 향상시키기 위해 새로운 기능을 구현하고 사용자 경험을 개선하는 작업을 수행했으며, 프론트엔드와 백엔드 기술을 모두 활용하여 원활한 동작을 보장했습니다.",
+                            "country": "अमेरिका",
+                            "institution": "Space Cow LLC",
+                            "text": "एक स्टार्टअप के AI प्लेटफ़ॉर्म के लिए मुख्य LLM इंफ्रास्ट्रक्चर बनाया, जिसमें 4K से 2M टोकन तक के कॉन्टेक्स्ट विंडो का समर्थन करने वाला सेशन-आधारित बातचीत इतिहास और टोकन-ट्रैकिंग सिस्टम, 5+ प्रदाताओं में 120+ मॉडलों को एकीकृत करने वाली एब्स्ट्रैक्शन लेयर, और 8+ डोमेन में दस्तावेज़ और वेबसाइट विश्लेषण के लिए CLI-आधारित RAG चैटबॉट शामिल है।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ta": {
+                            "title": "தரவு அறிவியல் & பேக்எண்ட் பயிற்சியாளர்",
+                            "province": "",
+                            "country": "அமெரிக்கா",
+                            "institution": "Space Cow LLC",
+                            "text": "ஒரு ஸ்டார்ட்அப்பின் AI தளத்திற்கான முக்கிய LLM உள்கட்டமைப்பை உருவாக்கினேன், இதில் 4K முதல் 2M டோக்கன்கள் வரையிலான சூழல் சாளரங்களை ஆதரிக்கும் அமர்வு அடிப்படையிலான உரையாடல் வரலாறு மற்றும் டோக்கன்-கண்காணிப்பு அமைப்பு, 5+ வழங்குநர்களில் 120+ மாடல்களை ஒருங்கிணைக்கும் சுருக்க அடுக்கு, மற்றும் 8+ களங்களில் ஆவணம் மற்றும் இணையதள பகுப்பாய்வுக்கான CLI அடிப்படையிலான RAG chatbot ஆகியவை அடங்கும்.",
                             "list": [],
                             "tags": []
                         }
@@ -132,45 +132,45 @@
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-adobe.png",
+                    "img": "images/pictures/timeline-place-john-deere.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 12},
-                    "dateEnd": {"year": 2022, "month": 11},
+                    "dateStart": {"year": 2025, "month": 5},
+                    "dateEnd": {"year": 2025, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "New York",
+                            "title": "Software Engineer Intern",
+                            "province": "Moline, IL",
                             "country": "US",
-                            "institution": "Adobe Inc",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+                            "institution": "John Deere",
+                            "text": "Led the migration of 7+ Kubernetes namespaces off deprecated datacenter clusters, updating DNS, ingress, storage, and secrets in the process. Designed and shipped a fully automated self-healing pipeline powered by a LangGraph agent to triage network anomalies, improving mean time to resolution by up to 96.67%, and built a Redis- and ServiceNow-backed prevention layer to eliminate duplicate incident processing.",
                             "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
-                        },
-                        "es": {
-                            "title": "Ingeniero {{Backend}}",
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Adobe Inc",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
-                            "list": [],
-                            "tags": []
+                            "tags": ["Python", "Docker", "Kubernetes", "LangChain", "Redis", "ServiceNow", "Prometheus", "Pytest"]
                         },
                         "fr": {
-                            "title": "Ingénieur {{Backend}}",
-                            "province": "New York",
+                            "title": "Stagiaire Ingénieur Logiciel",
+                            "province": "Moline, IL",
                             "country": "États-Unis",
-                            "institution": "Adobe Inc",
-                            "text": "Participation au développement de systèmes backend robustes pour Adobe Creative Cloud, intégration de services tiers et amélioration de l’efficacité du traitement des données via des fonctions cloud.",
+                            "institution": "John Deere",
+                            "text": "Dirigé la migration de plus de 7 espaces de noms Kubernetes hors des clusters de centre de données obsolètes, en mettant à jour le DNS, l'ingress, le stockage et les secrets. Conçu et déployé un pipeline d'auto-guérison entièrement automatisé, alimenté par un agent LangGraph pour trier les anomalies réseau, améliorant le délai moyen de résolution jusqu'à 96,67 %, et créé une couche de prévention basée sur Redis et ServiceNow pour éliminer le traitement des incidents en double.",
                             "list": [],
                             "tags": []
                         },
-                        "ko": {
-                            "title": "{{백엔드}} 엔지니어",
-                            "province": "뉴욕",
-                            "country": "미국",
-                            "institution": "Adobe Inc",
-                            "text": "Adobe Creative Cloud를 위한 견고한 백엔드 시스템 개발에 기여하였으며, 서드파티 서비스 통합 및 클라우드 기능을 활용한 데이터 처리 효율 향상에 집중했습니다.",
+                        "hi": {
+                            "title": "सॉफ्टवेयर इंजीनियर इंटर्न",
+                            "province": "Moline, IL",
+                            "country": "अमेरिका",
+                            "institution": "John Deere",
+                            "text": "7+ Kubernetes नेमस्पेस को पुराने डेटासेंटर क्लस्टरों से माइग्रेट किया, इस दौरान DNS, इनग्रेस, स्टोरेज और सीक्रेट्स को अपडेट किया। नेटवर्क विसंगतियों को ट्राइएज करने के लिए LangGraph एजेंट द्वारा संचालित एक पूर्णतः स्वचालित सेल्फ-हीलिंग पाइपलाइन डिज़ाइन और शिप की, जिससे औसत समाधान समय में 96.67% तक सुधार हुआ, और डुप्लिकेट घटना प्रोसेसिंग को खत्म करने के लिए Redis और ServiceNow आधारित प्रिवेंशन लेयर बनाई।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ta": {
+                            "title": "மென்பொருள் பொறியாளர் பயிற்சியாளர்",
+                            "province": "Moline, IL",
+                            "country": "அமெரிக்கா",
+                            "institution": "John Deere",
+                            "text": "காலாவதியான டேட்டாசெண்டர் கிளஸ்டர்களிலிருந்து 7+ Kubernetes நேம்ஸ்பேஸ்களை இடம்பெயர்த்தேன், இதில் DNS, இன்கிரெஸ், சேமிப்பு மற்றும் சீக்ரெட்களை புதுப்பித்தேன். நெட்வொர்க் முரண்பாடுகளை பகுப்பாய்வு செய்ய LangGraph முகவரால் இயக்கப்படும் முழுமையாக தானியங்கு சுய-குணப்படுத்தும் பைப்லைனை வடிவமைத்து வெளியிட்டேன், சராசரி தீர்வு நேரத்தை 96.67% வரை மேம்படுத்தினேன், மேலும் நகல் சம்பவ செயலாக்கத்தை நீக்க Redis மற்றும் ServiceNow அடிப்படையிலான தடுப்பு அடுக்கை உருவாக்கினேன்.",
                             "list": [],
                             "tags": []
                         }
@@ -178,70 +178,92 @@
                 },
                 {
                     "id": 4,
-                    "img": "",
-                    "faIcon": "fa-brands fa-apple",
-                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
-                    "dateStart": {"year": 2022, "month": 12},
+                    "img": "images/pictures/timeline-place-purdue.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2026, "month": 1},
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
+                            "title": "Undergraduate AI Researcher",
+                            "province": "West Lafayette, IN",
                             "country": "US",
-                            "institution": "Apple Inc",
-                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
-                            "list": [
-                                "Security",
-                                "Scalability to handle millions of users globally",
-                                "Developing RESTful APIs",
-                                "Optimizing database performance with PostgreSQL",
-                                "Building services with Swift, PHP, and GraphQL"
-                            ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
-                        },
-                        "es": {
-                            "title": "Desarrollador {{Senior Backend}}",
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Apple Inc",
-                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
-                            "list": [
-                                "Seguridad",
-                                "Escalabilidad para manejar millones de usuarios a nivel global",
-                                "Desarrollo de APIs RESTful",
-                                "Optimización del rendimiento de bases de datos con PostgreSQL",
-                                "Creación de servicios con Swift, PHP y GraphQL"
-                            ],
-                            "tags": []
+                            "institution": "Purdue VIP",
+                            "text": "Building MCP integrations for a multimodal RAG pipeline with Purdue VIP's AI in Education research team. Built a Python MCP server exposing Ed Discussion API endpoints as LLM-callable tools so a student-facing RAG chatbot can retrieve course threads and Q&A at inference time, and extended an E2B code sandbox MCP server with async execution and multimodal image output.",
+                            "list": [],
+                            "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
                         "fr": {
-                            "title": "Développeur {{Senior Backend}}",
-                            "province": "Californie",
+                            "title": "Chercheur en IA (Premier Cycle)",
+                            "province": "West Lafayette, IN",
                             "country": "États-Unis",
-                            "institution": "Apple Inc",
-                            "text": "Responsable d'une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services Apple, en se concentrant sur :",
-                            "list": [
-                                "La sécurité",
-                                "L’évolutivité pour gérer des millions d’utilisateurs dans le monde",
-                                "Le développement d’API RESTful",
-                                "L’optimisation des performances des bases de données avec PostgreSQL",
-                                "La création de services avec Swift, PHP et GraphQL"
-                            ],
+                            "institution": "Purdue VIP",
+                            "text": "Développe des intégrations MCP pour un pipeline RAG multimodal au sein de l'équipe de recherche « IA pour l'Éducation » du VIP de Purdue. A construit un serveur MCP en Python exposant les points de terminaison de l'API Ed Discussion en tant qu'outils appelables par un LLM, permettant à un chatbot RAG destiné aux étudiants de récupérer les fils de discussion et les questions-réponses du cours en temps réel, et a étendu un serveur MCP de bac à sable de code E2B avec exécution asynchrone et sortie d'image multimodale.",
+                            "list": [],
                             "tags": []
                         },
-                        "ko": {
-                            "title": "{{시니어 백엔드}} 개발자",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "Apple Inc",
-                            "text": "Apple의 서비스를 위한 백엔드 솔루션을 설계하고 구현하는 개발팀을 이끌며 다음에 중점을 두고 있습니다:",
-                            "list": [
-                                "보안",
-                                "전 세계 수백만 사용자를 처리할 수 있는 확장성",
-                                "RESTful API 개발",
-                                "PostgreSQL을 사용한 데이터베이스 성능 최적화",
-                                "Swift, PHP, GraphQL로 서비스 구축"
-                            ],
+                        "hi": {
+                            "title": "स्नातक AI शोधकर्ता",
+                            "province": "West Lafayette, IN",
+                            "country": "अमेरिका",
+                            "institution": "Purdue VIP",
+                            "text": "Purdue VIP की AI इन एजुकेशन शोध टीम के साथ मल्टीमॉडल RAG पाइपलाइन के लिए MCP इंटीग्रेशन बना रहे हैं। एक Python MCP सर्वर बनाया जो Ed Discussion API एंडपॉइंट्स को LLM-कॉल करने योग्य टूल्स के रूप में एक्सपोज़ करता है, ताकि छात्र-केंद्रित RAG चैटबॉट इनफरेंस के समय कोर्स थ्रेड्स और Q&A प्राप्त कर सके, और एक E2B कोड सैंडबॉक्स MCP सर्वर को असिंक्रोनस एक्ज़ीक्यूशन और मल्टीमॉडल इमेज आउटपुट के साथ विस्तारित किया।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ta": {
+                            "title": "இளங்கலை AI ஆராய்ச்சியாளர்",
+                            "province": "West Lafayette, IN",
+                            "country": "அமெரிக்கா",
+                            "institution": "Purdue VIP",
+                            "text": "Purdue VIP இன் கல்வியில் AI ஆராய்ச்சி குழுவுடன் இணைந்து பல்முக RAG பைப்லைனுக்கான MCP ஒருங்கிணைப்புகளை உருவாக்குகிறேன். மாணவர்களுக்கான RAG chatbot பாடநெறி இழைகள் மற்றும் கேள்வி-பதில்களை பெற, Ed Discussion API முனைவுகளை LLM-அழைக்கக்கூடிய கருவிகளாக வெளிப்படுத்தும் Python MCP சேவையகத்தை உருவாக்கினேன், மேலும் ஒத்திசைவற்ற செயலாக்கம் மற்றும் பல்முக பட வெளியீட்டுடன் E2B குறியீடு சாண்ட்பாக்ஸ் MCP சேவையகத்தை விரிவுபடுத்தினேன்.",
+                            "list": [],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/timeline-place-john-deere.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2026, "month": 5},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "en": {
+                            "title": "Software Engineer Intern",
+                            "province": "Urbandale, IA",
+                            "country": "US",
+                            "institution": "John Deere",
+                            "text": "Working on the transform product area within John Deere's IMET (Ingest-Model-Enhance-Transform) space, contributing to a full-stack rewrite of an internal support tool used by transform teams for development work, tier 2 support tickets, and other API consumers.",
+                            "list": [],
+                            "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
+                        },
+                        "fr": {
+                            "title": "Stagiaire Ingénieur Logiciel",
+                            "province": "Urbandale, IA",
+                            "country": "États-Unis",
+                            "institution": "John Deere",
+                            "text": "Travaille au sein du domaine produit « transform » dans l'espace IMET (Ingest-Model-Enhance-Transform) de John Deere, en contribuant à une réécriture full-stack d'un outil de support interne utilisé par les équipes transform pour leur travail de développement, les tickets de support de niveau 2, et d'autres consommateurs des API transform.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "hi": {
+                            "title": "सॉफ्टवेयर इंजीनियर इंटर्न",
+                            "province": "Urbandale, IA",
+                            "country": "अमेरिका",
+                            "institution": "John Deere",
+                            "text": "John Deere के IMET (Ingest-Model-Enhance-Transform) क्षेत्र के transform प्रोडक्ट एरिया पर काम कर रहे हैं, एक आंतरिक सपोर्ट टूल के फुल-स्टैक पुनर्लेखन में योगदान दे रहे हैं जिसका उपयोग transform टीमें डेवलपमेंट कार्य, टियर 2 सपोर्ट टिकट, और अन्य API उपभोक्ताओं के लिए करती हैं।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ta": {
+                            "title": "மென்பொருள் பொறியாளர் பயிற்சியாளர்",
+                            "province": "Urbandale, IA",
+                            "country": "அமெரிக்கா",
+                            "institution": "John Deere",
+                            "text": "John Deere இன் IMET (Ingest-Model-Enhance-Transform) பகுதிக்குள் transform தயாரிப்பு பகுதியில் பணிபுரிகிறேன், transform குழுக்கள் மேம்பாட்டு பணி, நிலை 2 ஆதரவு டிக்கெட்டுகள் மற்றும் பிற API நுகர்வோருக்காகப் பயன்படுத்தும் உள் ஆதரவு கருவியின் முழு-அடுக்கு மறுஎழுத்தில் பங்களிக்கிறேன்.",
+                            "list": [],
                             "tags": []
                         }
                     }
