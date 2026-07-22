@@ -257,6 +257,50 @@
                             "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
                         }
                     }
+                },
+                {
+                    "id": 10,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-car",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Inspirit-AI-FinalProject-Object-Detection-For-Self-Driving-Cars", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Self-Driving Car Object Detection",
+                            "text": "A progressive object detection pipeline for self-driving car navigation — starting from a 2-layer CNN classifier, advancing through sliding-window localization, <b>VGG16 transfer learning</b> (96.9% test accuracy), and a fine-tuned <b>YOLOv3/DarkNet</b> model for real-time single-pass detection with non-max suppression post-processing.",
+                            "tags": ["Python", "TensorFlow/Keras", "CNN", "YOLOv3", "Transfer Learning", "Computer Vision"]
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-route",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Inspirit-AI-Deep-Dive-Designing-DL-Systems-FinalProject-RL-for-Autonomous-Vehicles", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RL for Autonomous Vehicles",
+                            "text": "A reinforcement learning agent for autonomous vehicle navigation, built around a <b>Deep Q-Network</b> with epsilon-greedy exploration and experience replay. Uses an NVIDIA CNN architecture to process visual input, trained via custom reward shaping to navigate simulated driving scenarios (traffic lights, lane changes), and benchmarked against a behavioral-cloning baseline.",
+                            "tags": ["Python", "TensorFlow/Keras", "Reinforcement Learning", "DQN", "Computer Vision"]
+                        }
+                    }
                 }
             ]
         }
