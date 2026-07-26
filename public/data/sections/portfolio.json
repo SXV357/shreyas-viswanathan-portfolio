@@ -253,7 +253,7 @@
                     "locales": {
                         "en": {
                             "title": "Quizz.It",
-                            "text": "An AI-powered study tool that turns uploaded PDFs into <b>summaries</b>, auto-generated <b>practice questions</b>, and a <b>conversational Q&A</b> interface. Built as team lead at Purdue's BoilerMake XI hackathon (shortlisted for several awards), then rebuilt solo into a full <b>RAG pipeline</b> — Pytesseract OCR for scanned documents, LangChain-orchestrated retrieval over a ChromaDB vector store, and Gemini for generation — with Firebase auth and Firestore persistence.",
+                            "text": "An AI-powered study tool that turns uploaded PDFs into <b>summaries</b>, auto-generated <b>practice questions</b>, and a <b>conversational Q&A</b> interface. Built as team lead at Purdue's BoilerMake XI hackathon, then rebuilt solo into a full <b>RAG pipeline</b> — Pytesseract OCR for scanned documents, LangChain-orchestrated retrieval over a ChromaDB vector store, and Gemini for generation — with Firebase auth and Firestore persistence.",
                             "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
                         }
                     }
