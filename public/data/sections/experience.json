@@ -19,6 +19,18 @@
                 "title_long_prefix": "Résumé de mon",
                 "title_long": "Parcours {{Professionel}}"
             },
+            "hi": {
+                "title_short": "अनुभव",
+                "title_short_nav": "अनुभव",
+                "title_long_prefix": "मेरे",
+                "title_long": "{{कार्य}} अनुभव का सारांश"
+            },
+            "ta": {
+                "title_short": "அனுபவம்",
+                "title_short_nav": "அனுபவம்",
+                "title_long_prefix": "எனது",
+                "title_long": "{{பணி}} அனுபவச் சுருக்கம்"
+            },
             "ko": {
                 "title_short": "경험",
                 "title_short_nav": "경험",

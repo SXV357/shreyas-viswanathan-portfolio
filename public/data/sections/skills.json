@@ -8,8 +8,8 @@
                 "title_long": "My {{Skill Set}}"
             },
             "fr": {
-                "title_short": "Capacités",
-                "title_short_nav": "Capacités",
+                "title_short": "Compétences",
+                "title_short_nav": "Compétences",
                 "title_long_prefix": "Explorez",
                 "title_long": "Mes {{Compétences}}"
             },
@@ -34,6 +34,15 @@
             "locales": {
                 "en": {
                     "title": "Full Stack"
+                },
+                "fr": {
+                    "title": "Full Stack"
+                },
+                "hi": {
+                    "title": "फुल स्टैक"
+                },
+                "ta": {
+                    "title": "புல் ஸ்டேக்"
                 }
             },
             "settings": {
@@ -59,6 +68,15 @@
                     "locales": {
                         "en": {
                             "title": "Python"
+                        },
+                        "fr": {
+                            "title": "Python"
+                        },
+                        "hi": {
+                            "title": "Python"
+                        },
+                        "ta": {
+                            "title": "Python"
                         }
                     }
                 },
@@ -76,6 +94,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "TypeScript"
+                        },
+                        "fr": {
+                            "title": "TypeScript"
+                        },
+                        "hi": {
+                            "title": "TypeScript"
+                        },
+                        "ta": {
                             "title": "TypeScript"
                         }
                     }
@@ -96,6 +123,15 @@
                     "locales": {
                         "en": {
                             "title": "React"
+                        },
+                        "fr": {
+                            "title": "React"
+                        },
+                        "hi": {
+                            "title": "React"
+                        },
+                        "ta": {
+                            "title": "React"
                         }
                     }
                 },
@@ -114,6 +150,15 @@
                     "locales": {
                         "en": {
                             "title": "FastAPI"
+                        },
+                        "fr": {
+                            "title": "FastAPI"
+                        },
+                        "hi": {
+                            "title": "FastAPI"
+                        },
+                        "ta": {
+                            "title": "FastAPI"
                         }
                     }
                 },
@@ -131,6 +176,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "PostgreSQL"
+                        },
+                        "fr": {
+                            "title": "PostgreSQL"
+                        },
+                        "hi": {
+                            "title": "PostgreSQL"
+                        },
+                        "ta": {
                             "title": "PostgreSQL"
                         }
                     }
@@ -151,6 +205,15 @@
                     "locales": {
                         "en": {
                             "title": "Java"
+                        },
+                        "fr": {
+                            "title": "Java"
+                        },
+                        "hi": {
+                            "title": "Java"
+                        },
+                        "ta": {
+                            "title": "Java"
                         }
                     }
                 },
@@ -170,6 +233,15 @@
                     "locales": {
                         "en": {
                             "title": "JavaScript"
+                        },
+                        "fr": {
+                            "title": "JavaScript"
+                        },
+                        "hi": {
+                            "title": "JavaScript"
+                        },
+                        "ta": {
+                            "title": "JavaScript"
                         }
                     }
                 },
@@ -187,6 +259,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Node.js"
+                        },
+                        "fr": {
+                            "title": "Node.js"
+                        },
+                        "hi": {
+                            "title": "Node.js"
+                        },
+                        "ta": {
                             "title": "Node.js"
                         }
                     }
@@ -206,6 +287,15 @@
                     "locales": {
                         "en": {
                             "title": "SQL"
+                        },
+                        "fr": {
+                            "title": "SQL"
+                        },
+                        "hi": {
+                            "title": "SQL"
+                        },
+                        "ta": {
+                            "title": "SQL"
                         }
                     }
                 },
@@ -223,6 +313,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "HTML/CSS"
+                        },
+                        "fr": {
+                            "title": "HTML/CSS"
+                        },
+                        "hi": {
+                            "title": "HTML/CSS"
+                        },
+                        "ta": {
                             "title": "HTML/CSS"
                         }
                     }
@@ -242,6 +341,15 @@
                     "locales": {
                         "en": {
                             "title": "Flask"
+                        },
+                        "fr": {
+                            "title": "Flask"
+                        },
+                        "hi": {
+                            "title": "Flask"
+                        },
+                        "ta": {
+                            "title": "Flask"
                         }
                     }
                 },
@@ -259,6 +367,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Firebase"
+                        },
+                        "fr": {
+                            "title": "Firebase"
+                        },
+                        "hi": {
+                            "title": "Firebase"
+                        },
+                        "ta": {
                             "title": "Firebase"
                         }
                     }
@@ -278,6 +395,15 @@
                     "locales": {
                         "en": {
                             "title": "JUnit"
+                        },
+                        "fr": {
+                            "title": "JUnit"
+                        },
+                        "hi": {
+                            "title": "JUnit"
+                        },
+                        "ta": {
+                            "title": "JUnit"
                         }
                     }
                 },
@@ -295,6 +421,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Pytest"
+                        },
+                        "fr": {
+                            "title": "Pytest"
+                        },
+                        "hi": {
+                            "title": "Pytest"
+                        },
+                        "ta": {
                             "title": "Pytest"
                         }
                     }
@@ -314,6 +449,15 @@
                     "locales": {
                         "en": {
                             "title": "MongoDB"
+                        },
+                        "fr": {
+                            "title": "MongoDB"
+                        },
+                        "hi": {
+                            "title": "MongoDB"
+                        },
+                        "ta": {
+                            "title": "MongoDB"
                         }
                     }
                 },
@@ -331,6 +475,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Redis"
+                        },
+                        "fr": {
+                            "title": "Redis"
+                        },
+                        "hi": {
+                            "title": "Redis"
+                        },
+                        "ta": {
                             "title": "Redis"
                         }
                     }
@@ -350,6 +503,15 @@
                     "locales": {
                         "en": {
                             "title": "Git"
+                        },
+                        "fr": {
+                            "title": "Git"
+                        },
+                        "hi": {
+                            "title": "Git"
+                        },
+                        "ta": {
+                            "title": "Git"
                         }
                     }
                 },
@@ -368,6 +530,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "GitHub"
+                        },
+                        "fr": {
+                            "title": "GitHub"
+                        },
+                        "hi": {
+                            "title": "GitHub"
+                        },
+                        "ta": {
                             "title": "GitHub"
                         }
                     }
@@ -414,6 +585,15 @@
                     "locales": {
                         "en": {
                             "title": "HTTP"
+                        },
+                        "fr": {
+                            "title": "HTTP"
+                        },
+                        "hi": {
+                            "title": "HTTP"
+                        },
+                        "ta": {
+                            "title": "HTTP"
                         }
                     }
                 },
@@ -434,13 +614,13 @@
                             "title": "SDLC"
                         },
                         "fr": {
-                            "title": "Cycle de vie logiciel (SDLC)"
+                            "title": "Cycle de vie du développement logiciel (SDLC)"
                         },
                         "hi": {
-                            "title": "SDLC"
+                            "title": "सॉफ़्टवेयर डेवलपमेंट लाइफ़ साइकल (SDLC)"
                         },
                         "ta": {
-                            "title": "SDLC"
+                            "title": "மென்பொருள் மேம்பாட்டு வாழ்க்கை சுழற்சி (SDLC)"
                         }
                     }
                 }
@@ -452,6 +632,15 @@
             "locales": {
                 "en": {
                     "title": "Cloud/Infra/Systems"
+                },
+                "fr": {
+                    "title": "Cloud/Infra/Systèmes"
+                },
+                "hi": {
+                    "title": "क्लाउड/इन्फ्रा/सिस्टम्स"
+                },
+                "ta": {
+                    "title": "க்ளவுட்/இன்ஃப்ரா/சிஸ்டம்ஸ்"
                 }
             },
             "settings": {
@@ -477,6 +666,15 @@
                     "locales": {
                         "en": {
                             "title": "Docker"
+                        },
+                        "fr": {
+                            "title": "Docker"
+                        },
+                        "hi": {
+                            "title": "Docker"
+                        },
+                        "ta": {
+                            "title": "Docker"
                         }
                     }
                 },
@@ -494,6 +692,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Kubernetes"
+                        },
+                        "fr": {
+                            "title": "Kubernetes"
+                        },
+                        "hi": {
+                            "title": "Kubernetes"
+                        },
+                        "ta": {
                             "title": "Kubernetes"
                         }
                     }
@@ -513,6 +720,15 @@
                     "locales": {
                         "en": {
                             "title": "AWS"
+                        },
+                        "fr": {
+                            "title": "AWS"
+                        },
+                        "hi": {
+                            "title": "AWS"
+                        },
+                        "ta": {
+                            "title": "AWS"
                         }
                     }
                 },
@@ -530,6 +746,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Terraform"
+                        },
+                        "fr": {
+                            "title": "Terraform"
+                        },
+                        "hi": {
+                            "title": "Terraform"
+                        },
+                        "ta": {
                             "title": "Terraform"
                         }
                     }
@@ -549,6 +774,15 @@
                     "locales": {
                         "en": {
                             "title": "Bash"
+                        },
+                        "fr": {
+                            "title": "Bash"
+                        },
+                        "hi": {
+                            "title": "Bash"
+                        },
+                        "ta": {
+                            "title": "Bash"
                         }
                     }
                 },
@@ -566,6 +800,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Linux/Unix"
+                        },
+                        "fr": {
+                            "title": "Linux/Unix"
+                        },
+                        "hi": {
+                            "title": "Linux/Unix"
+                        },
+                        "ta": {
                             "title": "Linux/Unix"
                         }
                     }
@@ -585,6 +828,15 @@
                     "locales": {
                         "en": {
                             "title": "Golang"
+                        },
+                        "fr": {
+                            "title": "Golang"
+                        },
+                        "hi": {
+                            "title": "Golang"
+                        },
+                        "ta": {
+                            "title": "Golang"
                         }
                     }
                 },
@@ -602,6 +854,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "C/C++"
+                        },
+                        "fr": {
+                            "title": "C/C++"
+                        },
+                        "hi": {
+                            "title": "C/C++"
+                        },
+                        "ta": {
                             "title": "C/C++"
                         }
                     }
@@ -621,6 +882,15 @@
                     "locales": {
                         "en": {
                             "title": "x86-64 Assembly"
+                        },
+                        "fr": {
+                            "title": "Assembleur x86-64"
+                        },
+                        "hi": {
+                            "title": "x86-64 असेंबली"
+                        },
+                        "ta": {
+                            "title": "x86-64 அசெம்பிளி"
                         }
                     }
                 }
@@ -632,6 +902,15 @@
             "locales": {
                 "en": {
                     "title": "Computer Vision/Machine Learning"
+                },
+                "fr": {
+                    "title": "Vision par Ordinateur/Apprentissage Automatique"
+                },
+                "hi": {
+                    "title": "कंप्यूटर विज़न/मशीन लर्निंग"
+                },
+                "ta": {
+                    "title": "கணினி பார்வை/மெஷின் லேர்னிங்"
                 }
             },
             "settings": {
@@ -656,6 +935,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "PyTorch"
+                        },
+                        "fr": {
+                            "title": "PyTorch"
+                        },
+                        "hi": {
+                            "title": "PyTorch"
+                        },
+                        "ta": {
                             "title": "PyTorch"
                         }
                     }
@@ -702,6 +990,15 @@
                     "locales": {
                         "en": {
                             "title": "RAG"
+                        },
+                        "fr": {
+                            "title": "Génération Augmentée par Récupération (RAG)"
+                        },
+                        "hi": {
+                            "title": "रिट्रीवल-ऑगमेंटेड जेनरेशन (RAG)"
+                        },
+                        "ta": {
+                            "title": "ரிட்ரீவல்-ஆக்மென்டெட் ஜெனரேஷன் (RAG)"
                         }
                     }
                 },
@@ -719,6 +1016,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "LangChain"
+                        },
+                        "fr": {
+                            "title": "LangChain"
+                        },
+                        "hi": {
+                            "title": "LangChain"
+                        },
+                        "ta": {
                             "title": "LangChain"
                         }
                     }
@@ -765,6 +1071,15 @@
                     "locales": {
                         "en": {
                             "title": "Scikit-Learn"
+                        },
+                        "fr": {
+                            "title": "Scikit-Learn"
+                        },
+                        "hi": {
+                            "title": "Scikit-Learn"
+                        },
+                        "ta": {
+                            "title": "Scikit-Learn"
                         }
                     }
                 },
@@ -782,6 +1097,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "NumPy"
+                        },
+                        "fr": {
+                            "title": "NumPy"
+                        },
+                        "hi": {
+                            "title": "NumPy"
+                        },
+                        "ta": {
                             "title": "NumPy"
                         }
                     }
@@ -802,6 +1126,15 @@
                     "locales": {
                         "en": {
                             "title": "Pandas"
+                        },
+                        "fr": {
+                            "title": "Pandas"
+                        },
+                        "hi": {
+                            "title": "Pandas"
+                        },
+                        "ta": {
+                            "title": "Pandas"
                         }
                     }
                 },
@@ -819,6 +1152,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "HuggingFace"
+                        },
+                        "fr": {
+                            "title": "HuggingFace"
+                        },
+                        "hi": {
+                            "title": "HuggingFace"
+                        },
+                        "ta": {
                             "title": "HuggingFace"
                         }
                     }
@@ -838,6 +1180,15 @@
                     "locales": {
                         "en": {
                             "title": "Matplotlib"
+                        },
+                        "fr": {
+                            "title": "Matplotlib"
+                        },
+                        "hi": {
+                            "title": "Matplotlib"
+                        },
+                        "ta": {
+                            "title": "Matplotlib"
                         }
                     }
                 },
@@ -855,6 +1206,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "OpenCV"
+                        },
+                        "fr": {
+                            "title": "OpenCV"
+                        },
+                        "hi": {
+                            "title": "OpenCV"
+                        },
+                        "ta": {
                             "title": "OpenCV"
                         }
                     }
@@ -981,6 +1341,15 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "JupyterLab"
+                        },
+                        "fr": {
+                            "title": "JupyterLab"
+                        },
+                        "hi": {
+                            "title": "JupyterLab"
+                        },
+                        "ta": {
                             "title": "JupyterLab"
                         }
                     }
