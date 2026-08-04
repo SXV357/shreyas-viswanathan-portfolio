@@ -63,7 +63,7 @@
                     "faIcon": "fa-solid fa-network-wired",
                     "faIconColors": {"bg": "#1BA0D7", "fill": "#EEE"},
                     "date": {"year": 2022, "month": 9},
-                    "link": {"href": "https://www.theforage.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cisco2/kinDTvjiZRcYbwqLo_Cisco_zzt8CmNcoBGqZHTxi_1664596830306_completion_certificate.pdf", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{Cisco}}",
@@ -89,7 +89,7 @@
                     "faIcon": "fa-brands fa-python",
                     "faIconColors": {"bg": "#3776AB", "fill": "#EEE"},
                     "date": {"year": 2023, "month": 6},
-                    "link": {"href": "https://zerotomastery.io/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://www.udemy.com/certificate/UC-e711a4bc-62ef-40a8-bc54-642e85dbbff5/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{Zero To Mastery}}",
@@ -115,7 +115,7 @@
                     "faIcon": "fa-solid fa-building-columns",
                     "faIconColors": {"bg": "#003087", "fill": "#EEE"},
                     "date": {"year": 2023, "month": 6},
-                    "link": {"href": "https://www.theforage.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_zzt8CmNcoBGqZHTxi_1686688509850_completion_certificate.pdf", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{J.P. Morgan}}",
@@ -141,7 +141,7 @@
                     "faIcon": "fa-solid fa-brain",
                     "faIconColors": {"bg": "#EE4C2C", "fill": "#EEE"},
                     "date": {"year": 2024, "month": 8},
-                    "link": {"href": "https://www.datacamp.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/3528b2088dfa78b9c48f93795e85af124adff2a3?raw=1", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{DataCamp}}",
@@ -167,33 +167,59 @@
                     "faIcon": "fa-brands fa-docker",
                     "faIconColors": {"bg": "#2496ED", "fill": "#EEE"},
                     "date": {"year": 2025, "month": 6},
-                    "link": {"href": "https://www.datacamp.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/99567edb97054e236653d88b537db9cfdb543e08?raw=1", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{DataCamp}}",
-                            "text": "Introduction to Docker & Containerization/Virtualization Concepts"
+                            "text": "Introduction to Docker"
                         },
                         "fr": {
                             "title": "{{DataCamp}}",
-                            "text": "Introduction à Docker et aux concepts de conteneurisation/virtualisation"
+                            "text": "Introduction à Docker"
                         },
                         "hi": {
                             "title": "{{DataCamp}}",
-                            "text": "Docker और कंटेनराइज़ेशन/वर्चुअलाइज़ेशन अवधारणाओं का परिचय"
+                            "text": "Docker का परिचय"
                         },
                         "ta": {
                             "title": "{{DataCamp}}",
-                            "text": "Docker மற்றும் கன்டெய்னரைசேஷன்/வர்ச்சுவலைசேஷன் கருத்துகளின் அறிமுகம்"
+                            "text": "Docker அறிமுகம்"
                         }
                     }
                 },
                 {
                     "id": 6,
                     "img": "",
+                    "faIcon": "fa-solid fa-boxes-stacked",
+                    "faIconColors": {"bg": "#2496ED", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 6},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/e2b0b298cd3a02e2348cc3d35d6373cb638819df?raw=1", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{DataCamp}}",
+                            "text": "Containerization and Virtualization Concepts"
+                        },
+                        "fr": {
+                            "title": "{{DataCamp}}",
+                            "text": "Concepts de conteneurisation et de virtualisation"
+                        },
+                        "hi": {
+                            "title": "{{DataCamp}}",
+                            "text": "कंटेनराइज़ेशन और वर्चुअलाइज़ेशन अवधारणाएं"
+                        },
+                        "ta": {
+                            "title": "{{DataCamp}}",
+                            "text": "கன்டெய்னரைசேஷன் மற்றும் வர்ச்சுவலைசேஷன் கருத்துகள்"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
                     "faIcon": "fa-solid fa-robot",
                     "faIconColors": {"bg": "#CC785C", "fill": "#EEE"},
                     "date": {"year": 2026, "month": 2},
-                    "link": {"href": "https://www.anthropic.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://verify.skilljar.com/c/bnnadwws3o33", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{Anthropic}}",
@@ -312,28 +338,28 @@
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "The Data Mine, Purdue University",
-                            "text": "Presented a research poster at the Data Mine Symposium on my work evaluating manufacturing capacity for an ICE-to-EV production transition, covering the Python web scrapers and fine-tuned DistilBERT NER models built during my time with the Knudsen Institute corporate partnership. Our team's work was also featured by corporate partner Surge Theory on their site."
+                            "text": "Presented a research poster at the Data Mine Symposium on identifying interchangeable vs. non-interchangeable manufacturing capacities across the EV supply chain — part of a Knudsen Institute study into how conventional ICE manufacturers can pivot capacity toward EV component production for supply-chain visibility and procurement research. Our team's work was also featured by the company on their site."
                         },
                         "fr": {
                             "title": "{{Poster de recherche}} — Symposium The Data Mine",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "The Data Mine, Université Purdue",
-                            "text": "Présenté un poster de recherche au Symposium The Data Mine sur mon travail d'évaluation de la capacité de fabrication pour une transition de production des moteurs thermiques (ICE) vers les véhicules électriques (EV), couvrant les scrapers web Python et les modèles DistilBERT NER affinés développés durant mon temps au sein du partenariat corporatif avec le Knudsen Institute. Le travail de notre équipe a également été mis en avant par le partenaire corporatif Surge Theory sur son site."
+                            "text": "Présenté un poster de recherche au Symposium The Data Mine sur l'identification des capacités de fabrication interchangeables et non interchangeables au sein de la chaîne d'approvisionnement des véhicules électriques — dans le cadre d'une étude du Knudsen Institute sur la manière dont les fabricants ICE conventionnels peuvent réorienter leur capacité vers la production de composants EV, au service de la visibilité de la chaîne d'approvisionnement et de la recherche en approvisionnement. Le travail de notre équipe a également été mis en avant par l'entreprise sur son site."
                         },
                         "hi": {
                             "title": "{{रिसर्च पोस्टर}} — द डेटा माइन सिम्पोज़ियम",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "द डेटा माइन, Purdue यूनिवर्सिटी",
-                            "text": "ICE-से-EV प्रोडक्शन ट्रांज़िशन के लिए मैन्युफ़ैक्चरिंग क्षमता का मूल्यांकन करने वाले मेरे काम पर डेटा माइन सिम्पोज़ियम में एक रिसर्च पोस्टर प्रस्तुत किया, जिसमें Knudsen Institute कॉर्पोरेट पार्टनरशिप के दौरान बनाए गए Python वेब स्क्रेपर्स और फ़ाइन-ट्यून्ड DistilBERT NER मॉडल्स शामिल थे। हमारी टीम के काम को कॉर्पोरेट पार्टनर Surge Theory ने भी अपनी साइट पर प्रदर्शित किया।"
+                            "text": "Data Mine सिम्पोज़ियम में EV सप्लाई चेन में इंटरचेंजेबल और नॉन-इंटरचेंजेबल मैन्युफ़ैक्चरिंग क्षमताओं की पहचान पर एक रिसर्च पोस्टर प्रस्तुत किया — यह Knudsen Institute के एक अध्ययन का हिस्सा था कि पारंपरिक ICE निर्माता सप्लाई-चेन विज़िबिलिटी और प्रोक्योरमेंट रिसर्च के लिए अपनी क्षमता को EV कंपोनेंट प्रोडक्शन की ओर कैसे मोड़ सकते हैं। हमारी टीम के काम को कंपनी ने भी अपनी साइट पर प्रदर्शित किया।"
                         },
                         "ta": {
                             "title": "{{ஆராய்ச்சி போஸ்டர்}} — தி டேட்டா மைன் சிம்போசியம்",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "தி டேட்டா மைன், Purdue பல்கலைக்கழகம்",
-                            "text": "ICE-இலிருந்து-EV உற்பத்தி மாற்றத்திற்கான உற்பத்தி திறனை மதிப்பீடு செய்யும் எனது பணியை பற்றி டேட்டா மைன் சிம்போசியத்தில் ஒரு ஆராய்ச்சி போஸ்டரை வழங்கினேன், இதில் Knudsen Institute கார்ப்பரேட் கூட்டாண்மையின் போது உருவாக்கப்பட்ட Python வெப் ஸ்க்ரேப்பர்கள் மற்றும் fine-tune செய்யப்பட்ட DistilBERT NER மாடல்கள் அடங்கும். எங்கள் குழுவின் பணி கார்ப்பரேட் கூட்டாளியான Surge Theory-யால் அவர்களின் தளத்திலும் சிறப்பிக்கப்பட்டது."
+                            "text": "EV சப்ளை செயினில் இடமாற்றக்கூடிய மற்றும் இடமாற்ற முடியாத உற்பத்தி திறன்களை அடையாளம் காண்பது குறித்து Data Mine சிம்போசியத்தில் ஒரு ஆராய்ச்சி போஸ்டரை வழங்கினேன் — இது வழக்கமான ICE உற்பத்தியாளர்கள் சப்ளை-செயின் வெளிப்படைத்தன்மை மற்றும் procurement ஆராய்ச்சிக்காக தங்கள் திறனை EV component உற்பத்தியை நோக்கி எவ்வாறு மாற்றலாம் என்பது பற்றிய Knudsen Institute ஆய்வின் ஒரு பகுதி. எங்கள் குழுவின் பணி நிறுவனத்தாலும் அவர்களின் தளத்திலும் சிறப்பிக்கப்பட்டது."
                         }
                     }
                 },
@@ -352,28 +378,28 @@
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue VIP Program",
-                            "text": "Presented a research poster at Purdue's Undergraduate Research Symposium on [[PeteChat]], an LLM-powered RAG tutor for Computer Engineering education, built with the AI in Education research team as part of Purdue VIP. Our team was selected as a finalist for the Data Stewardship Award, recognizing our work building responsible, high-quality AI systems."
+                            "text": "Built a research poster for Purdue's Undergraduate Research Symposium on [[PeteChat]], an LLM-powered RAG tutor for Computer Engineering education, developed with the AI in Education research team as part of Purdue VIP. Our team was selected as a finalist for the Data Stewardship Award, recognizing our work building responsible, high-quality AI systems."
                         },
                         "fr": {
                             "title": "{{Finaliste}} — Data Stewardship Award",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Programme Purdue VIP",
-                            "text": "Présenté un poster de recherche au Symposium de recherche de premier cycle de Purdue sur [[PeteChat]], un tuteur RAG alimenté par LLM pour l'enseignement du génie informatique, construit avec l'équipe de recherche AI in Education dans le cadre de Purdue VIP. Notre équipe a été sélectionnée comme finaliste pour le Data Stewardship Award, reconnaissant notre travail de construction de systèmes d'IA responsables et de haute qualité."
+                            "text": "Réalisé un poster de recherche pour le Symposium de recherche de premier cycle de Purdue sur [[PeteChat]], un tuteur RAG alimenté par LLM pour l'enseignement du génie informatique, développé avec l'équipe de recherche AI in Education dans le cadre de Purdue VIP. Notre équipe a été sélectionnée comme finaliste pour le Data Stewardship Award, reconnaissant notre travail de construction de systèmes d'IA responsables et de haute qualité."
                         },
                         "hi": {
                             "title": "{{फ़ाइनलिस्ट}} — Data Stewardship Award",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue VIP प्रोग्राम",
-                            "text": "Purdue के अंडरग्रैजुएट रिसर्च सिम्पोज़ियम में [[PeteChat]] पर एक रिसर्च पोस्टर प्रस्तुत किया, जो कंप्यूटर इंजीनियरिंग शिक्षा के लिए एक LLM-संचालित RAG ट्यूटर है, जिसे Purdue VIP के हिस्से के रूप में AI in Education रिसर्च टीम के साथ बनाया गया। हमारी टीम को ज़िम्मेदार, उच्च-गुणवत्ता वाले AI सिस्टम बनाने के हमारे काम को मान्यता देते हुए Data Stewardship Award के लिए फ़ाइनलिस्ट के रूप में चुना गया।"
+                            "text": "Purdue के अंडरग्रैजुएट रिसर्च सिम्पोज़ियम के लिए [[PeteChat]] पर एक रिसर्च पोस्टर तैयार किया, जो कंप्यूटर इंजीनियरिंग शिक्षा के लिए एक LLM-संचालित RAG ट्यूटर है, जिसे Purdue VIP के हिस्से के रूप में AI in Education रिसर्च टीम के साथ विकसित किया गया। हमारी टीम को ज़िम्मेदार, उच्च-गुणवत्ता वाले AI सिस्टम बनाने के हमारे काम को मान्यता देते हुए Data Stewardship Award के लिए फ़ाइनलिस्ट के रूप में चुना गया।"
                         },
                         "ta": {
                             "title": "{{இறுதிச்சுற்று}} — Data Stewardship Award",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue VIP திட்டம்",
-                            "text": "Purdue-வின் இளங்கலை ஆராய்ச்சி சிம்போசியத்தில் [[PeteChat]] பற்றி ஒரு ஆராய்ச்சி போஸ்டரை வழங்கினேன், இது கணினி பொறியியல் கல்விக்கான LLM-இயக்கப்படும் RAG tutor ஆகும், இது Purdue VIP-இன் ஒரு பகுதியாக AI in Education ஆராய்ச்சி குழுவுடன் உருவாக்கப்பட்டது. பொறுப்புள்ள, உயர்தர AI அமைப்புகளை உருவாக்கும் எங்கள் பணியை அங்கீகரிக்கும் வகையில் எங்கள் குழு Data Stewardship Award-க்கான இறுதிச்சுற்று போட்டியாளராக தேர்ந்தெடுக்கப்பட்டது."
+                            "text": "Purdue-வின் இளங்கலை ஆராய்ச்சி சிம்போசியத்திற்காக [[PeteChat]] பற்றி ஒரு ஆராய்ச்சி போஸ்டரை உருவாக்கினேன், இது கணினி பொறியியல் கல்விக்கான LLM-இயக்கப்படும் RAG tutor ஆகும், இது Purdue VIP-இன் ஒரு பகுதியாக AI in Education ஆராய்ச்சி குழுவுடன் உருவாக்கப்பட்டது. பொறுப்புள்ள, உயர்தர AI அமைப்புகளை உருவாக்கும் எங்கள் பணியை அங்கீகரிக்கும் வகையில் எங்கள் குழு Data Stewardship Award-க்கான இறுதிச்சுற்று போட்டியாளராக தேர்ந்தெடுக்கப்பட்டது."
                         }
                     }
                 },
@@ -390,32 +416,32 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Presentation}} — Inspirit AI Summer Program",
+                            "title": "{{Best Presentation}} — Inspirit AI Scholars Summer Program",
                             "province": "",
                             "country": "US",
                             "institution": "Inspirit AI",
-                            "text": "Recognized for best presentation out of 8 project teams for [[Self-Driving Car Object Detection]], a progressive object detection pipeline built with a fine-tuned VGG16 transfer-learning model and YOLOv3/DarkNet for real-time detection."
+                            "text": "Recognized for best presentation out of 8 project teams — voted most-liked and most technically complex — for [[Self-Driving Car Object Detection]], a progressive object detection pipeline built with a fine-tuned VGG16 transfer-learning model and YOLOv3/DarkNet for real-time detection. A meaningful nod to technical communication skills given how advanced the project itself was."
                         },
                         "fr": {
-                            "title": "{{Meilleure présentation}} — Programme d'été Inspirit AI",
+                            "title": "{{Meilleure présentation}} — Programme d'été Inspirit AI Scholars",
                             "province": "",
                             "country": "US",
                             "institution": "Inspirit AI",
-                            "text": "Reconnu pour la meilleure présentation parmi 8 équipes de projet pour [[Self-Driving Car Object Detection]], un pipeline de détection d'objets progressif construit avec un modèle d'apprentissage par transfert VGG16 affiné et YOLOv3/DarkNet pour la détection en temps réel."
+                            "text": "Reconnu pour la meilleure présentation parmi 8 équipes de projet — voté projet le plus apprécié et le plus complexe techniquement — pour [[Self-Driving Car Object Detection]], un pipeline de détection d'objets progressif construit avec un modèle d'apprentissage par transfert VGG16 affiné et YOLOv3/DarkNet pour la détection en temps réel. Une reconnaissance significative de mes compétences en communication technique, compte tenu du niveau d'avancement du projet."
                         },
                         "hi": {
-                            "title": "{{बेस्ट प्रेजेंटेशन}} — Inspirit AI समर प्रोग्राम",
+                            "title": "{{बेस्ट प्रेजेंटेशन}} — Inspirit AI Scholars समर प्रोग्राम",
                             "province": "",
                             "country": "US",
                             "institution": "Inspirit AI",
-                            "text": "[[Self-Driving Car Object Detection]] के लिए 8 प्रोजेक्ट टीमों में से सर्वश्रेष्ठ प्रेजेंटेशन के लिए मान्यता प्राप्त हुई, जो एक फ़ाइन-ट्यून्ड VGG16 ट्रांसफ़र-लर्निंग मॉडल और रियल-टाइम डिटेक्शन के लिए YOLOv3/DarkNet के साथ बनाई गई एक प्रोग्रेसिव ऑब्जेक्ट डिटेक्शन पाइपलाइन है।"
+                            "text": "[[Self-Driving Car Object Detection]] के लिए 8 प्रोजेक्ट टीमों में से सर्वश्रेष्ठ प्रेजेंटेशन के लिए मान्यता प्राप्त हुई — सबसे पसंदीदा और तकनीकी रूप से सबसे जटिल प्रोजेक्ट के रूप में वोट किया गया — जो एक फ़ाइन-ट्यून्ड VGG16 ट्रांसफ़र-लर्निंग मॉडल और रियल-टाइम डिटेक्शन के लिए YOLOv3/DarkNet के साथ बनाई गई एक प्रोग्रेसिव ऑब्जेक्ट डिटेक्शन पाइपलाइन है। प्रोजेक्ट कितना एडवांस्ड था, यह देखते हुए तकनीकी संचार कौशल की एक सार्थक पहचान।"
                         },
                         "ta": {
-                            "title": "{{சிறந்த விளக்கக்காட்சி}} — Inspirit AI கோடைக்கால திட்டம்",
+                            "title": "{{சிறந்த விளக்கக்காட்சி}} — Inspirit AI Scholars கோடைக்கால திட்டம்",
                             "province": "",
                             "country": "US",
                             "institution": "Inspirit AI",
-                            "text": "fine-tune செய்யப்பட்ட VGG16 transfer-learning மாடல் மற்றும் நிகழ்நேர கண்டறிதலுக்கான YOLOv3/DarkNet-உடன் கட்டமைக்கப்பட்ட ஒரு படிப்படியான object detection pipeline ஆன [[Self-Driving Car Object Detection]]-க்காக 8 திட்டக் குழுக்களில் சிறந்த விளக்கக்காட்சிக்காக அங்கீகரிக்கப்பட்டேன்."
+                            "text": "fine-tune செய்யப்பட்ட VGG16 transfer-learning மாடல் மற்றும் நிகழ்நேர கண்டறிதலுக்கான YOLOv3/DarkNet-உடன் கட்டமைக்கப்பட்ட ஒரு படிப்படியான object detection pipeline ஆன [[Self-Driving Car Object Detection]]-க்காக 8 திட்டக் குழுக்களில் சிறந்த விளக்கக்காட்சிக்காக அங்கீகரிக்கப்பட்டேன் — மிகவும் விரும்பப்பட்ட மற்றும் தொழில்நுட்ப ரீதியாக மிகவும் சிக்கலான திட்டமாக வாக்களிக்கப்பட்டது. திட்டம் எவ்வளவு மேம்பட்டதாக இருந்தது என்பதைக் கருத்தில் கொண்டு, தொழில்நுட்ப தொடர்பு திறமைக்கான ஒரு அர்த்தமுள்ள அங்கீகாரம்."
                         }
                     }
                 }

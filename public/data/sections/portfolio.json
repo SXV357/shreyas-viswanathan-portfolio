@@ -83,9 +83,7 @@
                     "faIcon": "fa-solid fa-microchip",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
-                        "links": [
-                            {"href": "", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
-                        ],
+                        "links": [],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
@@ -120,9 +118,7 @@
                     "faIcon": "fa-solid fa-terminal",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
-                        "links": [
-                            {"href": "", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
-                        ],
+                        "links": [],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
@@ -157,9 +153,7 @@
                     "faIcon": "fa-solid fa-server",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
-                        "links": [
-                            {"href": "", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
-                        ],
+                        "links": [],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
@@ -231,9 +225,7 @@
                     "faIcon": "fa-solid fa-memory",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
-                        "links": [
-                            {"href": "", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
-                        ],
+                        "links": [],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""

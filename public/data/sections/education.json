@@ -51,7 +51,7 @@
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue University",
-                            "text": "Concentration in [[Machine Intelligence]], GPA 3.76 — 6x Dean's List, 5x Semester Honors. Coursework spans systems programming, low-level architecture, algorithms, OOP, machine learning, and databases, and I'm looking forward to CS 557: Reinforcement Learning (graduate) this fall. Active across:",
+                            "text": "Concentration in [[Machine Intelligence]], GPA 3.76 — 6x Dean's List, 5x Semester Honors. Coursework spans systems programming, low-level architecture, algorithms, OOP, machine learning, and databases. I'm looking forward to CS 557: Reinforcement Learning (graduate) this fall!. Active across:",
                             "list": [
                                 "Hello World Hackathon — Oct 2023–Present",
                                 "Hack the Future (SWE club building full-stack projects for non-profits)",
@@ -61,7 +61,7 @@
                         },
                         "fr": {
                             "title": "{{Licence}} en informatique",
-                            "province": "Indiana",
+                            "province": "West Lafayette, Indiana",
                             "country": "États-Unis",
                             "institution": "Purdue University",
                             "text": "Concentration en [[Machine Intelligence]], GPA 3.76 — 6x Dean's List, 5x Semester Honors. Les cours couvrent la programmation système, l'architecture bas niveau, les algorithmes, la POO, le machine learning et les bases de données, et j'ai hâte de suivre CS 557 : Reinforcement Learning (niveau master) cet automne. Actif au sein de :",
@@ -74,7 +74,7 @@
                         },
                         "hi": {
                             "title": "कंप्यूटर साइंस में {{स्नातक}} (BS)",
-                            "province": "इंडियाना",
+                            "province": "वेस्ट लफायेट, इंडियाना",
                             "country": "अमेरिका",
                             "institution": "पर्ड्यू विश्वविद्यालय",
                             "text": "[[Machine Intelligence]] में Concentration, GPA 3.76 — 6x Dean's List, 5x Semester Honors। कोर्सवर्क सिस्टम्स प्रोग्रामिंग, लो-लेवल आर्किटेक्चर, एल्गोरिदम्स, OOP, मशीन लर्निंग और डेटाबेस तक फैला है, और इस फॉल में CS 557: Reinforcement Learning (ग्रेजुएट कोर्स) लेने का इंतज़ार है। सक्रिय भागीदारी:",
@@ -87,7 +87,7 @@
                         },
                         "ta": {
                             "title": "கணினி அறிவியலில் {{இளங்கலை}} பட்டம்",
-                            "province": "இண்டியானா",
+                            "province": "வெஸ்ட் லஃபாயெட், இண்டியானா",
                             "country": "அமெரிக்கா",
                             "institution": "பர்டியூ பல்கலைக்கழகம்",
                             "text": "[[Machine Intelligence]] இல் Concentration, GPA 3.76 — 6x Dean's List, 5x Semester Honors. பாடத்திட்டம் சிஸ்டம்ஸ் ப்ரோகிராமிங், லோ-லெவல் ஆர்க்கிடெக்சர், அல்காரிதம்ஸ், OOP, மெஷின் லேர்னிங் மற்றும் டேட்டாபேஸ்கள் வரை பரவியுள்ளது, மேலும் இந்த வீழ்ச்சியில் CS 557: Reinforcement Learning (பட்டமேற்படிப்பு) எடுக்க எதிர்பார்க்கிறேன். இதில் சுறுசுறுப்பாக பங்கேற்கிறார்:",
@@ -107,6 +107,15 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2022, "month": 6},
                     "dateEnd": {"year": 2022, "month": 8},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1YkbY8XX6RHMkEfkzwknCZ2rlg8VI8Yzr/view", "tooltipString": "see_certification", "faIcon": "fa-solid fa-graduation-cap"},
+                            {"href": "https://drive.google.com/file/d/1k0HeqEYl2lkx_IpbbOP6Vk5UUyYi6c7x/view", "tooltipString": "see_certification", "faIcon": "fa-solid fa-brain"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
                     "locales": {
                         "en": {
                             "title": "{{AI Innovation Fellow}} — Foundations & Deep Learning",
@@ -124,7 +133,7 @@
                             "institution": "Inspirit AI",
                             "text": "A suivi deux programmes intensifs de ML totalisant 50 heures, couvrant les fondamentaux jusqu'à des sujets avancés comme la [[segmentation d'image, les transformers et l'apprentissage par renforcement]]. A développé un pipeline de détection d'objets multi-modèles pour véhicules autonomes, ainsi qu'un agent d'apprentissage par renforcement doté de capacités de conduite autonome, en les présentant devant un panel de mentors étudiants de cycle supérieur d'universités de l'Ivy League et de professionnels du secteur.",
                             "list": [],
-                            "tags": ["Machine Learning", "Vision par Ordinateur", "Apprentissage par Renforcement"]
+                            "tags": ["Apprentissage automatique", "Vision par Ordinateur", "Apprentissage par Renforcement"]
                         },
                         "hi": {
                             "title": "{{AI Innovation Fellow}} — फाउंडेशन्स एंड डीप लर्निंग",

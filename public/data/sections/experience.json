@@ -109,7 +109,7 @@
                             "province": "",
                             "country": "US",
                             "institution": "Space Cow LLC",
-                            "text": "Built core LLM infrastructure for a startup's AI platform, including a session-based conversation history and token-tracking system supporting context windows from 4K to 2M tokens, an abstraction layer unifying 120+ models across 5+ providers for seamless switching, and a CLI-based RAG chatbot for document and website analysis across 8+ domains.",
+                            "text": "Built core LLM infrastructure for a startup's AI platform (a developer playground for testing LLMs and building chatbot apps), including a session-based conversation history and token-tracking system supporting context windows from 4K to 2M tokens, and an abstraction layer unifying 120+ models across 5+ providers for seamless switching. Separately prototyped a CLI-based RAG chatbot for document and website analysis across 8+ domains, exploring future extensions such as manufacturing document ingestion.",
                             "list": [],
                             "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         },
@@ -118,7 +118,7 @@
                             "province": "",
                             "country": "États-Unis",
                             "institution": "Space Cow LLC",
-                            "text": "Développé l'infrastructure LLM principale pour la plateforme IA d'une startup, incluant un système de suivi d'historique de conversation par session et de jetons prenant en charge des fenêtres de contexte de 4K à 2M jetons, une couche d'abstraction unifiant plus de 120 modèles chez plus de 5 fournisseurs pour un changement fluide, et un chatbot RAG en ligne de commande pour l'analyse de documents et de sites web dans plus de 8 domaines.",
+                            "text": "Développé l'infrastructure LLM principale pour la plateforme IA d'une startup (un bac à sable pour tester des LLM et créer des applications de chatbot), incluant un système de suivi d'historique de conversation par session et de jetons prenant en charge des fenêtres de contexte de 4K à 2M jetons, et une couche d'abstraction unifiant plus de 120 modèles chez plus de 5 fournisseurs pour un changement fluide. Prototypé séparément un chatbot RAG en ligne de commande pour l'analyse de documents et de sites web dans plus de 8 domaines, explorant de futures extensions comme l'ingestion de documents manufacturiers.",
                             "list": [],
                             "tags": []
                         },
@@ -127,7 +127,7 @@
                             "province": "",
                             "country": "अमेरिका",
                             "institution": "Space Cow LLC",
-                            "text": "एक स्टार्टअप के AI प्लेटफ़ॉर्म के लिए मुख्य LLM इंफ्रास्ट्रक्चर बनाया, जिसमें 4K से 2M टोकन तक के कॉन्टेक्स्ट विंडो का समर्थन करने वाला सेशन-आधारित बातचीत इतिहास और टोकन-ट्रैकिंग सिस्टम, 5+ प्रदाताओं में 120+ मॉडलों को एकीकृत करने वाली एब्स्ट्रैक्शन लेयर, और 8+ डोमेन में दस्तावेज़ और वेबसाइट विश्लेषण के लिए CLI-आधारित RAG चैटबॉट शामिल है।",
+                            "text": "एक स्टार्टअप के AI प्लेटफ़ॉर्म (LLM टेस्ट करने और चैटबॉट ऐप्स बनाने के लिए एक डेवलपर प्लेग्राउंड) के लिए मुख्य LLM इंफ्रास्ट्रक्चर बनाया, जिसमें 4K से 2M टोकन तक के कॉन्टेक्स्ट विंडो का समर्थन करने वाला सेशन-आधारित बातचीत इतिहास और टोकन-ट्रैकिंग सिस्टम, और 5+ प्रदाताओं में 120+ मॉडलों को एकीकृत करने वाली एब्स्ट्रैक्शन लेयर शामिल है। अलग से, 8+ डोमेन में दस्तावेज़ और वेबसाइट विश्लेषण के लिए एक CLI-आधारित RAG चैटबॉट प्रोटोटाइप किया, जो मैन्युफैक्चरिंग दस्तावेज़ इनजेशन जैसे भविष्य के विस्तार की खोज करता है।",
                             "list": [],
                             "tags": []
                         },
@@ -136,7 +136,7 @@
                             "province": "",
                             "country": "அமெரிக்கா",
                             "institution": "Space Cow LLC",
-                            "text": "ஒரு ஸ்டார்ட்அப்பின் AI தளத்திற்கான முக்கிய LLM உள்கட்டமைப்பை உருவாக்கினேன், இதில் 4K முதல் 2M டோக்கன்கள் வரையிலான சூழல் சாளரங்களை ஆதரிக்கும் அமர்வு அடிப்படையிலான உரையாடல் வரலாறு மற்றும் டோக்கன்-கண்காணிப்பு அமைப்பு, 5+ வழங்குநர்களில் 120+ மாடல்களை ஒருங்கிணைக்கும் சுருக்க அடுக்கு, மற்றும் 8+ களங்களில் ஆவணம் மற்றும் இணையதள பகுப்பாய்வுக்கான CLI அடிப்படையிலான RAG chatbot ஆகியவை அடங்கும்.",
+                            "text": "ஒரு ஸ்டார்ட்அப்பின் AI தளத்திற்காக (LLM-களை சோதிக்கவும் chatbot ஆப்ஸை உருவாக்கவும் ஒரு டெவலப்பர் playground) முக்கிய LLM உள்கட்டமைப்பை உருவாக்கினேன், இதில் 4K முதல் 2M டோக்கன்கள் வரையிலான சூழல் சாளரங்களை ஆதரிக்கும் அமர்வு அடிப்படையிலான உரையாடல் வரலாறு மற்றும் டோக்கன்-கண்காணிப்பு அமைப்பு, மற்றும் 5+ வழங்குநர்களில் 120+ மாடல்களை ஒருங்கிணைக்கும் சுருக்க அடுக்கு ஆகியவை அடங்கும். தனியாக, 8+ களங்களில் ஆவணம் மற்றும் இணையதள பகுப்பாய்வுக்கான CLI அடிப்படையிலான RAG chatbot ஐ prototype செய்தேன், உற்பத்தி ஆவண உட்செலுத்தல் போன்ற எதிர்கால விரிவாக்கங்களை ஆராய்ந்தேன்.",
                             "list": [],
                             "tags": []
                         }
@@ -247,7 +247,7 @@
                             "province": "Urbandale, IA",
                             "country": "US",
                             "institution": "John Deere",
-                            "text": "Working on the transform product area within John Deere's IMET (Ingest-Model-Enhance-Transform) space, contributing to a full-stack rewrite of an internal support tool used by transform teams for development work, tier 2 support tickets, and other API consumers.",
+                            "text": "Led a full-stack rewrite (Angular/Scala Play → React/Go) of an internal support tool used by 200+ engineers to explore, test, debug, and troubleshoot services powering JD Ops Center, helping resolve 2,000+ tickets annually. Independently led a security-driven Angular 13→19 migration of the tool's legacy frontend in a single day, resolving 6 categories of breaking changes with zero backend or infrastructure changes, and wired user-ID request tracing into nested Datadog spans while optimizing SQS writes for field operation exports via batching, cutting network round trips by up to 90%.",
                             "list": [],
                             "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
                         },
@@ -256,7 +256,7 @@
                             "province": "Urbandale, IA",
                             "country": "États-Unis",
                             "institution": "John Deere",
-                            "text": "Travaille au sein du domaine produit « transform » dans l'espace IMET (Ingest-Model-Enhance-Transform) de John Deere, en contribuant à une réécriture full-stack d'un outil de support interne utilisé par les équipes transform pour leur travail de développement, les tickets de support de niveau 2, et d'autres consommateurs des API transform.",
+                            "text": "Dirigé une réécriture full-stack (Angular/Scala Play → React/Go) d'un outil de support interne utilisé par plus de 200 ingénieurs pour explorer, tester, déboguer et dépanner les services alimentant JD Ops Center, contribuant à résoudre plus de 2 000 tickets par an. Dirigé de manière autonome une migration Angular 13→19 axée sur la sécurité du frontend existant de l'outil en une seule journée, résolvant 6 catégories de changements cassants sans aucune modification du backend ou de l'infrastructure, et intégré le traçage des requêtes par ID utilisateur dans des spans Datadog imbriqués tout en optimisant les écritures SQS pour les exports d'opérations sur le terrain via le batching, réduisant les allers-retours réseau jusqu'à 90 %.",
                             "list": [],
                             "tags": []
                         },
@@ -265,7 +265,7 @@
                             "province": "Urbandale, IA",
                             "country": "अमेरिका",
                             "institution": "John Deere",
-                            "text": "John Deere के IMET (Ingest-Model-Enhance-Transform) क्षेत्र के transform प्रोडक्ट एरिया पर काम कर रहे हैं, एक आंतरिक सपोर्ट टूल के फुल-स्टैक पुनर्लेखन में योगदान दे रहे हैं जिसका उपयोग transform टीमें डेवलपमेंट कार्य, टियर 2 सपोर्ट टिकट, और अन्य API उपभोक्ताओं के लिए करती हैं।",
+                            "text": "200+ इंजीनियरों द्वारा उपयोग किए जाने वाले आंतरिक सपोर्ट टूल का फुल-स्टैक पुनर्लेखन (Angular/Scala Play → React/Go) किया, जिससे JD Ops Center को संचालित करने वाली सेवाओं को एक्सप्लोर, टेस्ट, डीबग और ट्रबलशूट किया जा सका, और सालाना 2,000+ टिकट हल करने में मदद मिली। स्वतंत्र रूप से टूल के लेगेसी फ्रंटएंड का सुरक्षा-संचालित Angular 13→19 माइग्रेशन एक ही दिन में पूरा किया, बिना बैकएंड या इन्फ्रास्ट्रक्चर बदलाव के 6 श्रेणियों के ब्रेकिंग चेंज हल किए, और यूज़र-ID रिक्वेस्ट ट्रेसिंग को नेस्टेड Datadog स्पैन में जोड़ते हुए बैचिंग के जरिए फील्ड ऑपरेशन एक्सपोर्ट्स के लिए SQS राइट्स ऑप्टिमाइज़ कर नेटवर्क राउंड ट्रिप्स 90% तक घटाए।",
                             "list": [],
                             "tags": []
                         },
@@ -274,7 +274,7 @@
                             "province": "Urbandale, IA",
                             "country": "அமெரிக்கா",
                             "institution": "John Deere",
-                            "text": "John Deere இன் IMET (Ingest-Model-Enhance-Transform) பகுதிக்குள் transform தயாரிப்பு பகுதியில் பணிபுரிகிறேன், transform குழுக்கள் மேம்பாட்டு பணி, நிலை 2 ஆதரவு டிக்கெட்டுகள் மற்றும் பிற API நுகர்வோருக்காகப் பயன்படுத்தும் உள் ஆதரவு கருவியின் முழு-அடுக்கு மறுஎழுத்தில் பங்களிக்கிறேன்.",
+                            "text": "JD Ops Center ஐ இயக்கும் சேவைகளை ஆராய, சோதிக்க, பிழைதிருத்த மற்றும் சரிசெய்ய 200+ பொறியாளர்கள் பயன்படுத்தும் உள் ஆதரவு கருவியின் முழு-அடுக்கு மறுஎழுத்தை (Angular/Scala Play → React/Go) முன்னெடுத்தேன், ஆண்டுக்கு 2,000+ டிக்கெட்டுகளை தீர்க்க உதவியது. கருவியின் legacy frontend இன் பாதுகாப்பு-உந்துதல் Angular 13→19 இடம்பெயர்வை ஒரே நாளில் தனியாக முன்னெடுத்து, backend அல்லது infrastructure மாற்றங்கள் இல்லாமல் 6 வகையான breaking changes ஐ தீர்த்தேன், மேலும் பயனர்-ID கோரிக்கை tracing ஐ nested Datadog spans இல் இணைத்து, batching மூலம் field operation exports க்கான SQS writes ஐ optimize செய்து network round trips ஐ 90% வரை குறைத்தேன்.",
                             "list": [],
                             "tags": []
                         }
