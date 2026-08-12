@@ -1,6 +1,6 @@
 # [Shreyas Viswanathan](https://sxv357.github.io/shreyas-viswanathan-portfolio/) — Portfolio
 
-Personal portfolio site for Shreyas Viswanathan — Purdue CS student, backend/full-stack engineer, and applied ML/CV researcher. Built with **React** and **Bootstrap 5**.
+Personal portfolio site for Shreyas Viswanathan — Purdue CS student interested in backend engineering (distributed systems + cloud infrastructure), full-stack engineering, and Computer Vision/Autonomous Systems. Built with **React** and **Bootstrap 5**.
 
 ## Getting Started
 
