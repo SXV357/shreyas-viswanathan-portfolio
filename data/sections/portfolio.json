@@ -1,0 +1,477 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Portfolio}}"
+            },
+            "es": {
+                "title_short": "Portafolio",
+                "title_short_nav": "Portafolio",
+                "title_long_prefix": "Explora",
+                "title_long": "Mi {{Portafolio}}"
+            },
+            "fr": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Découvrez",
+                "title_long": "Mon {{Portfolio}}"
+            },
+            "hi": {
+                "title_short": "पोर्टफोलियो",
+                "title_short_nav": "पोर्टफोलियो",
+                "title_long_prefix": "एक नज़र डालिए",
+                "title_long": "मेरे {{पोर्टफोलियो}} पर"
+            },
+            "ta": {
+                "title_short": "போர்ட்ஃபோலியோ",
+                "title_short_nav": "போர்ட்ஃபோலியோ",
+                "title_long_prefix": "பாருங்கள்",
+                "title_long": "என் {{போர்ட்ஃபோலியோ}}வை"
+            },
+            "ko": {
+                "title_short": "포트폴리오",
+                "title_short_nav": "포트폴리오",
+                "title_long_prefix": "이것은 내",
+                "title_long": "{{포트폴리오}}입니다"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_systems": "Low-Level/Systems",
+                    "category_fullstack": "Full-Stack",
+                    "category_ai_ml": "AI/ML"
+                },
+                "fr": {
+                    "category_all": "Tout",
+                    "category_systems": "Bas Niveau/Systèmes",
+                    "category_fullstack": "Full-Stack",
+                    "category_ai_ml": "IA/ML"
+                },
+                "hi": {
+                    "category_all": "सभी",
+                    "category_systems": "लो-लेवल/सिस्टम्स",
+                    "category_fullstack": "फुल-स्टैक",
+                    "category_ai_ml": "AI/ML"
+                },
+                "ta": {
+                    "category_all": "அனைத்தும்",
+                    "category_systems": "லோ-லெவல்/சிஸ்டம்ஸ்",
+                    "category_fullstack": "புல்-ஸ்டேக்",
+                    "category_ai_ml": "AI/ML"
+                }
+            },
+            "settings": {
+                "categorize_by": ["category_systems", "category_fullstack", "category_ai_ml"],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_systems",
+                    "img": "",
+                    "faIcon": "fa-solid fa-microchip",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Simple C Compiler",
+                            "text": "A hand-built compiler for a practical subset of <b>C</b> (pointers, arrays, control flow, functions), using <b>Flex/Bison</b> for lexing/parsing and emitting <b>x86-64 assembly</b> targeting the System V ABI. Handles stack-frame layout, callee-saved register discipline, and calling-convention correctness (argument passing, variadic externs like <code>printf</code>, return values in RAX) across nested expressions and function calls.",
+                            "tags": ["C", "Flex", "Bison", "x86-64 Assembly", "Compilers"]
+                        },
+                        "fr": {
+                            "title": "Compilateur C simple",
+                            "text": "Un compilateur conçu à la main pour un sous-ensemble pratique du <b>C</b> (pointeurs, tableaux, structures de contrôle, fonctions), utilisant <b>Flex/Bison</b> pour l'analyse lexicale et syntaxique, et générant de l'<b>assembleur x86-64</b> ciblant l'ABI System V. Gère la disposition des cadres de pile, la discipline des registres préservés par l'appelé, et l'exactitude des conventions d'appel (passage des arguments, fonctions externes variadiques comme <code>printf</code>, valeurs de retour dans RAX) à travers des expressions imbriquées et des appels de fonction.",
+                            "tags": ["C", "Flex", "Bison", "Assembleur x86-64", "Compilateurs"]
+                        },
+                        "hi": {
+                            "title": "सिंपल C कंपाइलर",
+                            "text": "<b>C</b> के एक व्यावहारिक सबसेट (पॉइंटर्स, ऐरे, कंट्रोल फ्लो, फंक्शन्स) के लिए हाथ से बनाया गया एक कंपाइलर, जो लेक्सिंग/पार्सिंग के लिए <b>Flex/Bison</b> का उपयोग करता है और System V ABI को लक्षित करते हुए <b>x86-64 असेंबली</b> जनरेट करता है। यह स्टैक-फ्रेम लेआउट, कॉली-सेव्ड रजिस्टर अनुशासन, और कॉलिंग-कन्वेंशन शुद्धता (आर्गुमेंट पासिंग, <code>printf</code> जैसे वेरिएडिक एक्सटर्न्स, RAX में रिटर्न वैल्यूज़) को नेस्टेड एक्सप्रेशन्स और फंक्शन कॉल्स के दौरान संभालता है।",
+                            "tags": ["C", "Flex", "Bison", "x86-64 असेंबली", "कंपाइलर"]
+                        },
+                        "ta": {
+                            "title": "சிம்பிள் C கம்பைலர்",
+                            "text": "<b>C</b>-ன் ஒரு நடைமுறை subset-க்கான (பாயிண்டர்கள், அரேகள், control flow, functions) கையால் உருவாக்கப்பட்ட ஒரு கம்பைலர், lexing/parsing-க்கு <b>Flex/Bison</b>-ஐ பயன்படுத்தி, System V ABI-ஐ இலக்காகக் கொண்டு <b>x86-64 assembly</b>-ஐ உருவாக்குகிறது. stack-frame லேஅவுட், callee-saved register ஒழுங்கு, மற்றும் calling-convention சரியான தன்மையை (argument passing, <code>printf</code> போன்ற variadic externs, RAX-இல் return values) nested expressions மற்றும் function calls முழுவதும் கையாள்கிறது.",
+                            "tags": ["C", "Flex", "Bison", "x86-64 அசெம்பிளி", "கம்பைலர்கள்"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_systems",
+                    "img": "",
+                    "faIcon": "fa-solid fa-terminal",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Custom Shell Interpreter",
+                            "text": "A fully-functional <b>Unix shell</b> built with <b>Lex/Yacc</b> for parsing and <b>C++</b> for execution — supporting wildcard expansion, command piping, I/O redirection, environment variable expansion, subshell execution, background process management, and zombie process elimination via signal handling.",
+                            "tags": ["C++", "Lex", "Yacc", "Shell", "Systems Programming"]
+                        },
+                        "fr": {
+                            "title": "Interpréteur de shell personnalisé",
+                            "text": "Un <b>shell Unix</b> entièrement fonctionnel, construit avec <b>Lex/Yacc</b> pour l'analyse et <b>C++</b> pour l'exécution — prenant en charge l'expansion des jokers, le chaînage de commandes (piping), la redirection d'E/S, l'expansion des variables d'environnement, l'exécution en sous-shell, la gestion des processus en arrière-plan, et l'élimination des processus zombies via la gestion des signaux.",
+                            "tags": ["C++", "Lex", "Yacc", "Shell", "Programmation système"]
+                        },
+                        "hi": {
+                            "title": "कस्टम शेल इंटरप्रेटर",
+                            "text": "पार्सिंग के लिए <b>Lex/Yacc</b> और एक्सीक्यूशन के लिए <b>C++</b> के साथ बनाया गया एक पूरी तरह कार्यशील <b>Unix शेल</b> — जो वाइल्डकार्ड एक्सपैंशन, कमांड पाइपिंग, I/O रीडायरेक्शन, एनवायरनमेंट वेरिएबल एक्सपैंशन, सबशेल एक्सीक्यूशन, बैकग्राउंड प्रोसेस मैनेजमेंट, और सिग्नल हैंडलिंग के ज़रिए ज़ॉम्बी प्रोसेस उन्मूलन का समर्थन करता है।",
+                            "tags": ["C++", "Lex", "Yacc", "शेल", "सिस्टम प्रोग्रामिंग"]
+                        },
+                        "ta": {
+                            "title": "கஸ்டம் ஷெல் இன்டர்ப்ரெட்டர்",
+                            "text": "parsing-க்கு <b>Lex/Yacc</b>-ஐயும் execution-க்கு <b>C++</b>-ஐயும் பயன்படுத்தி உருவாக்கப்பட்ட முழுமையாக செயல்படும் <b>Unix shell</b> — wildcard expansion, command piping, I/O redirection, environment variable expansion, subshell execution, background process மேலாண்மை, மற்றும் signal handling மூலம் zombie process நீக்கம் ஆகியவற்றை ஆதரிக்கிறது.",
+                            "tags": ["C++", "Lex", "Yacc", "ஷெல்", "சிஸ்டம் நிரலாக்கம்"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_systems",
+                    "img": "",
+                    "faIcon": "fa-solid fa-server",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTTP Web Server",
+                            "text": "A concurrent <b>HTTP web server</b> supporting multiple concurrency models (forking, threading, thread pool), with authentication, recursive directory browsing, CGI-BIN script execution, configurable port binding, and proper HTTP status codes — built with <b>C++ socket programming</b> and a multi-process/multi-threaded architecture.",
+                            "tags": ["C++", "Sockets", "HTTP", "Concurrency", "Networking"]
+                        },
+                        "fr": {
+                            "title": "Serveur web HTTP",
+                            "text": "Un <b>serveur web HTTP</b> concurrent prenant en charge plusieurs modèles de concurrence (forking, threading, pool de threads), avec authentification, navigation récursive des répertoires, exécution de scripts CGI-BIN, liaison de port configurable, et codes de statut HTTP appropriés — construit avec la <b>programmation de sockets en C++</b> et une architecture multi-processus/multi-thread.",
+                            "tags": ["C++", "Sockets", "HTTP", "Concurrence", "Réseaux"]
+                        },
+                        "hi": {
+                            "title": "HTTP वेब सर्वर",
+                            "text": "एक समवर्ती <b>HTTP वेब सर्वर</b> जो कई कंकरेंसी मॉडल्स (forking, threading, thread pool) का समर्थन करता है, जिसमें ऑथेंटिकेशन, रिकर्सिव डायरेक्टरी ब्राउज़िंग, CGI-BIN स्क्रिप्ट एक्सीक्यूशन, कॉन्फ़िगर करने योग्य पोर्ट बाइंडिंग, और उचित HTTP स्टेटस कोड्स शामिल हैं — जिसे <b>C++ सॉकेट प्रोग्रामिंग</b> और मल्टी-प्रोसेस/मल्टी-थ्रेडेड आर्किटेक्चर के साथ बनाया गया है।",
+                            "tags": ["C++", "सॉकेट्स", "HTTP", "कॉन्करेंसी", "नेटवर्किंग"]
+                        },
+                        "ta": {
+                            "title": "HTTP வெப் சர்வர்",
+                            "text": "பல concurrency மாடல்களை (forking, threading, thread pool) ஆதரிக்கும் ஒரு concurrent <b>HTTP வெப் சர்வர்</b், authentication, recursive directory browsing, CGI-BIN script execution, configurable port binding, மற்றும் சரியான HTTP status codes உடன் — <b>C++ socket நிரலாக்கம்</b> மற்றும் multi-process/multi-threaded architecture-உடன் கட்டமைக்கப்பட்டது.",
+                            "tags": ["C++", "சாக்கெட்ஸ்", "HTTP", "கான்கரன்சி", "நெட்வொர்க்கிங்"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_systems",
+                    "img": "",
+                    "faIcon": "fa-solid fa-table-cells",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/x86-64-HashTable", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "x86-64 Hashtable",
+                            "text": "A hashtable with dual <b>C</b> and <b>x86-64 assembly</b> implementations, using <b>chaining</b> for collision handling. The optimized version swaps prime-sized buckets for power-of-2 sizing (bitwise ops instead of modulo), adds 8-byte-aligned keys for chunk-based comparisons and a move-to-front strategy for hot nodes — achieving 32% faster insertion, 27% faster lookup, and 25% faster deletion over the baseline.",
+                            "tags": ["C", "x86-64 Assembly", "Data Structures", "Performance Optimization"]
+                        },
+                        "fr": {
+                            "title": "Table de hachage x86-64",
+                            "text": "Une table de hachage avec des implémentations doubles en <b>C</b> et en <b>assembleur x86-64</b>, utilisant le <b>chaînage</b> pour la gestion des collisions. La version optimisée remplace les buckets de taille première par un dimensionnement en puissance de 2 (opérations bit à bit au lieu du modulo), ajoute des clés alignées sur 8 octets pour des comparaisons par blocs et une stratégie « déplacement en tête » pour les nœuds actifs — atteignant une insertion 32 % plus rapide, une recherche 27 % plus rapide et une suppression 25 % plus rapide par rapport à la référence.",
+                            "tags": ["C", "Assembleur x86-64", "Structures de données", "Optimisation des performances"]
+                        },
+                        "hi": {
+                            "title": "x86-64 हैशटेबल",
+                            "text": "<b>C</b> और <b>x86-64 असेंबली</b> दोनों में लागू किया गया एक हैशटेबल, जो कोलिजन हैंडलिंग के लिए <b>चेनिंग</b> का उपयोग करता है। ऑप्टिमाइज़्ड वर्ज़न प्राइम-साइज़्ड बकेट्स को पावर-ऑफ़-2 साइज़िंग (मॉड्यूलो के बजाय बिटवाइज़ ऑपरेशन्स) से बदलता है, चंक-आधारित तुलना के लिए 8-बाइट-अलाइन्ड कीज़ जोड़ता है और हॉट नोड्स के लिए एक मूव-टू-फ्रंट स्ट्रैटेजी अपनाता है — जिससे बेसलाइन की तुलना में 32% तेज़ इंसर्शन, 27% तेज़ लुकअप, और 25% तेज़ डिलीशन हासिल होता है।",
+                            "tags": ["C", "x86-64 असेंबली", "डेटा संरचनाएं", "प्रदर्शन अनुकूलन"]
+                        },
+                        "ta": {
+                            "title": "x86-64 ஹாஷ்டேபிள்",
+                            "text": "<b>C</b> மற்றும் <b>x86-64 assembly</b> ஆகிய இரண்டிலும் செயல்படுத்தப்பட்ட ஒரு hashtable, collision handling-க்கு <b>chaining</b>-ஐ பயன்படுத்துகிறது. optimize செய்யப்பட்ட version prime-sized buckets-க்கு பதிலாக power-of-2 sizing-ஐ (modulo-க்கு பதிலாக bitwise operations) பயன்படுத்துகிறது, chunk அடிப்படையிலான ஒப்பீடுகளுக்காக 8-byte-aligned keys-ஐ சேர்க்கிறது, மற்றும் hot nodes-க்கான move-to-front உத்தியை பயன்படுத்துகிறது — இதன் மூலம் baseline-ஐ விட 32% வேகமான insertion, 27% வேகமான lookup, மற்றும் 25% வேகமான deletion அடையப்படுகிறது.",
+                            "tags": ["C", "x86-64 அசெம்பிளி", "தரவு கட்டமைப்புகள்", "செயல்திறன் மேம்படுத்தல்"]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "categoryId": "category_systems",
+                    "img": "",
+                    "faIcon": "fa-solid fa-memory",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Custom Memory Allocator",
+                            "text": "A high-performance <b>malloc</b> implementation inspired by Doug Lea's allocator (used in Linux) — featuring 59-tier free lists for efficient allocation, block coalescing to prevent fragmentation, memory fenceposting for corruption detection, and canary guards against buffer overflows.",
+                            "tags": ["C", "Memory Management", "Systems Programming"]
+                        },
+                        "fr": {
+                            "title": "Allocateur de mémoire personnalisé",
+                            "text": "Une implémentation haute performance de <b>malloc</b> inspirée de l'allocateur de Doug Lea (utilisé dans Linux) — dotée de 59 niveaux de listes libres pour une allocation efficace, d'une fusion de blocs pour éviter la fragmentation, de bornes mémoire (fenceposting) pour la détection de corruption, et de gardes canari contre les débordements de tampon.",
+                            "tags": ["C", "Gestion de la mémoire", "Programmation système"]
+                        },
+                        "hi": {
+                            "title": "कस्टम मेमोरी एलोकेटर",
+                            "text": "Doug Lea के एलोकेटर (जो Linux में उपयोग होता है) से प्रेरित एक हाई-परफॉर्मेंस <b>malloc</b> इम्प्लीमेंटेशन — जिसमें कुशल आवंटन के लिए 59-टियर फ्री लिस्ट्स, फ्रेगमेंटेशन रोकने के लिए ब्लॉक कोलेसिंग, करप्शन डिटेक्शन के लिए मेमोरी फेंसपोस्टिंग, और बफर ओवरफ्लो के विरुद्ध कैनरी गार्ड्स शामिल हैं।",
+                            "tags": ["C", "मेमोरी प्रबंधन", "सिस्टम प्रोग्रामिंग"]
+                        },
+                        "ta": {
+                            "title": "கஸ்டம் மெமரி allocator",
+                            "text": "Doug Lea-வின் allocator-ஆல் (Linux-இல் பயன்படுத்தப்படுகிறது) ஈர்க்கப்பட்ட ஒரு high-performance <b>malloc</b> செயல்படுத்தல் — திறமையான allocation-க்காக 59-tier free lists, fragmentation-ஐ தடுக்க block coalescing, corruption கண்டறிதலுக்காக memory fenceposting, மற்றும் buffer overflow-களுக்கு எதிராக canary guards ஆகியவற்றைக் கொண்டுள்ளது.",
+                            "tags": ["C", "மெமரி மேலாண்மை", "சிஸ்டம் நிரலாக்கம்"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_fullstack",
+                    "img": "",
+                    "faIcon": "fa-solid fa-layer-group",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "SFSL SMS Ordering Platform",
+                            "text": "A <b>Twilio-powered SMS ordering pipeline</b> with live inventory integration, built for SFSL's ~4,900-member community — supporting stateful add/modify/delete flows and concurrent-safe order management. Backend uses <b>JWT-based authorization</b>, whitelist-only access, and session management, validated end-to-end with zero unauthorized access incidents. Includes a live-polling internal dashboard for staff with real-time SMS confirmations/rejections.",
+                            "tags": ["MongoDB", "Express", "React", "Node.js", "Twilio"]
+                        },
+                        "fr": {
+                            "title": "Plateforme de commande SMS SFSL",
+                            "text": "Un <b>pipeline de commande par SMS propulsé par Twilio</b> avec intégration d'inventaire en temps réel, construit pour la communauté d'environ 4 900 membres de SFSL — prenant en charge des flux d'ajout/modification/suppression avec état et une gestion des commandes sûre en cas d'accès concurrent. Le backend utilise une <b>autorisation basée sur JWT</b>, un accès réservé à une liste blanche, et une gestion des sessions, validés de bout en bout sans aucun incident d'accès non autorisé. Comprend un tableau de bord interne à sondage en direct pour le personnel, avec confirmations/rejets SMS en temps réel.",
+                            "tags": ["MongoDB", "Express", "React", "Node.js", "Twilio"]
+                        },
+                        "hi": {
+                            "title": "SFSL SMS ऑर्डरिंग प्लेटफ़ॉर्म",
+                            "text": "SFSL के लगभग 4,900 सदस्यों वाले समुदाय के लिए बनाया गया, लाइव इन्वेंटरी इंटीग्रेशन के साथ एक <b>Twilio-संचालित SMS ऑर्डरिंग पाइपलाइन</b> — जो स्टेटफुल ऐड/मॉडिफ़ाई/डिलीट फ़्लोज़ और कंकरेंट-सेफ़ ऑर्डर मैनेजमेंट का समर्थन करता है। बैकएंड <b>JWT-आधारित ऑथराइज़ेशन</b>, केवल-व्हाइटलिस्ट एक्सेस, और सेशन मैनेजमेंट का उपयोग करता है, जिसे एंड-टू-एंड वैलिडेट किया गया है और जीरो अनऑथराइज़्ड एक्सेस इंसिडेंट्स के साथ सत्यापित किया गया है। इसमें स्टाफ़ के लिए रियल-टाइम SMS कन्फ़र्मेशन/रिजेक्शन के साथ एक लाइव-पोलिंग इंटरनल डैशबोर्ड शामिल है।",
+                            "tags": ["MongoDB", "Express", "React", "Node.js", "Twilio"]
+                        },
+                        "ta": {
+                            "title": "SFSL SMS ஆர்டரிங் தளம்",
+                            "text": "SFSL-இன் சுமார் 4,900 உறுப்பினர்களைக் கொண்ட சமூகத்திற்காக உருவாக்கப்பட்ட, live inventory integration-உடன் கூடிய ஒரு <b>Twilio-இயக்கப்படும் SMS ஆர்டரிங் pipeline</b> — stateful add/modify/delete flows மற்றும் concurrent-safe order மேலாண்மையை ஆதரிக்கிறது. Backend <b>JWT அடிப்படையிலான authorization</b>, whitelist-only அணுகல், மற்றும் session மேலாண்மையைப் பயன்படுத்துகிறது, இது end-to-end சரிபார்க்கப்பட்டு பூஜ்ஜிய unauthorized access சம்பவங்களுடன் உறுதிப்படுத்தப்பட்டுள்ளது. பணியாளர்களுக்காக நிகழ்நேர SMS உறுதிப்படுத்தல்கள்/நிராகரிப்புகளுடன் ஒரு live-polling உள் dashboard-ஐ உள்ளடக்கியது.",
+                            "tags": ["MongoDB", "Express", "React", "Node.js", "Twilio"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "categoryId": "category_fullstack",
+                    "img": "",
+                    "faIcon": "fa-solid fa-layer-group",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/CS348-Final-Project", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AI Prompt Library",
+                            "text": "A full-stack platform for creating, running, and evaluating prompts across multiple <b>LLM providers</b> (OpenAI, Anthropic, Gemini). Runs execute <b>asynchronously</b> — the frontend submits a prompt, polls a background task for completion, and displays results alongside star ratings and comments. Backend built on <b>FastAPI</b> with a normalized Postgres schema (cascading deletes across prompts/runs/ratings) and per-model performance analytics.",
+                            "tags": ["React", "TypeScript", "FastAPI", "PostgreSQL"]
+                        },
+                        "fr": {
+                            "title": "Bibliothèque de prompts IA",
+                            "text": "Une plateforme full-stack pour créer, exécuter et évaluer des prompts sur plusieurs <b>fournisseurs de LLM</b> (OpenAI, Anthropic, Gemini). Les exécutions se déroulent de manière <b>asynchrone</b> — le frontend soumet un prompt, interroge une tâche en arrière-plan jusqu'à son achèvement, et affiche les résultats accompagnés de notes en étoiles et de commentaires. Le backend est construit sur <b>FastAPI</b> avec un schéma Postgres normalisé (suppressions en cascade entre prompts/exécutions/évaluations) et des analyses de performance par modèle.",
+                            "tags": ["React", "TypeScript", "FastAPI", "PostgreSQL"]
+                        },
+                        "hi": {
+                            "title": "AI प्रॉम्प्ट लाइब्रेरी",
+                            "text": "कई <b>LLM प्रोवाइडर्स</b> (OpenAI, Anthropic, Gemini) पर प्रॉम्प्ट्स बनाने, चलाने और मूल्यांकन करने के लिए एक फ़ुल-स्टैक प्लेटफ़ॉर्म। रन्स <b>असिंक्रोनसली</b> एक्सीक्यूट होते हैं — फ्रंटएंड एक प्रॉम्प्ट सबमिट करता है, पूर्णता के लिए एक बैकग्राउंड टास्क को पोल करता है, और स्टार रेटिंग्स व टिप्पणियों के साथ परिणाम प्रदर्शित करता है। बैकएंड <b>FastAPI</b> पर बना है, जिसमें एक नॉर्मलाइज़्ड Postgres स्कीमा (prompts/runs/ratings में कैस्केडिंग डिलीट्स) और प्रति-मॉडल परफ़ॉर्मेंस एनालिटिक्स शामिल हैं।",
+                            "tags": ["React", "TypeScript", "FastAPI", "PostgreSQL"]
+                        },
+                        "ta": {
+                            "title": "AI ப்ராம்ப்ட் லைப்ரரி",
+                            "text": "பல <b>LLM providers</b>-களில் (OpenAI, Anthropic, Gemini) prompts-களை உருவாக்க, இயக்க, மற்றும் மதிப்பீடு செய்ய ஒரு full-stack தளம். Runs <b>asynchronously</b> செயல்படுத்தப்படுகின்றன — frontend ஒரு prompt-ஐ சமர்ப்பிக்கிறது, முடிவுக்காக ஒரு background task-ஐ poll செய்கிறது, மற்றும் star ratings மற்றும் கருத்துகளுடன் முடிவுகளைக் காட்டுகிறது. Backend நார்மலைஸ் செய்யப்பட்ட Postgres schema-உடன் (prompts/runs/ratings முழுவதும் cascading deletes) <b>FastAPI</b>-இல் கட்டமைக்கப்பட்டுள்ளது, மேலும் per-model செயல்திறன் analytics-ஐக் கொண்டுள்ளது.",
+                            "tags": ["React", "TypeScript", "FastAPI", "PostgreSQL"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-microphone",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Voxara",
+                            "text": "A performance-coaching tool for <b>voice actors and theatre performers</b> — record voice-over or scene work against scripts/scenarios and get personalized, actionable feedback. Fuses <b>Whisper</b> transcription and <b>Librosa</b> acoustic analysis (pitch, pacing, prosody) with <b>MediaPipe</b>/<b>OpenCV</b>-based gesture and expression tracking, then synthesizes feedback across both signals via an LLM.",
+                            "tags": ["React", "TypeScript", "FastAPI", "Whisper", "Librosa", "MediaPipe", "OpenCV", "Supabase", "In Progress"]
+                        },
+                        "fr": {
+                            "title": "Voxara",
+                            "text": "Un outil de coaching de performance pour les <b>comédiens de doublage et acteurs de théâtre</b> — enregistrez du voice-over ou du travail de scène à partir de scripts/scénarios et recevez des retours personnalisés et exploitables. Fusionne la transcription <b>Whisper</b> et l'analyse acoustique <b>Librosa</b> (hauteur, rythme, prosodie) avec le suivi des gestes et des expressions basé sur <b>MediaPipe</b>/<b>OpenCV</b>, puis synthétise les retours des deux signaux via un LLM.",
+                            "tags": ["React", "TypeScript", "FastAPI", "Whisper", "Librosa", "MediaPipe", "OpenCV", "Supabase", "En cours"]
+                        },
+                        "hi": {
+                            "title": "Voxara",
+                            "text": "<b>वॉइस एक्टर्स और थिएटर परफ़ॉर्मर्स</b> के लिए एक परफ़ॉर्मेंस-कोचिंग टूल — स्क्रिप्ट्स/सिनेरियोज़ के आधार पर वॉइस-ओवर या सीन वर्क रिकॉर्ड करें और व्यक्तिगत, कार्रवाई-योग्य फ़ीडबैक पाएं। यह <b>Whisper</b> ट्रांसक्रिप्शन और <b>Librosa</b> एकॉस्टिक विश्लेषण (पिच, पेसिंग, प्रोसोडी) को <b>MediaPipe</b>/<b>OpenCV</b>-आधारित जेस्चर और एक्सप्रेशन ट्रैकिंग के साथ जोड़ता है, फिर एक LLM के ज़रिए दोनों सिग्नल्स में फ़ीडबैक को संश्लेषित करता है।",
+                            "tags": ["React", "TypeScript", "FastAPI", "Whisper", "Librosa", "MediaPipe", "OpenCV", "Supabase", "प्रगति पर"]
+                        },
+                        "ta": {
+                            "title": "Voxara",
+                            "text": "<b>குரல் நடிகர்கள் மற்றும் நாடக கலைஞர்களுக்கான</b> ஒரு performance-coaching கருவி — scripts/scenarios-ஐ அடிப்படையாகக் கொண்டு voice-over அல்லது scene work-ஐ பதிவு செய்து தனிப்பயனாக்கப்பட்ட, செயல்படுத்தக்கூடிய feedback-ஐப் பெறுங்கள். <b>Whisper</b> transcription மற்றும் <b>Librosa</b> ஒலியியல் பகுப்பாய்வை (pitch, pacing, prosody) <b>MediaPipe</b>/<b>OpenCV</b> அடிப்படையிலான gesture மற்றும் expression tracking-உடன் இணைத்து, பின்னர் ஒரு LLM மூலம் இரு signals-களிலிருந்தும் feedback-ஐ ஒருங்கிணைக்கிறது.",
+                            "tags": ["React", "TypeScript", "FastAPI", "Whisper", "Librosa", "MediaPipe", "OpenCV", "Supabase", "நடைபெற்றுக்கொண்டிருக்கிறது"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Quizz.It", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Quizz.It",
+                            "text": "An AI-powered study tool that turns uploaded PDFs into <b>summaries</b>, auto-generated <b>practice questions</b>, and a <b>conversational Q&A</b> interface. Built as team lead at Purdue's BoilerMake XI hackathon, then rebuilt solo into a full <b>RAG pipeline</b> — Pytesseract OCR for scanned documents, LangChain-orchestrated retrieval over a ChromaDB vector store, and Gemini for generation — with Firebase auth and Firestore persistence.",
+                            "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
+                        },
+                        "fr": {
+                            "title": "Quizz.It",
+                            "text": "Un outil d'étude alimenté par l'IA qui transforme des PDF téléversés en <b>résumés</b>, en <b>questions d'entraînement</b> générées automatiquement, et en une interface de <b>questions-réponses conversationnelle</b>. Construit en tant que chef d'équipe lors du hackathon BoilerMake XI de Purdue, puis reconstruit en solo en un <b>pipeline RAG</b> complet — OCR Pytesseract pour les documents numérisés, récupération orchestrée par LangChain sur un magasin de vecteurs ChromaDB, et Gemini pour la génération — avec authentification Firebase et persistance Firestore.",
+                            "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
+                        },
+                        "hi": {
+                            "title": "Quizz.It",
+                            "text": "एक AI-संचालित स्टडी टूल जो अपलोड की गई PDFs को <b>सारांशों</b>, ऑटो-जनरेटेड <b>प्रैक्टिस प्रश्नों</b>, और एक <b>संवादात्मक प्रश्नोत्तर</b> इंटरफ़ेस में बदल देता है। Purdue के BoilerMake XI हैकाथॉन में टीम लीड के रूप में बनाया गया, फिर अकेले एक पूर्ण <b>RAG पाइपलाइन</b> में फिर से बनाया गया — स्कैन किए गए दस्तावेज़ों के लिए Pytesseract OCR, ChromaDB वेक्टर स्टोर पर LangChain-ऑर्केस्ट्रेटेड रिट्रीवल, और जनरेशन के लिए Gemini — साथ ही Firebase ऑथ और Firestore पर्सिस्टेंस।",
+                            "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
+                        },
+                        "ta": {
+                            "title": "Quizz.It",
+                            "text": "பதிவேற்றப்பட்ட PDFகளை <b>சுருக்கங்கள்</b>, தானாக உருவாக்கப்பட்ட <b>பயிற்சி கேள்விகள்</b>, மற்றும் ஒரு <b>உரையாடல் கேள்வி-பதில்</b> இடைமுகமாக மாற்றும் AI-இயக்கப்படும் ஒரு படிப்பு கருவி. Purdue-வின் BoilerMake XI ஹேக்கத்தானில் team lead-ஆக உருவாக்கப்பட்டு, பின்னர் தனியாக ஒரு முழுமையான <b>RAG pipeline</b>-ஆக மீண்டும் கட்டமைக்கப்பட்டது — ஸ்கேன் செய்யப்பட்ட ஆவணங்களுக்கான Pytesseract OCR, ChromaDB vector store-இன் மீது LangChain-ஆல் ஒருங்கிணைக்கப்பட்ட retrieval, மற்றும் generation-க்கு Gemini — Firebase auth மற்றும் Firestore persistence-உடன்.",
+                            "tags": ["LangChain", "RAG", "Gemini", "ChromaDB", "Firebase", "OCR"]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-car",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Inspirit-AI-FinalProject-Object-Detection-For-Self-Driving-Cars", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Self-Driving Car Object Detection",
+                            "text": "A progressive object detection pipeline for self-driving car navigation — starting from a 2-layer CNN classifier, advancing through sliding-window localization, <b>VGG16 transfer learning</b> (96.9% test accuracy), and a fine-tuned <b>YOLOv3/DarkNet</b> model for real-time single-pass detection with non-max suppression post-processing.",
+                            "tags": ["Python", "TensorFlow/Keras", "CNN", "YOLOv3", "Transfer Learning", "Computer Vision"]
+                        },
+                        "fr": {
+                            "title": "Détection d'objets pour voiture autonome",
+                            "text": "Un pipeline de détection d'objets progressif pour la navigation de voitures autonomes — partant d'un classificateur <b>CNN</b> à 2 couches, progressant via la localisation par fenêtre glissante, l'<b>apprentissage par transfert VGG16</b> (96,9 % de précision en test), et un modèle <b>YOLOv3/DarkNet</b> affiné pour une détection en temps réel en une seule passe avec post-traitement par suppression non maximale.",
+                            "tags": ["Python", "TensorFlow/Keras", "CNN", "YOLOv3", "Apprentissage par transfert", "Vision par ordinateur"]
+                        },
+                        "hi": {
+                            "title": "सेल्फ़-ड्राइविंग कार ऑब्जेक्ट डिटेक्शन",
+                            "text": "सेल्फ़-ड्राइविंग कार नेविगेशन के लिए एक प्रोग्रेसिव ऑब्जेक्ट डिटेक्शन पाइपलाइन — एक 2-लेयर <b>CNN</b> क्लासिफ़ायर से शुरू होकर, स्लाइडिंग-विंडो लोकलाइज़ेशन, <b>VGG16 ट्रांसफ़र लर्निंग</b> (96.9% टेस्ट सटीकता), और नॉन-मैक्स सप्रेशन पोस्ट-प्रोसेसिंग के साथ रियल-टाइम सिंगल-पास डिटेक्शन के लिए एक फ़ाइन-ट्यून्ड <b>YOLOv3/DarkNet</b> मॉडल तक आगे बढ़ती है।",
+                            "tags": ["Python", "TensorFlow/Keras", "CNN", "YOLOv3", "ट्रांसफ़र लर्निंग", "कंप्यूटर विज़न"]
+                        },
+                        "ta": {
+                            "title": "சுயஇயக்க கார் பொருள் கண்டறிதல்",
+                            "text": "சுயஇயக்க கார் வழிசெலுத்தலுக்கான ஒரு படிப்படியான object detection pipeline — 2-layer <b>CNN</b> classifier-இலிருந்து தொடங்கி, sliding-window localization, <b>VGG16 transfer learning</b> (96.9% test accuracy) வழியாக முன்னேறி, non-max suppression post-processing-உடன் நிகழ்நேர single-pass கண்டறிதலுக்காக fine-tune செய்யப்பட்ட <b>YOLOv3/DarkNet</b> மாடல் வரை செல்கிறது.",
+                            "tags": ["Python", "TensorFlow/Keras", "CNN", "YOLOv3", "இடமாற்ற கற்றல்", "கணினி பார்வை"]
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "categoryId": "category_ai_ml",
+                    "img": "",
+                    "faIcon": "fa-solid fa-route",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Inspirit-AI-Deep-Dive-Designing-DL-Systems-FinalProject-RL-for-Autonomous-Vehicles", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RL for Autonomous Vehicles",
+                            "text": "A reinforcement learning agent for autonomous vehicle navigation, built around a <b>Deep Q-Network</b> with epsilon-greedy exploration and experience replay. Uses an NVIDIA CNN architecture to process visual input, trained via custom reward shaping to navigate simulated driving scenarios (traffic lights, lane changes), and benchmarked against a behavioral-cloning baseline.",
+                            "tags": ["Python", "TensorFlow/Keras", "Reinforcement Learning", "DQN", "Computer Vision"]
+                        },
+                        "fr": {
+                            "title": "RL pour véhicules autonomes",
+                            "text": "Un agent d'apprentissage par renforcement pour la navigation de véhicules autonomes, construit autour d'un <b>Deep Q-Network</b> avec exploration epsilon-greedy et rejeu d'expérience. Utilise une architecture CNN de type NVIDIA pour traiter les entrées visuelles, entraîné via un façonnage de récompense personnalisé pour naviguer dans des scénarios de conduite simulés (feux de circulation, changements de voie), et comparé à une référence par clonage comportemental.",
+                            "tags": ["Python", "TensorFlow/Keras", "Apprentissage par renforcement", "DQN", "Vision par ordinateur"]
+                        },
+                        "hi": {
+                            "title": "स्वायत्त वाहनों के लिए RL",
+                            "text": "स्वायत्त वाहन नेविगेशन के लिए एक रीइन्फ़ोर्समेंट लर्निंग एजेंट, जो एप्सिलॉन-ग्रीडी एक्सप्लोरेशन और एक्सपीरियंस रीप्ले के साथ एक <b>डीप Q-नेटवर्क</b> के इर्द-गिर्द बनाया गया है। यह विज़ुअल इनपुट प्रोसेस करने के लिए एक NVIDIA CNN आर्किटेक्चर का उपयोग करता है, सिमुलेटेड ड्राइविंग सिनेरियोज़ (ट्रैफ़िक लाइट्स, लेन चेंज) में नेविगेट करने के लिए कस्टम रिवॉर्ड शेपिंग के ज़रिए प्रशिक्षित किया गया है, और एक बिहेवियरल-क्लोनिंग बेसलाइन के मुकाबले बेंचमार्क किया गया है।",
+                            "tags": ["Python", "TensorFlow/Keras", "रीइन्फ़ोर्समेंट लर्निंग", "DQN", "कंप्यूटर विज़न"]
+                        },
+                        "ta": {
+                            "title": "தன்னியக்க வாகனங்களுக்கான RL",
+                            "text": "epsilon-greedy exploration மற்றும் experience replay-உடன் ஒரு <b>Deep Q-Network</b>-ஐ மையமாகக் கொண்டு உருவாக்கப்பட்ட, தன்னியக்க வாகன வழிசெலுத்தலுக்கான ஒரு reinforcement learning agent. காட்சி உள்ளீட்டை செயலாக்க NVIDIA CNN architecture-ஐப் பயன்படுத்துகிறது, சிமுலேட் செய்யப்பட்ட driving காட்சிகளில் (traffic lights, lane changes) வழிசெலுத்த custom reward shaping மூலம் பயிற்சி அளிக்கப்பட்டது, மேலும் ஒரு behavioral-cloning baseline-உடன் ஒப்பிடப்பட்டது.",
+                            "tags": ["Python", "TensorFlow/Keras", "வலுவூட்டல் கற்றல்", "DQN", "கணினி பார்வை"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

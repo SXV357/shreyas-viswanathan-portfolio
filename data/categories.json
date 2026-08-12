@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {"title": "Home"},
+                "es": {"title": "Inicio"},
+                "fr": {"title": "Accueil"},
+                "hi": {"title": "होम"},
+                "ta": {"title": "முகப்பு"},
+                "ko": {"title": "홈페이지"}
+            }
+        },
+        {
+            "id": "background",
+            "faIcon": "fa-regular fa-clock",
+            "locales": {
+                "en": {"title": "History"},
+                "es": {"title": "Trayectoria"},
+                "fr": {"title": "Parcours"},
+                "hi": {"title": "पृष्ठभूमि"},
+                "ta": {"title": "பின்னணி"},
+                "ko": {"title": "경력"}
+            }
+        },
+        {
+            "id": "showcase",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {"title": "Showcase"},
+                "es": {"title": "Vitrina"},
+                "fr": {"title": "Vitrine"},
+                "hi": {"title": "प्रदर्शन"},
+                "ta": {"title": "காட்சியகம்"},
+                "ko": {"title": "쇼케이스"}
+            }
+        },
+        {
+            "id": "more",
+            "faIcon": "fa-regular fa-object-ungroup",
+            "locales": {
+                "en": {"title": "More"},
+                "es": {"title": "Más"},
+                "fr": {"title": "Plus"},
+                "hi": {"title": "अधिक"},
+                "ta": {"title": "மேலும்"},
+                "ko": {"title": "더보기"}
+            }
+        }
+    ]
+}

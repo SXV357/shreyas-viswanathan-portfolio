@@ -1,0 +1,403 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "Vida Reciente",
+                "title_short_nav": "Actualizaciones",
+                "title_long_prefix": "Consulta mis",
+                "title_long": "Actualizaciones {{Recientes}}"
+            },
+            "fr": {
+                "title_short": "Vie Récente",
+                "title_short_nav": "Mises à Jour",
+                "title_long_prefix": "Découvrez mes",
+                "title_long": "Dernières {{Mises à Jour}}"
+            },
+            "hi": {
+                "title_short": "हाल की ज़िंदगी",
+                "title_short_nav": "अपडेट्स",
+                "title_long_prefix": "देखिए मेरे",
+                "title_long": "हाल के {{अपडेट्स}}"
+            },
+            "ta": {
+                "title_short": "சமீபத்திய வாழ்க்கை",
+                "title_short_nav": "புதுப்பிப்புகள்",
+                "title_long_prefix": "பாருங்கள் எனது",
+                "title_long": "சமீபத்திய {{புதுப்பிப்புகளை}}"
+            },
+            "ko": {
+                "title_short": "최근의 삶",
+                "title_short_nav": "업데이트",
+                "title_long_prefix": "내 최근",
+                "title_long": "{{업데이트}}를 확인해 보세요"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-earth-americas",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "4",
+                            "text": "Countries visited"
+                        },
+                        "es": {
+                            "text": "Países visitados"
+                        },
+                        "fr": {
+                            "text": "Pays visités"
+                        },
+                        "hi": {
+                            "text": "यात्रा किए गए देश"
+                        },
+                        "ta": {
+                            "text": "பார்வையிட்ட நாடுகள்"
+                        },
+                        "ko": {
+                            "text": "방문한 국가"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-language",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "4",
+                            "text": "Languages spoken"
+                        },
+                        "es": {
+                            "text": "Idiomas hablados"
+                        },
+                        "fr": {
+                            "text": "Langues parlées"
+                        },
+                        "hi": {
+                            "text": "बोली जाने वाली भाषाएँ"
+                        },
+                        "ta": {
+                            "text": "பேசும் மொழிகள்"
+                        },
+                        "ko": {
+                            "text": "구사 언어"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-hourglass-half",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "~5",
+                            "text": "Years coding (since Fall 2021)"
+                        },
+                        "es": {
+                            "text": "Años programando (desde otoño de 2021)"
+                        },
+                        "fr": {
+                            "text": "Années de programmation (depuis l'automne 2021)"
+                        },
+                        "hi": {
+                            "text": "कोडिंग के वर्ष (शरद ऋतु 2021 से)"
+                        },
+                        "ta": {
+                            "text": "நிரலாக்க ஆண்டுகள் (2021 இலையுதிர்காலம் முதல்)"
+                        },
+                        "ko": {
+                            "text": "코딩 경력 (2021년 가을부터)"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "205",
+                            "text": "LeetCode problems solved"
+                        },
+                        "es": {
+                            "text": "Problemas de LeetCode resueltos"
+                        },
+                        "fr": {
+                            "text": "Problèmes LeetCode résolus"
+                        },
+                        "hi": {
+                            "text": "हल की गई LeetCode समस्याएँ"
+                        },
+                        "ta": {
+                            "text": "தீர்க்கப்பட்ட LeetCode சிக்கல்கள்"
+                        },
+                        "ko": {
+                            "text": "해결한 LeetCode 문제"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-person-running",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "17",
+                            "text": "Sports & activities tried"
+                        },
+                        "es": {
+                            "text": "Deportes y actividades probadas"
+                        },
+                        "fr": {
+                            "text": "Sports et activités essayés"
+                        },
+                        "hi": {
+                            "text": "आज़माए गए खेल और गतिविधियाँ"
+                        },
+                        "ta": {
+                            "text": "முயற்சி செய்த விளையாட்டுகள் மற்றும் செயல்பாடுகள்"
+                        },
+                        "ko": {
+                            "text": "시도해본 스포츠 및 활동"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-trophy",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Cricket",
+                            "text": "Favorite sport"
+                        },
+                        "es": {
+                            "title": "Cricket",
+                            "text": "Deporte favorito"
+                        },
+                        "fr": {
+                            "title": "Cricket",
+                            "text": "Sport préféré"
+                        },
+                        "hi": {
+                            "title": "क्रिकेट",
+                            "text": "पसंदीदा खेल"
+                        },
+                        "ta": {
+                            "title": "கிரிக்கெட்",
+                            "text": "விருப்பமான விளையாட்டு"
+                        },
+                        "ko": {
+                            "title": "크리켓",
+                            "text": "가장 좋아하는 스포츠"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Quick {{Facts}}" },
+                "es": { "title": "Feed de {{Noticias}}" },
+                "fr": { "title": "{{Faits}} Rapides" },
+                "hi": { "title": "त्वरित {{तथ्य}}" },
+                "ta": { "title": "விரைவு {{உண்மைகள்}}" },
+                "ko": { "title": "{{뉴스}} 피드" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "date": {"year": 2026, "month": 5},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Building {{PyTorch}} proficiency",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Started working on PyTorch proficiency in May 2026. Working through CS231n assignments for practice and muscle memory, with the goal of eventually implementing a computer vision paper from scratch."
+                        },
+                        "fr": {
+                            "title": "Développer ma maîtrise de {{PyTorch}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "J'ai commencé à développer ma maîtrise de PyTorch en mai 2026. Je travaille actuellement sur les devoirs de CS231n pour la pratique et la mémoire musculaire, dans le but d'implémenter éventuellement un article de recherche en vision par ordinateur à partir de zéro."
+                        },
+                        "hi": {
+                            "title": "{{PyTorch}} में दक्षता हासिल करना",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "मई 2026 में PyTorch में दक्षता हासिल करना शुरू किया। अभ्यास और मसल मेमोरी के लिए CS231n असाइनमेंट्स पर काम कर रहा हूँ, जिसका लक्ष्य अंततः शुरुआत से एक कंप्यूटर विज़न पेपर को लागू करना है।"
+                        },
+                        "ta": {
+                            "title": "{{PyTorch}} திறமையை வளர்த்தல்",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "மே 2026-இல் PyTorch திறமையை வளர்க்கத் தொடங்கினேன். பயிற்சிக்காகவும் மசில் மெமரிக்காகவும் CS231n பணிகளைச் செய்து வருகிறேன், இறுதியில் ஒரு கம்ப்யூட்டர் விஷன் ஆய்வுக் கட்டுரையை முதலிலிருந்து செயல்படுத்தும் இலக்குடன்."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {"year": 2026, "month": 6},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Back to building: {{Voxara}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "First meaningful personal project in a while. Voxara targets a gap I noticed: platforms like Orai, Yoodli, ELSA Speak, and Speeko are built for professional public speaking or language learning, not theatre performers and voice actors who need actionable feedback between rehearsals. Targeting high school through college students in voice acting and theatre. Currently in the early-to-mid build phase — core loop of recording, processing, storing, and giving feedback isn't wired up yet."
+                        },
+                        "fr": {
+                            "title": "De retour à la construction : {{Voxara}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Mon premier projet personnel significatif depuis un moment. Voxara cible un manque que j'ai remarqué : des plateformes comme Orai, Yoodli, ELSA Speak et Speeko sont conçues pour la prise de parole professionnelle ou l'apprentissage des langues, pas pour les comédiens de théâtre et les acteurs de doublage qui ont besoin de retours exploitables entre les répétitions. Le public visé va du lycée à l'université, pour les étudiants en doublage et en théâtre. Actuellement en phase de développement intermédiaire — la boucle principale d'enregistrement, de traitement, de stockage et de retour n'est pas encore mise en place."
+                        },
+                        "hi": {
+                            "title": "फिर से निर्माण की ओर: {{Voxara}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "काफी समय बाद यह मेरा पहला सार्थक व्यक्तिगत प्रोजेक्ट है। Voxara एक ऐसी कमी को लक्षित करता है जिसे मैंने महसूस किया: Orai, Yoodli, ELSA Speak और Speeko जैसे प्लेटफ़ॉर्म पेशेवर सार्वजनिक भाषण या भाषा सीखने के लिए बनाए गए हैं, न कि थिएटर कलाकारों और वॉइस एक्टर्स के लिए जिन्हें रिहर्सल के बीच व्यावहारिक फ़ीडबैक चाहिए। लक्षित दर्शक हाई स्कूल से लेकर कॉलेज तक के वॉइस एक्टिंग और थिएटर के छात्र हैं। फ़िलहाल यह शुरुआती-मध्य निर्माण चरण में है — रिकॉर्डिंग, प्रोसेसिंग, स्टोरिंग और फ़ीडबैक देने का मुख्य लूप अभी तैयार नहीं हुआ है।"
+                        },
+                        "ta": {
+                            "title": "மீண்டும் உருவாக்கத்தில்: {{Voxara}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "நீண்ட நாட்களுக்குப் பிறகு எனது முதல் அர்த்தமுள்ள தனிப்பட்ட திட்டம். நான் கவனித்த ஒரு குறையை Voxara இலக்காகக் கொண்டுள்ளது: Orai, Yoodli, ELSA Speak, மற்றும் Speeko போன்ற தளங்கள் தொழில்முறை பொதுப் பேச்சு அல்லது மொழி கற்றலுக்காக வடிவமைக்கப்பட்டவை, ஒத்திகைகளுக்கு இடையே செயல்படுத்தக்கூடிய கருத்துகள் தேவைப்படும் நாடக நடிகர்கள் மற்றும் குரல் நடிகர்களுக்காக அல்ல. உயர்நிலைப் பள்ளி முதல் கல்லூரி வரையிலான குரல் நடிப்பு மற்றும் நாடகத் துறை மாணவர்களை இலக்காகக் கொண்டுள்ளேன். தற்போது ஆரம்ப-நடுநிலை உருவாக்க கட்டத்தில் உள்ளது — பதிவு செய்தல், செயலாக்கம், சேமிப்பு, மற்றும் கருத்து வழங்குதல் ஆகியவற்றின் முக்கிய சுழற்சி இன்னும் இணைக்கப்படவில்லை."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "date": {"year": 2026, "month": 8},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Continuing {{VIP AIE}} this fall",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Continuing with the VIP AI in Education (AIE) team at Purdue this fall. Last cycle, our multimodal sub-team designed how a multimodal RAG chatbot, unified MCP client, and MCP servers should fit together, though we mostly worked on individual pieces. Looking forward to diving back in and exploring: integrating everything together, rigorous testing, deploying into Pete Chat (ECE 20875's student Q&A platform), and possibly Brightspace and LTSpice MCP server integrations for better circuit rendering."
+                        },
+                        "fr": {
+                            "title": "Poursuite de {{VIP AIE}} cet automne",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Je poursuis cet automne avec l'équipe VIP AI in Education (AIE) à Purdue. Lors du cycle précédent, notre sous-équipe multimodale a conçu comment un chatbot RAG multimodal, un client MCP unifié et des serveurs MCP devraient s'articuler, bien que nous ayons surtout travaillé sur des éléments individuels. J'ai hâte de m'y replonger et d'explorer : l'intégration de l'ensemble, des tests rigoureux, le déploiement dans Pete Chat (la plateforme de questions-réponses des étudiants d'ECE 20875), et peut-être des intégrations de serveurs MCP pour Brightspace et LTSpice afin d'améliorer le rendu des circuits."
+                        },
+                        "hi": {
+                            "title": "इस पतझड़ {{VIP AIE}} जारी रखना",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "इस पतझड़ Purdue में VIP AI in Education (AIE) टीम के साथ जारी रख रहा हूँ। पिछले चक्र में, हमारी मल्टीमॉडल सब-टीम ने डिज़ाइन किया कि एक मल्टीमॉडल RAG चैटबॉट, यूनिफाइड MCP क्लाइंट, और MCP सर्वर एक साथ कैसे फ़िट होने चाहिए, हालांकि हमने ज़्यादातर अलग-अलग हिस्सों पर काम किया। फिर से इसमें जुटने और इन चीज़ों को एक्सप्लोर करने का इंतज़ार है: सब कुछ एकीकृत करना, कड़ी टेस्टिंग करना, Pete Chat (ECE 20875 के स्टूडेंट Q&A प्लेटफ़ॉर्म) में डिप्लॉय करना, और बेहतर सर्किट रेंडरिंग के लिए संभवतः Brightspace और LTSpice MCP सर्वर इंटीग्रेशन।"
+                        },
+                        "ta": {
+                            "title": "இந்த இலையுதிர்காலத்தில் {{VIP AIE}}-ஐத் தொடர்தல்",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "இந்த இலையுதிர்காலத்தில் Purdue-இல் உள்ள VIP AI in Education (AIE) குழுவுடன் தொடர்கிறேன். கடந்த சுழற்சியில், எங்கள் multimodal துணைக் குழு ஒரு multimodal RAG chatbot, ஒருங்கிணைந்த MCP கிளையண்ட், மற்றும் MCP சேவையகங்கள் எவ்வாறு ஒன்றிணைய வேண்டும் என்பதை வடிவமைத்தது, இருப்பினும் நாங்கள் பெரும்பாலும் தனித்தனி பகுதிகளில் பணியாற்றினோம். மீண்டும் இதில் இறங்கி ஆராய்வதை எதிர்பார்க்கிறேன்: அனைத்தையும் ஒருங்கிணைத்தல், கடுமையான சோதனை, Pete Chat-இல் (ECE 20875-இன் மாணவர் Q&A தளம்) பயன்படுத்துதல், மற்றும் சிறந்த சர்க்யூட் காட்சிப்படுத்தலுக்காக Brightspace மற்றும் LTSpice MCP சேவையக ஒருங்கிணைப்புகள்."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "date": {"year": 2026, "month": 8},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Launched my {{personal website}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Migrated off my old site, which was built on Gatsby and GraphQL and had become out of date. This one is built on a modern open-source template — not built from scratch, but a sleeker, more focused interface showcasing my background, projects, skills, experiences, and who I am beyond the technical side. Planning to build my own site from scratch soon so I can customize everything exactly how I want."
+                        },
+                        "fr": {
+                            "title": "Lancement de mon {{site personnel}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "J'ai migré depuis mon ancien site, qui était construit avec Gatsby et GraphQL et devenait obsolète. Celui-ci repose sur un modèle open-source moderne — pas construit de zéro, mais une interface plus épurée et plus ciblée présentant mon parcours, mes projets, mes compétences, mes expériences, et qui je suis au-delà de l'aspect technique. Je prévois de construire mon propre site de zéro prochainement afin de pouvoir tout personnaliser exactement comme je le souhaite."
+                        },
+                        "hi": {
+                            "title": "मेरी {{व्यक्तिगत वेबसाइट}} लॉन्च की",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "अपनी पुरानी साइट से माइग्रेट किया, जो Gatsby और GraphQL पर बनी थी और पुरानी पड़ चुकी थी। यह एक आधुनिक ओपन-सोर्स टेम्पलेट पर बनी है — शुरुआत से नहीं बनाई गई, बल्कि एक अधिक स्लीक और केंद्रित इंटरफ़ेस है जो मेरी पृष्ठभूमि, प्रोजेक्ट्स, स्किल्स, अनुभवों, और तकनीकी पहलू से परे मेरी पहचान को दर्शाता है। जल्द ही अपनी खुद की साइट शुरुआत से बनाने की योजना है ताकि मैं हर चीज़ को बिल्कुल अपनी पसंद के अनुसार कस्टमाइज़ कर सकूँ।"
+                        },
+                        "ta": {
+                            "title": "எனது {{தனிப்பட்ட இணையதளத்தை}} தொடங்கினேன்",
+                            "province": "",
+                            "country": "US",
+                            "institution": "",
+                            "text": "Gatsby மற்றும் GraphQL மூலம் கட்டப்பட்டு காலாவதியாகிவிட்ட எனது பழைய தளத்திலிருந்து இடம்பெயர்ந்தேன். இது ஒரு நவீன ஓப்பன்-சோர்ஸ் டெம்ப்ளேட்டில் கட்டப்பட்டுள்ளது — முதலிலிருந்து உருவாக்கப்படவில்லை, ஆனால் எனது பின்னணி, திட்டங்கள், திறன்கள், அனுபவங்கள், மற்றும் தொழில்நுட்பத்திற்கு அப்பாற்பட்ட என் அடையாளத்தை வெளிப்படுத்தும் மேலும் நேர்த்தியான, கவனம் செலுத்தும் இடைமுகம். விரைவில் என் சொந்த தளத்தை முதலிலிருந்து உருவாக்கத் திட்டமிட்டுள்ளேன், அதனால் எல்லாவற்றையும் என் விருப்பப்படி தனிப்பயனாக்க முடியும்."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

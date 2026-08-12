@@ -1,0 +1,451 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
+            },
+            "es": {
+                "title_short": "Logros",
+                "title_short_nav": "Logros",
+                "title_long_prefix": "Aquí están mis",
+                "title_long": "{{Logros}} Profesionales"
+            },
+            "fr": {
+                "title_short": "Récompenses",
+                "title_short_nav": "Réalisations",
+                "title_long_prefix": "Voici",
+                "title_long": "Mes {{Réalisations}}"
+            },
+            "hi": {
+                "title_short": "पुरस्कार",
+                "title_short_nav": "उपलब्धियां",
+                "title_long_prefix": "यह रहीं मेरी",
+                "title_long": "करियर {{उपलब्धियां}}"
+            },
+            "ta": {
+                "title_short": "விருதுகள்",
+                "title_short_nav": "சாதனைகள்",
+                "title_long_prefix": "இதோ என்",
+                "title_long": "தொழில் {{சாதனைகள்}}"
+            },
+            "ko": {
+                "title_short": "경력 성과",
+                "title_short_nav": "경력 성과",
+                "title_long_prefix": "다음은",
+                "title_long": "{{경력 성과}}입니다"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Certifications" },
+                "es": { "title": "Certificaciones" },
+                "fr": { "title": "Certifications" },
+                "hi": { "title": "प्रमाणपत्र" },
+                "ta": { "title": "சான்றிதழ்கள்" },
+                "ko": { "title": "인증서" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-network-wired",
+                    "faIconColors": {"bg": "#1BA0D7", "fill": "#EEE"},
+                    "date": {"year": 2022, "month": 9},
+                    "link": {"href": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cisco2/kinDTvjiZRcYbwqLo_Cisco_zzt8CmNcoBGqZHTxi_1664596830306_completion_certificate.pdf", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Cisco}}",
+                            "text": "Introduction to Software Engineering — Forage Virtual Experience Program"
+                        },
+                        "fr": {
+                            "title": "{{Cisco}}",
+                            "text": "Introduction au génie logiciel — Programme d'expérience virtuelle Forage"
+                        },
+                        "hi": {
+                            "title": "{{Cisco}}",
+                            "text": "सॉफ़्टवेयर इंजीनियरिंग का परिचय — Forage वर्चुअल एक्सपीरियंस प्रोग्राम"
+                        },
+                        "ta": {
+                            "title": "{{Cisco}}",
+                            "text": "மென்பொருள் பொறியியல் அறிமுகம் — Forage மெய்நிகர் அனுபவத் திட்டம்"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "#3776AB", "fill": "#EEE"},
+                    "date": {"year": 2023, "month": 6},
+                    "link": {"href": "https://www.udemy.com/certificate/UC-e711a4bc-62ef-40a8-bc54-642e85dbbff5/", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Zero To Mastery}}",
+                            "text": "Complete Python Developer in 2023: Zero to Mastery"
+                        },
+                        "fr": {
+                            "title": "{{Zero To Mastery}}",
+                            "text": "Développeur Python complet en 2023 : Zero to Mastery"
+                        },
+                        "hi": {
+                            "title": "{{Zero To Mastery}}",
+                            "text": "कम्प्लीट Python डेवलपर 2023: Zero to Mastery"
+                        },
+                        "ta": {
+                            "title": "{{Zero To Mastery}}",
+                            "text": "முழுமையான Python டெவலப்பர் 2023: Zero to Mastery"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-building-columns",
+                    "faIconColors": {"bg": "#003087", "fill": "#EEE"},
+                    "date": {"year": 2023, "month": 6},
+                    "link": {"href": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_zzt8CmNcoBGqZHTxi_1686688509850_completion_certificate.pdf", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{J.P. Morgan}}",
+                            "text": "Software Engineering — Forage Virtual Experience Program"
+                        },
+                        "fr": {
+                            "title": "{{J.P. Morgan}}",
+                            "text": "Génie logiciel — Programme d'expérience virtuelle Forage"
+                        },
+                        "hi": {
+                            "title": "{{J.P. Morgan}}",
+                            "text": "सॉफ़्टवेयर इंजीनियरिंग — Forage वर्चुअल एक्सपीरियंस प्रोग्राम"
+                        },
+                        "ta": {
+                            "title": "{{J.P. Morgan}}",
+                            "text": "மென்பொருள் பொறியியல் — Forage மெய்நிகர் அனுபவத் திட்டம்"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {"bg": "#EE4C2C", "fill": "#EEE"},
+                    "date": {"year": 2024, "month": 8},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/3528b2088dfa78b9c48f93795e85af124adff2a3?raw=1", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{DataCamp}}",
+                            "text": "Introduction to Deep Learning with PyTorch"
+                        },
+                        "fr": {
+                            "title": "{{DataCamp}}",
+                            "text": "Introduction à l'apprentissage profond avec PyTorch"
+                        },
+                        "hi": {
+                            "title": "{{DataCamp}}",
+                            "text": "PyTorch के साथ डीप लर्निंग का परिचय"
+                        },
+                        "ta": {
+                            "title": "{{DataCamp}}",
+                            "text": "PyTorch உடன் ஆழக் கற்றல் அறிமுகம்"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-brands fa-docker",
+                    "faIconColors": {"bg": "#2496ED", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 6},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/99567edb97054e236653d88b537db9cfdb543e08?raw=1", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{DataCamp}}",
+                            "text": "Introduction to Docker"
+                        },
+                        "fr": {
+                            "title": "{{DataCamp}}",
+                            "text": "Introduction à Docker"
+                        },
+                        "hi": {
+                            "title": "{{DataCamp}}",
+                            "text": "Docker का परिचय"
+                        },
+                        "ta": {
+                            "title": "{{DataCamp}}",
+                            "text": "Docker அறிமுகம்"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-boxes-stacked",
+                    "faIconColors": {"bg": "#2496ED", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 6},
+                    "link": {"href": "https://www.datacamp.com/statement-of-accomplishment/course/e2b0b298cd3a02e2348cc3d35d6373cb638819df?raw=1", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{DataCamp}}",
+                            "text": "Containerization and Virtualization Concepts"
+                        },
+                        "fr": {
+                            "title": "{{DataCamp}}",
+                            "text": "Concepts de conteneurisation et de virtualisation"
+                        },
+                        "hi": {
+                            "title": "{{DataCamp}}",
+                            "text": "कंटेनराइज़ेशन और वर्चुअलाइज़ेशन अवधारणाएं"
+                        },
+                        "ta": {
+                            "title": "{{DataCamp}}",
+                            "text": "கன்டெய்னரைசேஷன் மற்றும் வர்ச்சுவலைசேஷன் கருத்துகள்"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-solid fa-robot",
+                    "faIconColors": {"bg": "#CC785C", "fill": "#EEE"},
+                    "date": {"year": 2026, "month": 2},
+                    "link": {"href": "https://verify.skilljar.com/c/bnnadwws3o33", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Anthropic}}",
+                            "text": "Introduction to Model Context Protocol (MCP)"
+                        },
+                        "fr": {
+                            "title": "{{Anthropic}}",
+                            "text": "Introduction au Model Context Protocol (MCP)"
+                        },
+                        "hi": {
+                            "title": "{{Anthropic}}",
+                            "text": "Model Context Protocol (MCP) का परिचय"
+                        },
+                        "ta": {
+                            "title": "{{Anthropic}}",
+                            "text": "Model Context Protocol (MCP) அறிமுகம்"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Awards" },
+                "es": { "title": "Premios" },
+                "fr": { "title": "Récompenses" },
+                "hi": { "title": "पुरस्कार" },
+                "ta": { "title": "விருதுகள்" },
+                "ko": { "title": "수상 내역" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2024, "month": 1},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Quizz.It", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Shortlisted}} — BoilerMake XI",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "BoilerMake XI (Purdue University Hackathon)",
+                            "text": "Led team to build [[Quizz.It]], an AI-powered study tool that turns uploaded PDFs into summaries, practice questions, and a conversational Q&A interface. Shortlisted for 3 category awards:",
+                            "list": [
+                                "Best Use of AI in Education",
+                                "Klaviyo Always Puts Our Customers First",
+                                "BoilerBookings — Project That Helps College Students Most"
+                            ]
+                        },
+                        "fr": {
+                            "title": "{{Présélectionné}} — BoilerMake XI",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "BoilerMake XI (Hackathon de l'Université Purdue)",
+                            "text": "A dirigé une équipe pour construire [[Quizz.It]], un outil d'étude alimenté par l'IA qui transforme des PDF téléversés en résumés, questions d'entraînement, et une interface de questions-réponses conversationnelle. Présélectionné pour 3 prix de catégorie :",
+                            "list": [
+                                "Meilleure utilisation de l'IA dans l'éducation",
+                                "Klaviyo place toujours ses clients au premier plan",
+                                "BoilerBookings — Projet qui aide le plus les étudiants"
+                            ]
+                        },
+                        "hi": {
+                            "title": "{{शॉर्टलिस्टेड}} — BoilerMake XI",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "BoilerMake XI (Purdue यूनिवर्सिटी हैकाथॉन)",
+                            "text": "[[Quizz.It]] बनाने के लिए टीम का नेतृत्व किया, जो एक AI-संचालित स्टडी टूल है जो अपलोड की गई PDFs को सारांशों, प्रैक्टिस प्रश्नों, और एक संवादात्मक प्रश्नोत्तर इंटरफ़ेस में बदल देता है। 3 कैटेगरी अवॉर्ड्स के लिए शॉर्टलिस्ट किया गया:",
+                            "list": [
+                                "शिक्षा में AI के सर्वश्रेष्ठ उपयोग हेतु पुरस्कार",
+                                "Klaviyo अपने ग्राहकों को हमेशा प्राथमिकता देता है",
+                                "BoilerBookings — कॉलेज छात्रों की सबसे ज़्यादा मदद करने वाला प्रोजेक्ट"
+                            ]
+                        },
+                        "ta": {
+                            "title": "{{ஷார்ட்லிஸ்ட்}} — BoilerMake XI",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "BoilerMake XI (Purdue பல்கலைக்கழக ஹேக்கத்தான்)",
+                            "text": "பதிவேற்றப்பட்ட PDFகளை சுருக்கங்கள், பயிற்சி கேள்விகள், மற்றும் ஒரு உரையாடல் கேள்வி-பதில் இடைமுகமாக மாற்றும் AI-இயக்கப்படும் படிப்பு கருவியான [[Quizz.It]]-ஐ உருவாக்க குழுவை வழிநடத்தினேன். 3 பிரிவு விருதுகளுக்கு ஷார்ட்லிஸ்ட் செய்யப்பட்டது:",
+                            "list": [
+                                "கல்வியில் AI-யின் சிறந்த பயன்பாட்டிற்கான விருது",
+                                "Klaviyo எப்போதும் தன் வாடிக்கையாளர்களை முதலிடத்தில் வைக்கிறது",
+                                "BoilerBookings — கல்லூரி மாணவர்களுக்கு அதிகம் உதவும் திட்டம்"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2024, "month": 4},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.surgetheory.org/highlighting-hard-work-of-the-purdue-data-mine-project-team/", "tooltipString": "open_website", "faIcon": "fa-solid fa-newspaper"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Research Poster}} — The Data Mine Symposium",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "The Data Mine, Purdue University",
+                            "text": "Presented a research poster at the Data Mine Symposium on identifying interchangeable vs. non-interchangeable manufacturing capacities across the EV supply chain — part of a Knudsen Institute study into how conventional ICE manufacturers can pivot capacity toward EV component production for supply-chain visibility and procurement research. Our team's work was also featured by the company on their site."
+                        },
+                        "fr": {
+                            "title": "{{Poster de recherche}} — Symposium The Data Mine",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "The Data Mine, Université Purdue",
+                            "text": "Présenté un poster de recherche au Symposium The Data Mine sur l'identification des capacités de fabrication interchangeables et non interchangeables au sein de la chaîne d'approvisionnement des véhicules électriques — dans le cadre d'une étude du Knudsen Institute sur la manière dont les fabricants ICE conventionnels peuvent réorienter leur capacité vers la production de composants EV, au service de la visibilité de la chaîne d'approvisionnement et de la recherche en approvisionnement. Le travail de notre équipe a également été mis en avant par l'entreprise sur son site."
+                        },
+                        "hi": {
+                            "title": "{{रिसर्च पोस्टर}} — द डेटा माइन सिम्पोज़ियम",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "द डेटा माइन, Purdue यूनिवर्सिटी",
+                            "text": "Data Mine सिम्पोज़ियम में EV सप्लाई चेन में इंटरचेंजेबल और नॉन-इंटरचेंजेबल मैन्युफ़ैक्चरिंग क्षमताओं की पहचान पर एक रिसर्च पोस्टर प्रस्तुत किया — यह Knudsen Institute के एक अध्ययन का हिस्सा था कि पारंपरिक ICE निर्माता सप्लाई-चेन विज़िबिलिटी और प्रोक्योरमेंट रिसर्च के लिए अपनी क्षमता को EV कंपोनेंट प्रोडक्शन की ओर कैसे मोड़ सकते हैं। हमारी टीम के काम को कंपनी ने भी अपनी साइट पर प्रदर्शित किया।"
+                        },
+                        "ta": {
+                            "title": "{{ஆராய்ச்சி போஸ்டர்}} — தி டேட்டா மைன் சிம்போசியம்",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "தி டேட்டா மைன், Purdue பல்கலைக்கழகம்",
+                            "text": "EV சப்ளை செயினில் இடமாற்றக்கூடிய மற்றும் இடமாற்ற முடியாத உற்பத்தி திறன்களை அடையாளம் காண்பது குறித்து Data Mine சிம்போசியத்தில் ஒரு ஆராய்ச்சி போஸ்டரை வழங்கினேன் — இது வழக்கமான ICE உற்பத்தியாளர்கள் சப்ளை-செயின் வெளிப்படைத்தன்மை மற்றும் procurement ஆராய்ச்சிக்காக தங்கள் திறனை EV component உற்பத்தியை நோக்கி எவ்வாறு மாற்றலாம் என்பது பற்றிய Knudsen Institute ஆய்வின் ஒரு பகுதி. எங்கள் குழுவின் பணி நிறுவனத்தாலும் அவர்களின் தளத்திலும் சிறப்பிக்கப்பட்டது."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2026, "month": 4},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Finalist}} — Data Stewardship Award",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "Purdue VIP Program",
+                            "text": "Built a research poster for Purdue's Undergraduate Research Symposium on [[PeteChat]], an LLM-powered RAG tutor for Computer Engineering education, developed with the AI in Education research team as part of Purdue VIP. Our team was selected as a finalist for the Data Stewardship Award, recognizing our work building responsible, high-quality AI systems."
+                        },
+                        "fr": {
+                            "title": "{{Finaliste}} — Data Stewardship Award",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "Programme Purdue VIP",
+                            "text": "Réalisé un poster de recherche pour le Symposium de recherche de premier cycle de Purdue sur [[PeteChat]], un tuteur RAG alimenté par LLM pour l'enseignement du génie informatique, développé avec l'équipe de recherche AI in Education dans le cadre de Purdue VIP. Notre équipe a été sélectionnée comme finaliste pour le Data Stewardship Award, reconnaissant notre travail de construction de systèmes d'IA responsables et de haute qualité."
+                        },
+                        "hi": {
+                            "title": "{{फ़ाइनलिस्ट}} — Data Stewardship Award",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "Purdue VIP प्रोग्राम",
+                            "text": "Purdue के अंडरग्रैजुएट रिसर्च सिम्पोज़ियम के लिए [[PeteChat]] पर एक रिसर्च पोस्टर तैयार किया, जो कंप्यूटर इंजीनियरिंग शिक्षा के लिए एक LLM-संचालित RAG ट्यूटर है, जिसे Purdue VIP के हिस्से के रूप में AI in Education रिसर्च टीम के साथ विकसित किया गया। हमारी टीम को ज़िम्मेदार, उच्च-गुणवत्ता वाले AI सिस्टम बनाने के हमारे काम को मान्यता देते हुए Data Stewardship Award के लिए फ़ाइनलिस्ट के रूप में चुना गया।"
+                        },
+                        "ta": {
+                            "title": "{{இறுதிச்சுற்று}} — Data Stewardship Award",
+                            "province": "West Lafayette, IN",
+                            "country": "US",
+                            "institution": "Purdue VIP திட்டம்",
+                            "text": "Purdue-வின் இளங்கலை ஆராய்ச்சி சிம்போசியத்திற்காக [[PeteChat]] பற்றி ஒரு ஆராய்ச்சி போஸ்டரை உருவாக்கினேன், இது கணினி பொறியியல் கல்விக்கான LLM-இயக்கப்படும் RAG tutor ஆகும், இது Purdue VIP-இன் ஒரு பகுதியாக AI in Education ஆராய்ச்சி குழுவுடன் உருவாக்கப்பட்டது. பொறுப்புள்ள, உயர்தர AI அமைப்புகளை உருவாக்கும் எங்கள் பணியை அங்கீகரிக்கும் வகையில் எங்கள் குழு Data Stewardship Award-க்கான இறுதிச்சுற்று போட்டியாளராக தேர்ந்தெடுக்கப்பட்டது."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {"year": 2022, "month": 7},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/SXV357/Inspirit-AI-FinalProject-Object-Detection-For-Self-Driving-Cars", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Best Presentation}} — Inspirit AI Scholars Summer Program",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Inspirit AI",
+                            "text": "Recognized for best presentation out of 8 project teams — voted most-liked and most technically complex — for [[Self-Driving Car Object Detection]], a progressive object detection pipeline built with a fine-tuned VGG16 transfer-learning model and YOLOv3/DarkNet for real-time detection. A meaningful nod to technical communication skills given how advanced the project itself was."
+                        },
+                        "fr": {
+                            "title": "{{Meilleure présentation}} — Programme d'été Inspirit AI Scholars",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Inspirit AI",
+                            "text": "Reconnu pour la meilleure présentation parmi 8 équipes de projet — voté projet le plus apprécié et le plus complexe techniquement — pour [[Self-Driving Car Object Detection]], un pipeline de détection d'objets progressif construit avec un modèle d'apprentissage par transfert VGG16 affiné et YOLOv3/DarkNet pour la détection en temps réel. Une reconnaissance significative de mes compétences en communication technique, compte tenu du niveau d'avancement du projet."
+                        },
+                        "hi": {
+                            "title": "{{बेस्ट प्रेजेंटेशन}} — Inspirit AI Scholars समर प्रोग्राम",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Inspirit AI",
+                            "text": "[[Self-Driving Car Object Detection]] के लिए 8 प्रोजेक्ट टीमों में से सर्वश्रेष्ठ प्रेजेंटेशन के लिए मान्यता प्राप्त हुई — सबसे पसंदीदा और तकनीकी रूप से सबसे जटिल प्रोजेक्ट के रूप में वोट किया गया — जो एक फ़ाइन-ट्यून्ड VGG16 ट्रांसफ़र-लर्निंग मॉडल और रियल-टाइम डिटेक्शन के लिए YOLOv3/DarkNet के साथ बनाई गई एक प्रोग्रेसिव ऑब्जेक्ट डिटेक्शन पाइपलाइन है। प्रोजेक्ट कितना एडवांस्ड था, यह देखते हुए तकनीकी संचार कौशल की एक सार्थक पहचान।"
+                        },
+                        "ta": {
+                            "title": "{{சிறந்த விளக்கக்காட்சி}} — Inspirit AI Scholars கோடைக்கால திட்டம்",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Inspirit AI",
+                            "text": "fine-tune செய்யப்பட்ட VGG16 transfer-learning மாடல் மற்றும் நிகழ்நேர கண்டறிதலுக்கான YOLOv3/DarkNet-உடன் கட்டமைக்கப்பட்ட ஒரு படிப்படியான object detection pipeline ஆன [[Self-Driving Car Object Detection]]-க்காக 8 திட்டக் குழுக்களில் சிறந்த விளக்கக்காட்சிக்காக அங்கீகரிக்கப்பட்டேன் — மிகவும் விரும்பப்பட்ட மற்றும் தொழில்நுட்ப ரீதியாக மிகவும் சிக்கலான திட்டமாக வாக்களிக்கப்பட்டது. திட்டம் எவ்வளவு மேம்பட்டதாக இருந்தது என்பதைக் கருத்தில் கொண்டு, தொழில்நுட்ப தொடர்பு திறமைக்கான ஒரு அர்த்தமுள்ள அங்கீகாரம்."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

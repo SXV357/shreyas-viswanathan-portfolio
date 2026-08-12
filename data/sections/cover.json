@@ -1,0 +1,349 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello...",
+                "title_long": "I'm {{Shreyas Viswanathan!}}"
+            },
+            "fr": {
+                "title_short": "Salut !",
+                "title_short_nav": "À propos",
+                "title_long_prefix": "Salut...",
+                "title_long": "Je suis {{Shreyas Viswanathan !}}"
+            },
+            "hi": {
+                "title_short": "नमस्ते!",
+                "title_short_nav": "मेरे बारे में",
+                "title_long_prefix": "नमस्ते...",
+                "title_long": "मैं {{श्रेयस विश्वनाथन}} हूँ!"
+            },
+            "ta": {
+                "title_short": "வணக்கம்!",
+                "title_short_nav": "என்னைப் பற்றி",
+                "title_long_prefix": "வணக்கம்...",
+                "title_long": "நான் {{ஷ்ரேயாஸ் விஸ்வநாதன்}}!"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Dallas – TX",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "shreyasviswanathan1@gmail.com",
+                    "link": {"href": "mailto:shreyasviswanathan1@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@SXV357",
+                    "link": {"href": "https://github.com/SXV357", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                },
+                {
+                    "id": 4,
+                    "label": "@shrevis",
+                    "link": {"href": "https://www.linkedin.com/in/shrevis", "tooltipString": "open_website"},
+                    "faIcon": "fa-brands fa-linkedin"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A little bit}} about me..."},
+                "fr": {"title": "{{Un peu}} à propos de moi..."},
+                "hi": {"title": "मेरे बारे में {{थोड़ा सा}}..."},
+                "ta": {"title": "என்னைப் பற்றி {{சிறிதளவு}}..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>Hey, I'm Shreyas — a senior Computer Science student at Purdue University, graduating this Fall. I specialize in backend engineering, with a {{keen interest}} in large-scale data pipelines/infrastructure, cloud infrastructure and distributed systems. On the ML side, I'm drawn to CV/ML engineering for autonomous machine systems — perception, automation, the complexity of making algorithms run efficiently on-device, making perception genuinely useful, and keeping the whole system safe. I'm an [[automation nerd]] at heart, so this space checks a lot of boxes for me.</p><p>I recently wrapped up my {{full-stack Software Engineering Internship}} at John Deere, where I modernized a support tool engineers rely on to interact with the Operation Center's Distributed Services. I'm also doing AI research with Purdue's VIP program, building a student-facing multimodal RAG pipeline for the ECE 20875 course. Previously at John Deere, I built a self-healing infrastructure pipeline that cut resolution time for network device anomalies by [[almost 97%]]. Before that, I picked up experience at Space Cow (an early-stage startup), the Knudsen Institute (defense manufacturing research), and Pacific Northwest National Laboratory (a DOE-affiliated national lab).</p><p>Day to day I work across Python, Java, Go, TypeScript, C/C++, React, and Node.js on the full-stack/backend side, PyTorch/Scikit-Learn/NumPy/OpenCV for CV/ML, and AWS/Docker/Kubernetes/Terraform for cloud and infra. I'm currently looking for {{full-time roles}} after graduation in backend engineering, full-stack engineering, and applied AI/ML — [[feel free to reach out!]]</p>"
+                        },
+                        "fr": {
+                            "text": "<p>Salut, je m'appelle Shreyas — étudiant en dernière année de licence en informatique à Purdue University, diplômé cet automne. Je me spécialise dans le développement backend, avec un {{intérêt marqué}} pour les pipelines et l'infrastructure de données à grande échelle, l'infrastructure cloud et les systèmes distribués. Côté ML, je suis attiré par l'ingénierie CV/ML pour les systèmes autonomes — perception, automatisation, et toute la complexité de faire tourner des algorithmes efficacement sur l'appareil, de rendre la perception réellement utile, et d'assurer la sécurité de l'ensemble. Je suis un [[passionné d'automatisation]] dans l'âme, donc ce domaine me correspond parfaitement.</p><p>J'ai récemment terminé mon {{stage d'ingénieur logiciel full-stack}} chez John Deere, où j'ai modernisé un outil de support utilisé par les ingénieurs pour interagir avec les Distributed Services de l'Operation Center. Je fais aussi de la recherche en IA avec le programme VIP de Purdue, en construisant un pipeline RAG multimodal destiné aux étudiants pour le cours ECE 20875. Auparavant chez John Deere, j'ai conçu un pipeline d'infrastructure auto-réparatrice ayant réduit le temps de résolution des anomalies réseau de [[près de 97 %]]. Avant cela, j'ai acquis de l'expérience chez Space Cow (une startup en phase de démarrage), au Knudsen Institute (recherche en fabrication de défense), et au Pacific Northwest National Laboratory (un laboratoire national affilié au DOE).</p><p>Au quotidien, je travaille avec Python, Java, Go, TypeScript, C/C++, React et Node.js côté full-stack/backend, PyTorch/Scikit-Learn/NumPy/OpenCV pour le CV/ML, et AWS/Docker/Kubernetes/Terraform pour le cloud et l'infrastructure. Je suis actuellement à la recherche d'un {{poste à temps plein}} après l'obtention de mon diplôme, en ingénierie backend, full-stack, ou IA/ML appliquée — [[n'hésitez pas à me contacter !]]</p>"
+                        },
+                        "hi": {
+                            "text": "<p>नमस्ते, मैं श्रेयस हूँ — Purdue University में कंप्यूटर साइंस का अंतिम वर्ष का छात्र, जो इस Fall में स्नातक हो रहा हूँ। मैं बैकएंड इंजीनियरिंग में विशेषज्ञता रखता हूँ, और मुझे large-scale डेटा पाइपलाइन/इंफ्रास्ट्रक्चर, cloud infrastructure तथा distributed systems में {{गहरी दिलचस्पी}} है। ML की तरफ, मुझे स्वायत्त मशीन सिस्टम्स के लिए CV/ML इंजीनियरिंग पसंद है — perception, automation, और एल्गोरिद्म को डिवाइस पर efficiently चलाने, perception को वाकई उपयोगी बनाने, और पूरे सिस्टम को सुरक्षित रखने की जटिलता। मैं दिल से एक [[automation का शौकीन]] हूँ, तो यह क्षेत्र मुझे पूरी तरह सूट करता है।</p><p>मैंने हाल ही में John Deere में अपनी {{फुल-स्टैक सॉफ्टवेयर इंजीनियरिंग इंटर्नशिप}} पूरी की, जहाँ मैंने एक सपोर्ट टूल को आधुनिक बनाया जिसका इस्तेमाल इंजीनियर Operation Center की Distributed Services के साथ काम करने के लिए करते हैं। इसके साथ ही मैं Purdue के VIP प्रोग्राम के साथ AI रिसर्च भी कर रहा हूँ, जहाँ ECE 20875 कोर्स के लिए एक student-facing मल्टीमॉडल RAG पाइपलाइन बना रहा हूँ। इससे पहले John Deere में मैंने एक सेल्फ-हीलिंग इंफ्रास्ट्रक्चर पाइपलाइन बनाई थी जिसने network device anomalies के resolution time को [[करीब 97% तक]] घटा दिया। इससे पहले मैंने Space Cow (एक early-stage स्टार्टअप), Knudsen Institute (defense manufacturing रिसर्च), और Pacific Northwest National Laboratory (एक DOE-संबद्ध नेशनल लैब) में अनुभव हासिल किया।</p><p>दिन-प्रतिदिन मैं Python, Java, Go, TypeScript, C/C++, React, और Node.js के साथ फुल-स्टैक/बैकएंड पर, PyTorch/Scikit-Learn/NumPy/OpenCV के साथ CV/ML पर, और AWS/Docker/Kubernetes/Terraform के साथ क्लाउड व इंफ्रास्ट्रक्चर पर काम करता हूँ। मैं फ़िलहाल ग्रेजुएशन के बाद बैकएंड इंजीनियरिंग, फुल-स्टैक इंजीनियरिंग, और एप्लाइड AI/ML में {{फुल-टाइम भूमिकाएँ}} तलाश रहा हूँ — [[बेझिझक संपर्क करें!]]</p>"
+                        },
+                        "ta": {
+                            "text": "<p>வணக்கம், நான் ஷ்ரேயாஸ் — Purdue பல்கலைக்கழகத்தில் கணினி அறிவியல் இறுதியாண்டு மாணவன், இந்த இலையுதிர்காலத்தில் பட்டம் பெறுகிறேன். பேக்எண்ட் இன்ஜினியரிங்கில் நிபுணத்துவம் பெற்றுள்ளேன், மேலும் பெரிய அளவிலான டேட்டா பைப்லைன்கள்/உள்கட்டமைப்பு, cloud infrastructure மற்றும் distributed systems மீது எனக்கு {{ஆழமான ஆர்வம்}} உண்டு. ML பக்கத்தில், தன்னியக்க இயந்திர அமைப்புகளுக்கான CV/ML இன்ஜினியரிங் மீது ஈர்க்கப்படுகிறேன் — perception, automation, மற்றும் அல்காரிதம்களை device-இல் திறமையாக இயக்குவது, perception-ஐ உண்மையிலேயே பயனுள்ளதாக்குவது, மற்றும் முழு அமைப்பையும் பாதுகாப்பாக வைத்திருப்பதன் சிக்கல்தன்மை. நான் மனதளவில் ஒரு [[ஆட்டோமேஷன் ஆர்வலர்]], எனவே இந்தத் துறை எனக்கு மிகவும் பொருந்துகிறது.</p><p>நான் சமீபத்தில் John Deere-இல் எனது {{ஃபுல்-ஸ்டாக் சாஃப்ட்வேர் இன்ஜினியரிங் இன்டர்ன்ஷிப்பை}} முடித்தேன், அங்கு Operation Center-இன் Distributed Services உடன் பணிபுரிய இன்ஜினியர்கள் நம்பியிருக்கும் ஒரு சப்போர்ட் டூலை நவீனப்படுத்தினேன். இதனுடன் Purdue-இன் VIP திட்டத்துடன் AI ஆராய்ச்சியும் செய்கிறேன், அங்கு ECE 20875 பாடத்திற்கான ஒரு மாணவர்-சார்ந்த multimodal RAG பைப்லைனை உருவாக்குகிறேன். இதற்கு முன் John Deere-இல் நான் ஒரு சுய-குணப்படுத்தும் உள்கட்டமைப்பு பைப்லைனை உருவாக்கினேன், இது network device anomalies-இன் resolution time-ஐ [[கிட்டத்தட்ட 97%]] குறைத்தது. இதற்கு முன் நான் Space Cow (ஒரு early-stage ஸ்டார்ட்அப்), Knudsen Institute (defense manufacturing ஆராய்ச்சி), மற்றும் Pacific Northwest National Laboratory (ஒரு DOE-சார்ந்த தேசிய ஆய்வகம்) ஆகியவற்றில் அனுபவம் பெற்றுள்ளேன்.</p><p>தினமும் நான் Python, Java, Go, TypeScript, C/C++, React, மற்றும் Node.js உடன் ஃபுல்-ஸ்டாக்/பேக்எண்டிலும், PyTorch/Scikit-Learn/NumPy/OpenCV உடன் CV/ML-இலும், AWS/Docker/Kubernetes/Terraform உடன் கிளவுட் மற்றும் உள்கட்டமைப்பிலும் பணிபுரிகிறேன். தற்போது பட்டப்படிப்புக்குப் பிறகு பேக்எண்ட் இன்ஜினியரிங், ஃபுல்-ஸ்டாக் இன்ஜினியரிங், மற்றும் applied AI/ML துறைகளில் {{முழுநேர வேலைகளை}} தேடுகிறேன் — [[தயங்காமல் தொடர்பு கொள்ளுங்கள்!]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleTestimonials",
+            "locales": {
+                "en": {"title": "{{Recommendations}}"},
+                "fr": {"title": "{{Recommandations}}"},
+                "hi": {"title": "{{सिफ़ारिशें}}"},
+                "ta": {"title": "{{பரிந்துரைகள்}}"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Shawn Sonnack",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-user",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Engineering Manager at [[John Deere]]",
+                            "text": "Shreyas consistently demonstrated [[strong ownership and technical depth]], with the ability to deliver meaningful impact. He designed a self-healing pipeline that drove a [[96.67% improvement in MTTR]], and independently took an ambiguous problem all the way to production."
+                        },
+                        "fr": {
+                            "title": "Responsable Ingénierie chez [[John Deere]]",
+                            "text": "Shreyas a toujours fait preuve d'une [[forte responsabilisation et d'une grande profondeur technique]], avec la capacité de livrer un impact réel. Il a conçu un pipeline auto-réparateur ayant entraîné une [[amélioration de 96,67 % du MTTR]], et a mené seul un problème ambigu jusqu'en production."
+                        },
+                        "hi": {
+                            "title": "[[John Deere]] में इंजीनियरिंग मैनेजर",
+                            "text": "श्रेयस ने लगातार [[मजबूत ओनरशिप और गहरी तकनीकी समझ]] दिखाई, साथ ही सार्थक प्रभाव देने की क्षमता भी। उन्होंने एक सेल्फ-हीलिंग पाइपलाइन डिज़ाइन की जिसने [[MTTR में 96.67% सुधार]] लाया, और एक अस्पष्ट समस्या को स्वतंत्र रूप से प्रोडक्शन तक पहुँचाया।"
+                        },
+                        "ta": {
+                            "title": "[[John Deere]]-இல் இன்ஜினியரிங் மேனேஜர்",
+                            "text": "ஷ்ரேயாஸ் தொடர்ந்து [[வலுவான உரிமையாண்மையும் ஆழமான தொழில்நுட்ப புரிதலும்]] வெளிப்படுத்தினார், மேலும் அர்த்தமுள்ள தாக்கத்தை வழங்கும் திறனையும் காட்டினார். அவர் ஒரு சுய-குணப்படுத்தும் பைப்லைனை வடிவமைத்தார், இது [[MTTR-ஐ 96.67% மேம்படுத்தியது]], மேலும் ஒரு தெளிவற்ற பிரச்சினையை தானாகவே production வரை கொண்டு சென்றார்."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "label": "Andrew Schwenk",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-user",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Network Engineer at [[John Deere]]",
+                            "text": "Shreyas demonstrated an exceptional ability to [[rapidly iterate and improve]], with great attention to detail and a genuine interest in learning. He brought valuable innovation to our team automating network anomaly resolution."
+                        },
+                        "fr": {
+                            "title": "Ingénieur Réseau chez [[John Deere]]",
+                            "text": "Shreyas a fait preuve d'une capacité exceptionnelle à [[itérer et s'améliorer rapidement]], avec un grand souci du détail et un réel intérêt pour l'apprentissage. Il a apporté une innovation précieuse à notre équipe en automatisant la résolution des anomalies réseau."
+                        },
+                        "hi": {
+                            "title": "[[John Deere]] में नेटवर्क इंजीनियर",
+                            "text": "श्रेयस ने [[तेज़ी से iterate करने और सुधारने]] की असाधारण क्षमता दिखाई, साथ ही बारीकियों पर गहरा ध्यान और सीखने में सच्ची रुचि भी। उन्होंने नेटवर्क एनोमली रिज़ॉल्यूशन को automate करने में हमारी टीम को मूल्यवान इनोवेशन दिया।"
+                        },
+                        "ta": {
+                            "title": "[[John Deere]]-இல் நெட்வொர்க் இன்ஜினியர்",
+                            "text": "ஷ்ரேயாஸ் [[வேகமாக மேம்படுத்தி முன்னேறும்]] அசாதாரண திறனை வெளிப்படுத்தினார், நுணுக்கமான கவனமும் கற்றலில் உண்மையான ஆர்வமும் கொண்டவர். நெட்வொர்க் அசாதாரணங்களைத் தானியங்குபடுத்துவதில் எங்கள் குழுவிற்கு மதிப்புமிக்க புதுமையை வழங்கினார்."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "label": "Richard Leu",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-user",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "AI Executive & Entrepreneur",
+                            "text": "Shreyas was a [[self-starter]] who earned our trust as a productive worker without the need for much oversight. He demonstrated a great talent for [[learning new topics and applying that knowledge swiftly]] to his work on LLM, RAG, and chatbot development."
+                        },
+                        "fr": {
+                            "title": "Cadre & Entrepreneur en IA",
+                            "text": "Shreyas était un [[esprit d'initiative]] qui a gagné notre confiance en tant que collaborateur productif sans besoin de supervision. Il a démontré un grand talent pour [[apprendre de nouveaux sujets et les appliquer rapidement]] à son travail sur les LLM, le RAG et le développement de chatbots."
+                        },
+                        "hi": {
+                            "title": "AI एक्ज़ीक्यूटिव और उद्यमी",
+                            "text": "श्रेयस एक [[सेल्फ-स्टार्टर]] थे जिन्होंने बिना ज़्यादा निगरानी के एक भरोसेमंद और उत्पादक सहयोगी के रूप में हमारा विश्वास जीता। उन्होंने LLM, RAG, और चैटबॉट डेवलपमेंट में [[नए विषय जल्दी सीखने और उन्हें तुरंत लागू करने]] की शानदार प्रतिभा दिखाई।"
+                        },
+                        "ta": {
+                            "title": "AI நிர்வாகி & தொழில்முனைவோர்",
+                            "text": "ஷ்ரேயாஸ் ஒரு [[சுய-தூண்டுதல் கொண்டவர்]], அதிக மேற்பார்வை இல்லாமலேயே ஒரு உற்பத்தித்திறன் மிக்க பணியாளராக எங்கள் நம்பிக்கையைப் பெற்றார். LLM, RAG, மற்றும் chatbot மேம்பாட்டில் [[புதிய தலைப்புகளை விரைவாகக் கற்று அதை உடனடியாகப் பயன்படுத்தும்]] அற்புதமான திறமையை வெளிப்படுத்தினார்."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "label": "Neetu Rishi",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-user",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "CEO & Co-Founder, [[Success Door]] (mentor)",
+                            "text": "Shreyas is an [[exceptionally sincere and hardworking]] individual with a strong aptitude for data science and problem-solving. What truly sets him apart is his [[natural leadership]] — balancing guiding others with learning from them."
+                        },
+                        "fr": {
+                            "title": "PDG et Cofondatrice, [[Success Door]] (mentore)",
+                            "text": "Shreyas est une personne [[exceptionnellement sincère et travailleuse]], avec une forte aptitude pour la data science et la résolution de problèmes. Ce qui le distingue vraiment, c'est son [[leadership naturel]] — il sait guider les autres tout en apprenant d'eux."
+                        },
+                        "hi": {
+                            "title": "CEO और सह-संस्थापक, [[Success Door]] (मेंटर)",
+                            "text": "श्रेयस एक [[असाधारण रूप से ईमानदार और मेहनती]] व्यक्ति हैं, जिनमें डेटा साइंस और समस्या-समाधान की गहरी क्षमता है। जो चीज़ उन्हें सबसे अलग बनाती है, वह है उनका [[स्वाभाविक नेतृत्व]] — दूसरों का मार्गदर्शन करना और साथ ही उनसे सीखना भी।"
+                        },
+                        "ta": {
+                            "title": "CEO & இணை-நிறுவனர், [[Success Door]] (வழிகாட்டி)",
+                            "text": "ஷ்ரேயாஸ் ஒரு [[அசாதாரணமாக நேர்மையான மற்றும் கடின உழைப்பாளி]], டேட்டா சயின்ஸ் மற்றும் பிரச்சினை தீர்வில் வலுவான திறன் கொண்டவர். அவரை உண்மையிலேயே தனித்துவப்படுத்துவது அவரது [[இயல்பான தலைமைத்துவம்]] — மற்றவர்களை வழிநடத்துவதும் அவர்களிடமிருந்து கற்றுக்கொள்வதும் சமநிலையாக்குகிறார்."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "fr": {"title": "Intérêts {{personnels}} "},
+                "hi": {"title": "व्यक्तिगत {{रुचियाँ}}"},
+                "ta": {"title": "தனிப்பட்ட {{ஆர்வங்கள்}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-dumbbell",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Working}} out",
+                            "text": "Staying active and hitting the gym whenever I can."
+                        },
+                        "fr": {
+                            "title": "Faire du {{sport}}",
+                            "text": "Rester actif et aller à la salle de sport dès que possible."
+                        },
+                        "hi": {
+                            "title": "{{वर्कआउट}} करना",
+                            "text": "जब भी मौका मिले, सक्रिय रहना और जिम जाना।"
+                        },
+                        "ta": {
+                            "title": "{{உடற்பயிற்சி}}",
+                            "text": "முடிந்தபோதெல்லாம் சுறுசுறுப்பாக இருப்பதும் ஜிம்முக்குச் செல்வதும்."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-baseball-bat-ball",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "Playing {{cricket}}",
+                            "text": "Following and playing cricket whenever I get the chance."
+                        },
+                        "fr": {
+                            "title": "Jouer au {{cricket}}",
+                            "text": "Suivre et jouer au cricket dès que l'occasion se présente."
+                        },
+                        "hi": {
+                            "title": "{{क्रिकेट}} खेलना",
+                            "text": "जब भी मौका मिले क्रिकेट देखना और खेलना।"
+                        },
+                        "ta": {
+                            "title": "{{கிரிக்கெட்}} விளையாடுதல்",
+                            "text": "வாய்ப்பு கிடைக்கும்போதெல்லாம் கிரிக்கெட் பார்ப்பதும் விளையாடுவதும்."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-utensils",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "Exploring new {{cuisines}}",
+                            "text": "Trying out new restaurants and dishes whenever I can."
+                        },
+                        "fr": {
+                            "title": "Découvrir de nouvelles {{cuisines}}",
+                            "text": "Essayer de nouveaux restaurants et plats dès que possible."
+                        },
+                        "hi": {
+                            "title": "नए {{व्यंजन}} आज़माना",
+                            "text": "जब भी मौका मिले नए रेस्टोरेंट और व्यंजन आज़माना।"
+                        },
+                        "ta": {
+                            "title": "புதிய {{உணவு வகைகளை}} ஆராய்தல்",
+                            "text": "முடிந்தபோதெல்லாம் புதிய உணவகங்களையும் உணவுகளையும் முயற்சிப்பது."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}}",
+                            "text": "Taking photos and capturing moments wherever I go."
+                        },
+                        "fr": {
+                            "title": "{{Photographie}}",
+                            "text": "Prendre des photos et capturer des moments partout où je vais."
+                        },
+                        "hi": {
+                            "title": "{{फोटोग्राफी}}",
+                            "text": "जहाँ भी जाता हूँ, तस्वीरें लेना और पलों को कैद करना।"
+                        },
+                        "ta": {
+                            "title": "{{புகைப்படம்}} எடுத்தல்",
+                            "text": "நான் செல்லும் இடங்களில் புகைப்படங்கள் எடுத்து தருணங்களைப் பதிவு செய்வது."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
