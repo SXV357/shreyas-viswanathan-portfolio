@@ -542,87 +542,6 @@
                             "title": "GitHub"
                         }
                     }
-                },
-                {
-                    "id": 19,
-                    "img": "",
-                    "faIcon": "fa-solid fa-diagram-project",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "REST APIs"
-                        },
-                        "fr": {
-                            "title": "APIs REST"
-                        },
-                        "hi": {
-                            "title": "REST API's"
-                        },
-                        "ta": {
-                            "title": "REST API-கள்"
-                        }
-                    }
-                },
-                {
-                    "id": 20,
-                    "img": "",
-                    "faIcon": "fa-solid fa-globe",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "HTTP"
-                        },
-                        "fr": {
-                            "title": "HTTP"
-                        },
-                        "hi": {
-                            "title": "HTTP"
-                        },
-                        "ta": {
-                            "title": "HTTP"
-                        }
-                    }
-                },
-                {
-                    "id": 21,
-                    "img": "",
-                    "faIcon": "fa-solid fa-arrows-spin",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "SDLC"
-                        },
-                        "fr": {
-                            "title": "Cycle de vie du développement logiciel (SDLC)"
-                        },
-                        "hi": {
-                            "title": "सॉफ़्टवेयर डेवलपमेंट लाइफ़ साइकल (SDLC)"
-                        },
-                        "ta": {
-                            "title": "மென்பொருள் மேம்பாட்டு வாழ்க்கை சுழற்சி (SDLC)"
-                        }
-                    }
                 }
             ]
         },
@@ -945,33 +864,6 @@
                         },
                         "ta": {
                             "title": "PyTorch"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "img": "",
-                    "faIcon": "fa-solid fa-brain",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Deep Learning"
-                        },
-                        "fr": {
-                            "title": "Apprentissage Profond"
-                        },
-                        "hi": {
-                            "title": "डीप लर्निंग"
-                        },
-                        "ta": {
-                            "title": "டீப் லேர்னிங்"
                         }
                     }
                 },

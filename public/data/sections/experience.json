@@ -59,40 +59,40 @@
                     "dateEnd": {"year": 2024, "month": 4},
                     "locales": {
                         "en": {
-                            "title": "Data and Software Engineering Intern",
+                            "title": "Data and NLP Research Engineer",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Knudsen Institute",
-                            "text": "Partnered with a 5-person team evaluating manufacturing capacity for an ICE-to-EV production transition, building Python web scrapers to pull process and capability data from 8 automotive part manufacturers, then fine-tuning DistilBERT-based NER models to categorize CNC machining and die-casting capabilities with 98% average accuracy.",
+                            "text": "Partnered with a 5-person team to evaluate manufacturing capacity for an ICE-to-EV transition, scraping data from 8 automotive manufacturers and fine-tuning NER models to categorize capabilities with 98% accuracy.",
                             "list": [],
                             "tags": ["Scikit-Learn", "Python", "BeautifulSoup", "HuggingFace", "JupyterLab", "Fine-Tuning"]
                         },
                         "fr": {
-                            "title": "Stagiaire en Ingénierie des Données et Logicielle",
+                            "title": "Ingénieur Chercheur en Données et NLP",
                             "province": "West Lafayette, IN",
                             "country": "États-Unis",
                             "institution": "Knudsen Institute",
-                            "text": "Collaboré avec une équipe de 5 personnes pour évaluer la capacité de fabrication lors d'une transition de production thermique vers l'électrique, en développant des scripts de web scraping en Python pour extraire des données de procédés et de capacités auprès de 8 fabricants de pièces automobiles, puis en affinant des modèles NER basés sur DistilBERT pour catégoriser les capacités d'usinage CNC et de moulage sous pression avec une précision moyenne de 98 %.",
+                            "text": "Collaboré avec une équipe de 5 personnes pour évaluer la capacité de fabrication lors d'une transition ICE vers EV, en extrayant des données de 8 fabricants automobiles et en affinant des modèles NER pour catégoriser les capacités avec une précision de 98 %.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Scikit-Learn", "Python", "BeautifulSoup", "HuggingFace", "JupyterLab", "Fine-tuning"]
                         },
                         "hi": {
-                            "title": "डेटा और सॉफ्टवेयर इंजीनियरिंग इंटर्न",
+                            "title": "डेटा और NLP रिसर्च इंजीनियर",
                             "province": "West Lafayette, IN",
                             "country": "अमेरिका",
                             "institution": "Knudsen Institute",
-                            "text": "5 सदस्यों की टीम के साथ मिलकर ICE से EV उत्पादन में बदलाव के लिए विनिर्माण क्षमता का मूल्यांकन किया, 8 ऑटोमोटिव पार्ट्स निर्माताओं से प्रक्रिया और क्षमता डेटा निकालने के लिए Python वेब स्क्रैपर बनाए, फिर CNC मशीनिंग और डाई-कास्टिंग क्षमताओं को वर्गीकृत करने के लिए DistilBERT-आधारित NER मॉडल को 98% औसत सटीकता के साथ फाइन-ट्यून किया।",
+                            "text": "5 सदस्यों की टीम के साथ मिलकर ICE से EV परिवर्तन के लिए विनिर्माण क्षमता का मूल्यांकन किया, 8 ऑटोमोटिव निर्माताओं से डेटा निकाला और NER मॉडल को 98% सटीकता के साथ फाइन-ट्यून किया।",
                             "list": [],
-                            "tags": []
+                            "tags": ["Scikit-Learn", "Python", "BeautifulSoup", "HuggingFace", "JupyterLab", "फाइन-ट्यूनिंग"]
                         },
                         "ta": {
-                            "title": "தரவு மற்றும் மென்பொருள் பொறியியல் பயிற்சியாளர்",
+                            "title": "தரவு மற்றும் NLP ஆராய்ச்சி பொறியாளர்",
                             "province": "West Lafayette, IN",
                             "country": "அமெரிக்கா",
                             "institution": "Knudsen Institute",
-                            "text": "5 பேர் கொண்ட குழுவுடன் இணைந்து ICE இலிருந்து EV உற்பத்திக்கு மாறுவதற்கான உற்பத்தி திறனை மதிப்பீடு செய்தேன், 8 வாகன பாகங்கள் உற்பத்தியாளர்களிடமிருந்து செயல்முறை மற்றும் திறன் தரவைப் பெற Python வெப் ஸ்க்ரேப்பர்களை உருவாக்கினேன், பின்னர் CNC இயந்திரமயமாக்கல் மற்றும் டை-காஸ்டிங் திறன்களை வகைப்படுத்த DistilBERT அடிப்படையிலான NER மாடல்களை 98% சராசரி துல்லியத்துடன் மெருகூட்டினேன்.",
+                            "text": "5 பேர் கொண்ட குழுவுடன் இணைந்து ICE இலிருந்து EV மாற்றத்திற்கான உற்பத்தி திறனை மதிப்பீடு செய்தேன், 8 வாகன உற்பத்தியாளர்களிடமிருந்து தரவைப் பெற்று NER மாடல்களை 98% துல்லியத்துடன் மெருகூட்டினேன்.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Scikit-Learn", "Python", "BeautifulSoup", "HuggingFace", "JupyterLab", "ஃபைன்-டியூனிங்"]
                         }
                     }
                 },
@@ -105,40 +105,40 @@
                     "dateEnd": {"year": 2024, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "Data Science & Backend Intern",
+                            "title": "Software Engineer Intern",
                             "province": "",
                             "country": "US",
                             "institution": "Space Cow LLC",
-                            "text": "Built core LLM infrastructure for a startup's AI platform (a developer playground for testing LLMs and building chatbot apps), including a session-based conversation history and token-tracking system supporting context windows from 4K to 2M tokens, and an abstraction layer unifying 120+ models across 5+ providers for seamless switching. Separately prototyped a CLI-based RAG chatbot for document and website analysis across 8+ domains, exploring future extensions such as manufacturing document ingestion.",
+                            "text": "Built core LLM infrastructure for a startup's AI dev platform, including a token-aware conversation history system and an abstraction layer unifying 120+ models across 5+ providers, plus a prototype CLI-based RAG chatbot for manufacturing document analysis.",
                             "list": [],
                             "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         },
                         "fr": {
-                            "title": "Stagiaire en Science des Données et Backend",
+                            "title": "Stagiaire Ingénieur Logiciel",
                             "province": "",
                             "country": "États-Unis",
                             "institution": "Space Cow LLC",
-                            "text": "Développé l'infrastructure LLM principale pour la plateforme IA d'une startup (un bac à sable pour tester des LLM et créer des applications de chatbot), incluant un système de suivi d'historique de conversation par session et de jetons prenant en charge des fenêtres de contexte de 4K à 2M jetons, et une couche d'abstraction unifiant plus de 120 modèles chez plus de 5 fournisseurs pour un changement fluide. Prototypé séparément un chatbot RAG en ligne de commande pour l'analyse de documents et de sites web dans plus de 8 domaines, explorant de futures extensions comme l'ingestion de documents manufacturiers.",
+                            "text": "Développé l'infrastructure LLM principale de la plateforme IA d'une startup, incluant un système de suivi d'historique de conversation et une couche d'abstraction unifiant plus de 120 modèles chez plus de 5 fournisseurs, ainsi qu'un prototype de chatbot RAG en ligne de commande pour l'analyse de documents manufacturiers.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         },
                         "hi": {
-                            "title": "डेटा साइंस और बैकएंड इंटर्न",
+                            "title": "सॉफ्टवेयर इंजीनियर इंटर्न",
                             "province": "",
                             "country": "अमेरिका",
                             "institution": "Space Cow LLC",
-                            "text": "एक स्टार्टअप के AI प्लेटफ़ॉर्म (LLM टेस्ट करने और चैटबॉट ऐप्स बनाने के लिए एक डेवलपर प्लेग्राउंड) के लिए मुख्य LLM इंफ्रास्ट्रक्चर बनाया, जिसमें 4K से 2M टोकन तक के कॉन्टेक्स्ट विंडो का समर्थन करने वाला सेशन-आधारित बातचीत इतिहास और टोकन-ट्रैकिंग सिस्टम, और 5+ प्रदाताओं में 120+ मॉडलों को एकीकृत करने वाली एब्स्ट्रैक्शन लेयर शामिल है। अलग से, 8+ डोमेन में दस्तावेज़ और वेबसाइट विश्लेषण के लिए एक CLI-आधारित RAG चैटबॉट प्रोटोटाइप किया, जो मैन्युफैक्चरिंग दस्तावेज़ इनजेशन जैसे भविष्य के विस्तार की खोज करता है।",
+                            "text": "एक स्टार्टअप के AI प्लेटफ़ॉर्म के लिए मुख्य LLM इंफ्रास्ट्रक्चर बनाया, जिसमें टोकन-अवेयर बातचीत इतिहास सिस्टम और 5+ प्रदाताओं में 120+ मॉडलों को एकीकृत करने वाली एब्स्ट्रैक्शन लेयर शामिल है, साथ ही मैन्युफैक्चरिंग दस्तावेज़ विश्लेषण के लिए एक प्रोटोटाइप CLI-आधारित RAG चैटबॉट भी बनाया।",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         },
                         "ta": {
-                            "title": "தரவு அறிவியல் & பேக்எண்ட் பயிற்சியாளர்",
+                            "title": "மென்பொருள் பொறியாளர் பயிற்சியாளர்",
                             "province": "",
                             "country": "அமெரிக்கா",
                             "institution": "Space Cow LLC",
-                            "text": "ஒரு ஸ்டார்ட்அப்பின் AI தளத்திற்காக (LLM-களை சோதிக்கவும் chatbot ஆப்ஸை உருவாக்கவும் ஒரு டெவலப்பர் playground) முக்கிய LLM உள்கட்டமைப்பை உருவாக்கினேன், இதில் 4K முதல் 2M டோக்கன்கள் வரையிலான சூழல் சாளரங்களை ஆதரிக்கும் அமர்வு அடிப்படையிலான உரையாடல் வரலாறு மற்றும் டோக்கன்-கண்காணிப்பு அமைப்பு, மற்றும் 5+ வழங்குநர்களில் 120+ மாடல்களை ஒருங்கிணைக்கும் சுருக்க அடுக்கு ஆகியவை அடங்கும். தனியாக, 8+ களங்களில் ஆவணம் மற்றும் இணையதள பகுப்பாய்வுக்கான CLI அடிப்படையிலான RAG chatbot ஐ prototype செய்தேன், உற்பத்தி ஆவண உட்செலுத்தல் போன்ற எதிர்கால விரிவாக்கங்களை ஆராய்ந்தேன்.",
+                            "text": "ஒரு ஸ்டார்ட்அப்பின் AI தளத்திற்கான முக்கிய LLM உள்கட்டமைப்பை உருவாக்கினேன், இதில் டோக்கன்-அறிந்த உரையாடல் வரலாறு அமைப்பு மற்றும் 5+ வழங்குநர்களில் 120+ மாடல்களை ஒருங்கிணைக்கும் சுருக்க அடுக்கு ஆகியவை அடங்கும், மேலும் உற்பத்தி ஆவண பகுப்பாய்வுக்கான prototype CLI அடிப்படையிலான RAG chatbot ஐயும் உருவாக்கினேன்.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "JavaScript", "React", "LangChain", "HuggingFace", "Ollama"]
                         }
                     }
                 },
@@ -155,7 +155,7 @@
                             "province": "Moline, IL",
                             "country": "US",
                             "institution": "John Deere",
-                            "text": "Led the migration of 7+ Kubernetes namespaces off deprecated datacenter clusters, updating DNS, ingress, storage, and secrets in the process. Designed and shipped a fully automated self-healing pipeline powered by a LangGraph agent to triage network anomalies, improving mean time to resolution by up to 96.67%, and built a Redis- and ServiceNow-backed prevention layer to eliminate duplicate incident processing.",
+                            "text": "Led the migration of 7+ Kubernetes namespaces off deprecated clusters and designed a self-healing LangGraph pipeline that cut anomaly resolution time by up to 96.67%, backed by a Redis/ServiceNow layer to block duplicate incidents.",
                             "list": [],
                             "tags": ["Python", "Docker", "Kubernetes", "LangChain", "Redis", "ServiceNow", "Prometheus", "Pytest"]
                         },
@@ -164,27 +164,27 @@
                             "province": "Moline, IL",
                             "country": "États-Unis",
                             "institution": "John Deere",
-                            "text": "Dirigé la migration de plus de 7 espaces de noms Kubernetes hors des clusters de centre de données obsolètes, en mettant à jour le DNS, l'ingress, le stockage et les secrets. Conçu et déployé un pipeline d'auto-guérison entièrement automatisé, alimenté par un agent LangGraph pour trier les anomalies réseau, améliorant le délai moyen de résolution jusqu'à 96,67 %, et créé une couche de prévention basée sur Redis et ServiceNow pour éliminer le traitement des incidents en double.",
+                            "text": "Dirigé la migration de plus de 7 espaces de noms Kubernetes hors de clusters obsolètes et conçu un pipeline d'auto-guérison basé sur LangGraph, réduisant le délai de résolution des anomalies jusqu'à 96,67 %, avec une couche de prévention Redis/ServiceNow bloquant les incidents en double.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "Docker", "Kubernetes", "LangChain", "Redis", "ServiceNow", "Prometheus", "Pytest"]
                         },
                         "hi": {
                             "title": "सॉफ्टवेयर इंजीनियर इंटर्न",
                             "province": "Moline, IL",
                             "country": "अमेरिका",
                             "institution": "John Deere",
-                            "text": "7+ Kubernetes नेमस्पेस को पुराने डेटासेंटर क्लस्टरों से माइग्रेट किया, इस दौरान DNS, इनग्रेस, स्टोरेज और सीक्रेट्स को अपडेट किया। नेटवर्क विसंगतियों को ट्राइएज करने के लिए LangGraph एजेंट द्वारा संचालित एक पूर्णतः स्वचालित सेल्फ-हीलिंग पाइपलाइन डिज़ाइन और शिप की, जिससे औसत समाधान समय में 96.67% तक सुधार हुआ, और डुप्लिकेट घटना प्रोसेसिंग को खत्म करने के लिए Redis और ServiceNow आधारित प्रिवेंशन लेयर बनाई।",
+                            "text": "7+ Kubernetes नेमस्पेस को पुराने क्लस्टरों से माइग्रेट किया और LangGraph-आधारित सेल्फ-हीलिंग पाइपलाइन डिज़ाइन की, जिससे समाधान समय में 96.67% तक सुधार हुआ, साथ ही डुप्लिकेट घटनाओं को रोकने के लिए Redis/ServiceNow लेयर बनाई।",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "Docker", "Kubernetes", "LangChain", "Redis", "ServiceNow", "Prometheus", "Pytest"]
                         },
                         "ta": {
                             "title": "மென்பொருள் பொறியாளர் பயிற்சியாளர்",
                             "province": "Moline, IL",
                             "country": "அமெரிக்கா",
                             "institution": "John Deere",
-                            "text": "காலாவதியான டேட்டாசெண்டர் கிளஸ்டர்களிலிருந்து 7+ Kubernetes நேம்ஸ்பேஸ்களை இடம்பெயர்த்தேன், இதில் DNS, இன்கிரெஸ், சேமிப்பு மற்றும் சீக்ரெட்களை புதுப்பித்தேன். நெட்வொர்க் முரண்பாடுகளை பகுப்பாய்வு செய்ய LangGraph முகவரால் இயக்கப்படும் முழுமையாக தானியங்கு சுய-குணப்படுத்தும் பைப்லைனை வடிவமைத்து வெளியிட்டேன், சராசரி தீர்வு நேரத்தை 96.67% வரை மேம்படுத்தினேன், மேலும் நகல் சம்பவ செயலாக்கத்தை நீக்க Redis மற்றும் ServiceNow அடிப்படையிலான தடுப்பு அடுக்கை உருவாக்கினேன்.",
+                            "text": "காலாவதியான கிளஸ்டர்களிலிருந்து 7+ Kubernetes நேம்ஸ்பேஸ்களை இடம்பெயர்த்தேன், மேலும் LangGraph அடிப்படையிலான சுய-குணப்படுத்தும் பைப்லைனை வடிவமைத்தேன், இது தீர்வு நேரத்தை 96.67% வரை மேம்படுத்தியது, மேலும் நகல் சம்பவங்களைத் தடுக்க Redis/ServiceNow அடுக்கை உருவாக்கினேன்.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "Docker", "Kubernetes", "LangChain", "Redis", "ServiceNow", "Prometheus", "Pytest"]
                         }
                     }
                 },
@@ -201,7 +201,7 @@
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue VIP",
-                            "text": "Building MCP integrations for a multimodal RAG pipeline with Purdue VIP's AI in Education research team. Built a Python MCP server exposing Ed Discussion API endpoints as LLM-callable tools so a student-facing RAG chatbot can retrieve course threads and Q&A at inference time, and extended an E2B code sandbox MCP server with async execution and multimodal image output.",
+                            "text": "Building MCP integrations for a multimodal RAG pipeline with Purdue's AI in Education team — a Python MCP server exposing Ed Discussion data as LLM-callable tools, plus an extended E2B code-sandbox server for async, multimodal execution.",
                             "list": [],
                             "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
@@ -210,27 +210,27 @@
                             "province": "West Lafayette, IN",
                             "country": "États-Unis",
                             "institution": "Purdue VIP",
-                            "text": "Développe des intégrations MCP pour un pipeline RAG multimodal au sein de l'équipe de recherche « IA pour l'Éducation » du VIP de Purdue. A construit un serveur MCP en Python exposant les points de terminaison de l'API Ed Discussion en tant qu'outils appelables par un LLM, permettant à un chatbot RAG destiné aux étudiants de récupérer les fils de discussion et les questions-réponses du cours en temps réel, et a étendu un serveur MCP de bac à sable de code E2B avec exécution asynchrone et sortie d'image multimodale.",
+                            "text": "Développe des intégrations MCP pour un pipeline RAG multimodal avec l'équipe IA pour l'Éducation de Purdue — un serveur MCP en Python exposant les données Ed Discussion comme outils appelables par un LLM, ainsi qu'un serveur MCP de bac à sable E2B étendu pour l'exécution asynchrone et multimodale.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
                         "hi": {
                             "title": "स्नातक AI शोधकर्ता",
                             "province": "West Lafayette, IN",
                             "country": "अमेरिका",
                             "institution": "Purdue VIP",
-                            "text": "Purdue VIP की AI इन एजुकेशन शोध टीम के साथ मल्टीमॉडल RAG पाइपलाइन के लिए MCP इंटीग्रेशन बना रहे हैं। एक Python MCP सर्वर बनाया जो Ed Discussion API एंडपॉइंट्स को LLM-कॉल करने योग्य टूल्स के रूप में एक्सपोज़ करता है, ताकि छात्र-केंद्रित RAG चैटबॉट इनफरेंस के समय कोर्स थ्रेड्स और Q&A प्राप्त कर सके, और एक E2B कोड सैंडबॉक्स MCP सर्वर को असिंक्रोनस एक्ज़ीक्यूशन और मल्टीमॉडल इमेज आउटपुट के साथ विस्तारित किया।",
+                            "text": "Purdue की AI इन एजुकेशन टीम के साथ मल्टीमॉडल RAG पाइपलाइन के लिए MCP इंटीग्रेशन बना रहे हैं — Ed Discussion डेटा को LLM-कॉल करने योग्य टूल्स के रूप में एक्सपोज़ करने वाला Python MCP सर्वर, साथ ही असिंक्रोनस मल्टीमॉडल एक्ज़ीक्यूशन के लिए विस्तारित E2B सैंडबॉक्स सर्वर।",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
                         "ta": {
                             "title": "இளங்கலை AI ஆராய்ச்சியாளர்",
                             "province": "West Lafayette, IN",
                             "country": "அமெரிக்கா",
                             "institution": "Purdue VIP",
-                            "text": "Purdue VIP இன் கல்வியில் AI ஆராய்ச்சி குழுவுடன் இணைந்து பல்முக RAG பைப்லைனுக்கான MCP ஒருங்கிணைப்புகளை உருவாக்குகிறேன். மாணவர்களுக்கான RAG chatbot பாடநெறி இழைகள் மற்றும் கேள்வி-பதில்களை பெற, Ed Discussion API முனைவுகளை LLM-அழைக்கக்கூடிய கருவிகளாக வெளிப்படுத்தும் Python MCP சேவையகத்தை உருவாக்கினேன், மேலும் ஒத்திசைவற்ற செயலாக்கம் மற்றும் பல்முக பட வெளியீட்டுடன் E2B குறியீடு சாண்ட்பாக்ஸ் MCP சேவையகத்தை விரிவுபடுத்தினேன்.",
+                            "text": "Purdue இன் கல்வியில் AI ஆராய்ச்சி குழுவுடன் பல்முக RAG பைப்லைனுக்கான MCP ஒருங்கிணைப்புகளை உருவாக்குகிறேன் — Ed Discussion தரவை LLM-அழைக்கக்கூடிய கருவிகளாக வெளிப்படுத்தும் Python MCP சேவையகம், மேலும் ஒத்திசைவற்ற பல்முக செயலாக்கத்திற்கான விரிவாக்கப்பட்ட E2B சாண்ட்பாக்ஸ் சேவையகம்.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Python", "MCP", "RAG", "R&D"]
                         }
                     }
                 },
@@ -240,14 +240,14 @@
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2026, "month": 5},
-                    "dateEnd": {"now": true},
+                    "dateEnd": {"year": 2026, "month": 8},
                     "locales": {
                         "en": {
                             "title": "Software Engineer Intern",
                             "province": "Urbandale, IA",
                             "country": "US",
                             "institution": "John Deere",
-                            "text": "Led a full-stack rewrite (Angular/Scala Play → React/Go) of an internal support tool used by 200+ engineers to explore, test, debug, and troubleshoot services powering JD Ops Center, helping resolve 2,000+ tickets annually. Independently led a security-driven Angular 13→19 migration of the tool's legacy frontend in a single day, resolving 6 categories of breaking changes with zero backend or infrastructure changes, and wired user-ID request tracing into nested Datadog spans while optimizing SQS writes for field operation exports via batching, cutting network round trips by up to 90%.",
+                            "text": "Led a full-stack rewrite (Angular/Scala Play → React/Go) of an internal support tool used by 200+ engineers, and independently shipped a security-driven Angular 13→19 migration in a single day, plus Datadog tracing and SQS batching that cut network round trips by up to 90%.",
                             "list": [],
                             "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
                         },
@@ -256,27 +256,27 @@
                             "province": "Urbandale, IA",
                             "country": "États-Unis",
                             "institution": "John Deere",
-                            "text": "Dirigé une réécriture full-stack (Angular/Scala Play → React/Go) d'un outil de support interne utilisé par plus de 200 ingénieurs pour explorer, tester, déboguer et dépanner les services alimentant JD Ops Center, contribuant à résoudre plus de 2 000 tickets par an. Dirigé de manière autonome une migration Angular 13→19 axée sur la sécurité du frontend existant de l'outil en une seule journée, résolvant 6 catégories de changements cassants sans aucune modification du backend ou de l'infrastructure, et intégré le traçage des requêtes par ID utilisateur dans des spans Datadog imbriqués tout en optimisant les écritures SQS pour les exports d'opérations sur le terrain via le batching, réduisant les allers-retours réseau jusqu'à 90 %.",
+                            "text": "Dirigé une réécriture full-stack (Angular/Scala Play → React/Go) d'un outil de support interne utilisé par plus de 200 ingénieurs, et déployé seul une migration Angular 13→19 axée sur la sécurité en une seule journée, avec un traçage Datadog et un batching SQS réduisant les allers-retours réseau jusqu'à 90 %.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
                         },
                         "hi": {
                             "title": "सॉफ्टवेयर इंजीनियर इंटर्न",
                             "province": "Urbandale, IA",
                             "country": "अमेरिका",
                             "institution": "John Deere",
-                            "text": "200+ इंजीनियरों द्वारा उपयोग किए जाने वाले आंतरिक सपोर्ट टूल का फुल-स्टैक पुनर्लेखन (Angular/Scala Play → React/Go) किया, जिससे JD Ops Center को संचालित करने वाली सेवाओं को एक्सप्लोर, टेस्ट, डीबग और ट्रबलशूट किया जा सका, और सालाना 2,000+ टिकट हल करने में मदद मिली। स्वतंत्र रूप से टूल के लेगेसी फ्रंटएंड का सुरक्षा-संचालित Angular 13→19 माइग्रेशन एक ही दिन में पूरा किया, बिना बैकएंड या इन्फ्रास्ट्रक्चर बदलाव के 6 श्रेणियों के ब्रेकिंग चेंज हल किए, और यूज़र-ID रिक्वेस्ट ट्रेसिंग को नेस्टेड Datadog स्पैन में जोड़ते हुए बैचिंग के जरिए फील्ड ऑपरेशन एक्सपोर्ट्स के लिए SQS राइट्स ऑप्टिमाइज़ कर नेटवर्क राउंड ट्रिप्स 90% तक घटाए।",
+                            "text": "200+ इंजीनियरों द्वारा उपयोग किए जाने वाले सपोर्ट टूल का फुल-स्टैक पुनर्लेखन (Angular/Scala Play → React/Go) किया, और अकेले एक ही दिन में सुरक्षा-संचालित Angular 13→19 माइग्रेशन पूरा किया, साथ ही Datadog ट्रेसिंग और SQS बैचिंग से नेटवर्क राउंड ट्रिप्स 90% तक घटाए।",
                             "list": [],
-                            "tags": []
+                            "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
                         },
                         "ta": {
                             "title": "மென்பொருள் பொறியாளர் பயிற்சியாளர்",
                             "province": "Urbandale, IA",
                             "country": "அமெரிக்கா",
                             "institution": "John Deere",
-                            "text": "JD Ops Center ஐ இயக்கும் சேவைகளை ஆராய, சோதிக்க, பிழைதிருத்த மற்றும் சரிசெய்ய 200+ பொறியாளர்கள் பயன்படுத்தும் உள் ஆதரவு கருவியின் முழு-அடுக்கு மறுஎழுத்தை (Angular/Scala Play → React/Go) முன்னெடுத்தேன், ஆண்டுக்கு 2,000+ டிக்கெட்டுகளை தீர்க்க உதவியது. கருவியின் legacy frontend இன் பாதுகாப்பு-உந்துதல் Angular 13→19 இடம்பெயர்வை ஒரே நாளில் தனியாக முன்னெடுத்து, backend அல்லது infrastructure மாற்றங்கள் இல்லாமல் 6 வகையான breaking changes ஐ தீர்த்தேன், மேலும் பயனர்-ID கோரிக்கை tracing ஐ nested Datadog spans இல் இணைத்து, batching மூலம் field operation exports க்கான SQS writes ஐ optimize செய்து network round trips ஐ 90% வரை குறைத்தேன்.",
+                            "text": "200+ பொறியாளர்கள் பயன்படுத்தும் ஆதரவு கருவியின் முழு-அடுக்கு மறுஎழுத்தை (Angular/Scala Play → React/Go) முன்னெடுத்தேன், மேலும் ஒரே நாளில் தனியாக பாதுகாப்பு-உந்துதல் Angular 13→19 இடம்பெயர்வை முடித்தேன், மேலும் Datadog tracing மற்றும் SQS batching மூலம் network round trips ஐ 90% வரை குறைத்தேன்.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Golang", "React", "TypeScript", "Docker", "Terraform", "AWS", "Datadog"]
                         }
                     }
                 }
