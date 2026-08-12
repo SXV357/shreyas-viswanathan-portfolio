@@ -3,6 +3,12 @@
     "private": true,
     "version": "2.0.3",
     "type": "module",
+    "homepage": "https://shreyasviswanathan.com/",
+    "author": "Shreyas Viswanathan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SXV357/shreyas-viswanathan-portfolio.git"
+    },
     "scripts": {
         "dev": "vite",
         "build": "vite build",
