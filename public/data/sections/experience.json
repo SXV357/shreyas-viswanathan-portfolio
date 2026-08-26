@@ -194,14 +194,14 @@
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2026, "month": 1},
-                    "dateEnd": {"now": true},
+                    "dateEnd": {"year": 2026, "month": 5},
                     "locales": {
                         "en": {
                             "title": "Undergraduate AI Researcher",
                             "province": "West Lafayette, IN",
                             "country": "US",
                             "institution": "Purdue VIP",
-                            "text": "Building MCP integrations for a multimodal RAG pipeline with Purdue's AI in Education team — a Python MCP server exposing Ed Discussion data as LLM-callable tools, plus an extended E2B code-sandbox server for async, multimodal execution.",
+                            "text": "Built MCP integrations for a multimodal RAG pipeline with Purdue's AI in Education team — a Python MCP server exposing Ed Discussion data as LLM-callable tools, plus an extended E2B code-sandbox server for async, multimodal execution.",
                             "list": [],
                             "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
@@ -210,7 +210,7 @@
                             "province": "West Lafayette, IN",
                             "country": "États-Unis",
                             "institution": "Purdue VIP",
-                            "text": "Développe des intégrations MCP pour un pipeline RAG multimodal avec l'équipe IA pour l'Éducation de Purdue — un serveur MCP en Python exposant les données Ed Discussion comme outils appelables par un LLM, ainsi qu'un serveur MCP de bac à sable E2B étendu pour l'exécution asynchrone et multimodale.",
+                            "text": "A développé des intégrations MCP pour un pipeline RAG multimodal avec l'équipe IA pour l'Éducation de Purdue — un serveur MCP en Python exposant les données Ed Discussion comme outils appelables par un LLM, ainsi qu'un serveur MCP de bac à sable E2B étendu pour l'exécution asynchrone et multimodale.",
                             "list": [],
                             "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
@@ -219,7 +219,7 @@
                             "province": "West Lafayette, IN",
                             "country": "अमेरिका",
                             "institution": "Purdue VIP",
-                            "text": "Purdue की AI इन एजुकेशन टीम के साथ मल्टीमॉडल RAG पाइपलाइन के लिए MCP इंटीग्रेशन बना रहे हैं — Ed Discussion डेटा को LLM-कॉल करने योग्य टूल्स के रूप में एक्सपोज़ करने वाला Python MCP सर्वर, साथ ही असिंक्रोनस मल्टीमॉडल एक्ज़ीक्यूशन के लिए विस्तारित E2B सैंडबॉक्स सर्वर।",
+                            "text": "Purdue की AI इन एजुकेशन टीम के साथ मल्टीमॉडल RAG पाइपलाइन के लिए MCP इंटीग्रेशन बनाए — Ed Discussion डेटा को LLM-कॉल करने योग्य टूल्स के रूप में एक्सपोज़ करने वाला Python MCP सर्वर, साथ ही असिंक्रोनस मल्टीमॉडल एक्ज़ीक्यूशन के लिए विस्तारित E2B सैंडबॉक्स सर्वर।",
                             "list": [],
                             "tags": ["Python", "MCP", "RAG", "R&D"]
                         },
@@ -228,7 +228,7 @@
                             "province": "West Lafayette, IN",
                             "country": "அமெரிக்கா",
                             "institution": "Purdue VIP",
-                            "text": "Purdue இன் கல்வியில் AI ஆராய்ச்சி குழுவுடன் பல்முக RAG பைப்லைனுக்கான MCP ஒருங்கிணைப்புகளை உருவாக்குகிறேன் — Ed Discussion தரவை LLM-அழைக்கக்கூடிய கருவிகளாக வெளிப்படுத்தும் Python MCP சேவையகம், மேலும் ஒத்திசைவற்ற பல்முக செயலாக்கத்திற்கான விரிவாக்கப்பட்ட E2B சாண்ட்பாக்ஸ் சேவையகம்.",
+                            "text": "Purdue இன் கல்வியில் AI ஆராய்ச்சி குழுவுடன் பல்முக RAG பைப்லைனுக்கான MCP ஒருங்கிணைப்புகளை உருவாக்கினேன் — Ed Discussion தரவை LLM-அழைக்கக்கூடிய கருவிகளாக வெளிப்படுத்தும் Python MCP சேவையகம், மேலும் ஒத்திசைவற்ற பல்முக செயலாக்கத்திற்கான விரிவாக்கப்பட்ட E2B சாண்ட்பாக்ஸ் சேவையகம்.",
                             "list": [],
                             "tags": ["Python", "MCP", "RAG", "R&D"]
                         }
