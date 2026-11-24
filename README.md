@@ -34,4 +34,4 @@ Additional frameworks and plugins used include:
 
 ## Copyright and License
 
-Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
+Code released under the [MIT](./LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
